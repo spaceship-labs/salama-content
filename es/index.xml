@@ -1,27 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>/</link>
-    <description>Recent content on </description>
+    <title>Es on </title>
+    <link>/es/</link>
+    <description>Recent content in Es on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title></title>
-      <link>/en/end-to-end-encryption/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/en/end-to-end-encryption/</guid>
-      <description>
-
-&lt;h2 id=&#34;egestas-massa-sapien-sed:afba5b0014c09f56a7b4ff055e954845&#34;&gt;Egestas massa sapien, sed&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum nec dui eu accumsan. Aenean imperdiet augue ac est imperdiet consequat. Aliquam volutpat accumsan justo, sed dictum metus interdum ut. Donec nec porta dui, quis auctor urna. Etiam facilisis eleifend sapien, vel porttitor mi imperdiet placerat. Aliquam sed sem tempus metus pharetra commodo. Nunc egestas massa sapien, sed porttitor erat mattis a. Praesent vestibulum fringilla orci, vitae imperdiet risus vehicula sit amet. Quisque suscipit dolor nec felis tristique, ut congue sem facilisis. Maecenas non convallis dui. Nulla porttitor neque ultricies fringilla sagittis. Nullam eget lobortis tellus, at placerat nibh. Integer mauris nulla, gravida quis feugiat id, laoreet non ex. Praesent et erat urna. Etiam pharetra nisi non aliquam interdum. Cras gravida massa mollis, porttitor libero sed, vestibulum nibh.&lt;/p&gt;
-
-&lt;p&gt;Mauris a tortor nisi. Fusce suscipit euismod nulla non congue. In in ex quis enim fringilla lobortis vel ac turpis. Donec vulputate sapien ornare tellus vestibulum, eu lobortis leo ultricies. Proin justo nulla, efficitur sed tincidunt a, consequat in neque. Proin est neque, finibus placerat justo eu, maximus accumsan risus. Curabitur ultrices ex eu metus porttitor, ac lobortis magna ultricies. Integer ullamcorper tristique dui nec sagittis. Fusce fermentum congue sem a ornare. Praesent turpis metus, venenatis nec tempus nec, eleifend ullamcorper metus. Duis id urna eget ipsum aliquet ullamcorper sed sollicitudin neque. Mauris id posuere ante. In rutrum tincidunt erat et tempor. Nunc quis placerat diam, ut finibus nisl. Cras eget pellentesque eros.&lt;/p&gt;
-</description>
-    </item>
+    <atom:link href="/es/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>

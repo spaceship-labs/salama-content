@@ -2,8 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://spaceship-labs.github.io/salama-content/</loc>
+    <loc>/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/end-to-end-encryption/</loc>
+  </url>
+  
+  <url>
+    <loc>/es/end-to-end-encryption/</loc>
   </url>
   
 </urlset>
