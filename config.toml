@@ -1,4 +1,4 @@
 baseurl = "http://spaceship-labs.github.io/salama-content"
 languageCode = "en-us"
-title = "Salama"
+title = "Salama Library"
 theme = "hugo-uno"
