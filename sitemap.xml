@@ -3,7 +3,13 @@
   
   <url>
     <loc>http://spaceship-labs.github.io/salama-content/</loc>
+    <lastmod>2016-01-31T22:23:13-06:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://spaceship-labs.github.io/salama-content/post/about/</loc>
+    <lastmod>2016-01-31T22:23:13-06:00</lastmod>
   </url>
   
 </urlset>
