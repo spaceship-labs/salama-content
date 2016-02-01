@@ -1,5 +1,0 @@
-prose:
-  rooturl: 'content/post'
-  siteurl: 'spaceship-labs.github.io/salama-content'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
-  media: 'media'
