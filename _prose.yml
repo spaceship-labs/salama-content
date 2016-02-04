@@ -4,7 +4,6 @@ prose:
   media: 'media'
   metadata:
     content/en_US:
-
       - name: "title"
         field:
           element: "text"
@@ -38,8 +37,7 @@ prose:
           element: "hidden"
           value: "en_US"
 
-    content/en_US:
-
+    content/es_MX:
       - name: "title"
         field:
           element: "text"
