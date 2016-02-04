@@ -26,7 +26,7 @@ prose:
         field:
           element: "checkbox"
           label: "Should I publish this post?"
-          value: "false"
+          value: false
 
       - name: "date"
         field:
@@ -61,7 +61,7 @@ prose:
         field:
           element: "checkbox"
           label: "¿Desea que se publique este post?"
-          value: "false"
+          value: false
 
       - name: "date"
         field:
