@@ -1,14 +1,18 @@
 var mm = require('marky-mark');
+var _path = require('path');
 
 module.exports=metaGenerator;
 
-function metaGenerator(){
-  var gitpath='content'
-  var path = __dirname+'/../'+gitpath;
-  var posts= mm.parseDirectorySync(path)
+function metaGenerator(path){
+  var posts=getPosts(path)
     .filter(validatePosts)
-    .map(getMeta);
-  return separateByLang(posts);  
+    .map(getMeta); 
+
+  return separateByLang( posts );
+
+  function getPosts(path){
+    return mm.parseDirectorySync(path);
+  }
 
   function validatePosts(post){
     var meta=post.meta;
@@ -17,21 +21,22 @@ function metaGenerator(){
   }
 
   function getMeta(post){
-    var meta=post.meta;
-    meta.path= gitpath+'/'+meta.language+'/'+post.filename+'.md';
-    return meta;
+      var basename=_path.basename(path);
+      var meta=post.meta;
+      meta.path=_path.join(basename,meta.language,post.filename+'.md');
+      return meta;
   }
 
   function separateByLang(posts){
-    var langs={all:posts}; 
+    var langs={ all:posts }; 
     posts.forEach(function(post){
       var lang=post.language;
-      if( !langs[lang]){
+      if( !langs[lang] ){
         langs[lang]=[];
       }
       langs[lang].push(post);
     });
     return langs;
   }
-}
 
+}
