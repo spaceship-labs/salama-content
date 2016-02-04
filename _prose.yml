@@ -1,4 +1,17 @@
 prose:
   rooturl: 'content'
   siteurl: 'http://spaceship-labs.github.io/salama-content'
-  media: 'images'
+  media: 'media'
+  metadata:
+    content:
+      - name: "language" 
+        field: 
+          element: "hidden"
+          value: "en"
+      - name: "published"
+        field:
+          element: "button"
+          label: "Publish this post"
+          on: "true"
+          off: "false"
+      
