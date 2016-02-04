@@ -1,0 +1,24 @@
+{
+  "name": "metagenerator",
+  "version": "1.0.0",
+  "description": "a meta generator for the articles of this repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "salama-content"
+  },
+  "keywords": [
+    "markdown",
+    "yaml"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "marky-mark": "^1.2.1",
+    "mocha": "^2.4.5"
+  }
+}
