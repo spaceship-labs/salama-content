@@ -3,15 +3,73 @@ prose:
   siteurl: 'http://spaceship-labs.github.io/salama-content'
   media: 'media'
   metadata:
-    content:
+    content/en_US:
+
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          help: "Title of this post"
+
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          help: "Please write your name"
+
+      - name: "description"
+        field:
+          element: "textarea"
+          label: "Description"
+          help: "Please describe this post"
+
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Should I publish this post?"
+
+      - name: "date"
+        field:
+          element: "hidden"
+          value: "CURRENT_DATETIME"
+
       - name: "language" 
         field: 
           element: "hidden"
-          value: "en"
+          value: "en_US"
+
+    content/en_US:
+
+      - name: "title"
+        field:
+          element: "text"
+          label: "Título"
+          help: "Título del post"
+
+      - name: "author"
+        field:
+          element: "text"
+          label: "Autor"
+          help: "Por favor escriba su nombre"
+
+      - name: "description"
+        field:
+          element: "textarea"
+          label: "Descripción"
+          help: "Por favor escriba una descripción"
+
       - name: "published"
         field:
-          element: "button"
-          label: "Publish this post"
-          on: "true"
-          off: "false"
-      
+          element: "checkbox"
+          label: "¿Desea que se publique este post?"
+
+      - name: "date"
+        field:
+          element: "hidden"
+          value: "CURRENT_DATETIME"
+
+      - name: "language" 
+        field: 
+          element: "hidden"
+          value: "es_MX"
+
