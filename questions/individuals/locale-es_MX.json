@@ -6,9 +6,9 @@
       "type": "text"
     },
     {
-      "question": "Correso electrónico",
+      "question": "Correo electrónico",
       "instruction": "Por favor escribe tu correo electrónico, (Los resultados serán enviados a este correo electrónico).",
-      "type": "text"
+      "type": "email"
     },
     {
       "question": "Entrenamiento Individualizado",
@@ -102,7 +102,7 @@
     {
       "question": "Situación de seguridad",
       "instruction": "Por favor elige una opción",
-      "type": "multiRadio",
+      "type": "multiradio",
       "options": [
         {
           "question": "¿Cubres notas de policía o crimen?",
@@ -234,7 +234,7 @@
     {
       "question": "Situación de censura",
       "instruction": "Por favor elige una opción",
-      "type": "multiRadio",
+      "type": "multiradio",
       "options": [
         {
           "question": "¿Recibes presiones externas para censurar tus información?",
@@ -316,7 +316,7 @@
     {
       "question": "Situación profesional",
       "instruction": "Por favor elige una opción",
-      "type": "multiRadio",
+      "type": "multiradio",
       "options": [
         {
           "question": "¿Qué tanto planificas tus coberturas?",
@@ -423,7 +423,7 @@
     {
       "question": "Seguridad de redes",
       "instruction": "Por favor elige una opción",
-      "type": "multiRadio",
+      "type": "multiradio",
       "options": [
         {
           "question": "¿Cómo es la comunicación con tus jefes?",
@@ -505,7 +505,7 @@
     {
       "question": "Seguridad laboral",
       "instruction": "Califica tus condiciones de trabajo. Por favor elige una opción",
-      "type": "multiRadio",
+      "type": "multiradio",
       "options": [
         {
           "question": "¿Cómo es tu condición laboral (sueldo, prestaciones)",
@@ -562,7 +562,7 @@
     {
       "question": "Seguridad digital",
       "instruction": "Califica tu habilidad en el uso de las siguientes herramientas de seguridad",
-      "type": "multiRadio",
+      "type": "multiradio",
       "options": [
         {
           "question": "Navegación anónima (TOR)",

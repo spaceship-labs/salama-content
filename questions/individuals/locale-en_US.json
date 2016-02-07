@@ -8,7 +8,7 @@
     {
       "question": "E-mail Address",
       "instruction": "Please write your e-mail address. (Results of your assessment will be emailed to you.)",
-      "type": "text"
+      "type": "email"
     },
     {
       "question": "Personalized Training",
@@ -102,7 +102,7 @@
     {
       "question": "Security Situation",
       "instruction": "Please check the proper boxes",
-      "type": "multiRadio",
+      "type": "multiradio",
       "options": [
         {
           "question": "Do you cover crime?",
@@ -234,7 +234,7 @@
     {
       "question": "Censorship Situation",
       "instruction": "Please check the proper boxes",
-      "type": "multiRadio",
+      "type": "multiradio",
       "options": [
         {
           "question": "Do you receive external pressures to publish or not publish information? ",
@@ -316,7 +316,7 @@
     {
       "question": "Professional situation ",
       "instruction": "Please check the proper box",
-      "type": "multiRadio",
+      "type": "multiradio",
       "options": [
         {
           "question": "Do you plan your stories?",
@@ -423,7 +423,7 @@
     {
       "question": "Support networks",
       "instruction": "Please check the proper boxes",
-      "type": "multiRadio",
+      "type": "multiradio",
       "options": [
         {
           "question": "How is communication with your bosses?",
@@ -505,7 +505,7 @@
     {
       "question": "Labor security ",
       "instruction": "Analyze your condition at work. Please check the proper boxes",
-      "type": "multiRadio",
+      "type": "multiradio",
       "options": [
         {
           "question": "Your labor conditions (salary, benefits) are...",
@@ -562,7 +562,7 @@
     {
       "question": "Digital security",
       "instruction": "Please rank your skills in these digital security tools",
-      "type": "multiRadio",
+      "type": "multiradio",
       "options": [
         {
           "question": "Anonymous navigation (TOR)",
