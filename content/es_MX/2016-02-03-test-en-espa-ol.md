@@ -8,9 +8,12 @@ title: Test en español
 ---
 
 
+
 # Est feror simulatoremque fuerat
 
 ## Venenis veni debita metu generum
+
+![Firma-Salvador-Barron.png]({{site.baseurl}}/media/Firma-Salvador-Barron.png)
 
 Lorem markdownum vita. Viri dixit aditus ibi una est; levem atque hunc inque
 terebat.
