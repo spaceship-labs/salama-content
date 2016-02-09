@@ -1,6 +1,5 @@
 prose:
   rooturl: 'content'
-  siteurl: 'http://spaceship-labs.github.io/salama-content'
   media: 'media'
   metadata:
     content/en_US:
