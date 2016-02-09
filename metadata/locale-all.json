@@ -25,5 +25,14 @@
     "published": true,
     "title": "Test en español",
     "path": "content/es_MX/2016-02-03-test-en-espa-ol.md"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-02-09 10:37 -0600",
+    "author": "tugorez",
+    "description": "lorem ipsum",
+    "published": true,
+    "title": "Lorem ipsum español",
+    "path": "content/es_MX/2016-02-09-lorem-ipsum-espa-ol.md"
   }
 ]
