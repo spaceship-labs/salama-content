@@ -3,9 +3,10 @@ language: es_MX
 date: "2016-02-09 10:37 -0600"
 author: tugorez
 description: lorem ipsum
-published: false
+published: true
 title: Lorem ipsum español
 ---
+
 
 # Signaque Pelops est secuti et Sabaea avenis
 
