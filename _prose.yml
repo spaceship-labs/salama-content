@@ -1,5 +1,7 @@
 prose:
   rooturl: 'content'
+  baseurl: 'http://spaceship-labs.github.io/salama'
+  siteurl: 'http://spaceship-labs.github.io/salama'
   media: 'media'
   metadata:
     content/en_US:
