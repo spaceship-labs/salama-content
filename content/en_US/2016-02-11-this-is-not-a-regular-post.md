@@ -1,11 +1,12 @@
 ---
 language: en_US
 date: "2016-02-11 12:38 -0600"
-author: ""
-description: null
-published: false
+author: tugorez
+description: post
+published: true
 title: "This is not a regular post "
 ---
+
 
 ## A New Post
 
