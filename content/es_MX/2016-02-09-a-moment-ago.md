@@ -5,7 +5,10 @@ author: tugorez
 description: a moment ago...
 published: true
 title: A moment ago...
+tags: 
+  - digital
 ---
+
 
 ## Post created a moment ago
 
