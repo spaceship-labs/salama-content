@@ -2,7 +2,7 @@ var fs = require('fs');
 var _path = require('path');
 var meta = require('./metagenerator');
 
-var pathContent = _path.join(__dirname,'content');
+var pathContent = _path.join(__dirname,'library');
 var pathMeta = _path.join(__dirname,'metadata');
 var posts = meta(pathContent);
 var prefix = 'locale-';

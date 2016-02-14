@@ -1,10 +1,10 @@
 prose:
-  rooturl: 'content'
+  rooturl: 'library'
   baseurl: 'http://spaceship-labs.github.io/salama'
   siteurl: 'http://spaceship-labs.github.io/salama'
   media: 'media'
   metadata:
-    content/en_US:
+    library/en_US:
       - name: "title"
         field:
           element: "text"
@@ -48,7 +48,7 @@ prose:
           element: "hidden"
           value: "en_US"
 
-    content/es_MX:
+    library/es_MX:
       - name: "title"
         field:
           element: "text"

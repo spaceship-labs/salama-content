@@ -6,7 +6,7 @@
     "description": "lorem ipsum",
     "published": true,
     "title": "Lorem markdown",
-    "path": "content/en_US/2016-02-09-lorem-markdown.md"
+    "path": "library/en_US/2016-02-09-lorem-markdown.md"
   },
   {
     "language": "en_US",
@@ -15,7 +15,7 @@
     "description": "Tugorez",
     "published": true,
     "title": "new post for test",
-    "path": "content/en_US/2016-02-11-new-post-for-test.md"
+    "path": "library/en_US/2016-02-11-new-post-for-test.md"
   },
   {
     "language": "en_US",
@@ -24,7 +24,7 @@
     "description": "post",
     "published": true,
     "title": "This is not a regular post ",
-    "path": "content/en_US/2016-02-11-this-is-not-a-regular-post.md"
+    "path": "library/en_US/2016-02-11-this-is-not-a-regular-post.md"
   },
   {
     "language": "en_US",
@@ -33,7 +33,7 @@
     "author": "English Author",
     "description": "English Desc",
     "published": true,
-    "path": "content/en_US/test.md"
+    "path": "library/en_US/test.md"
   },
   {
     "language": "es_MX",
@@ -42,7 +42,7 @@
     "description": "Descripción en español",
     "published": true,
     "title": "Test en español",
-    "path": "content/es_MX/2016-02-03-test-en-espa-ol.md"
+    "path": "library/es_MX/2016-02-03-test-en-espa-ol.md"
   },
   {
     "language": "es_MX",
@@ -51,7 +51,10 @@
     "description": "a moment ago...",
     "published": true,
     "title": "A moment ago...",
-    "path": "content/es_MX/2016-02-09-a-moment-ago.md"
+    "tags": [
+      "digital"
+    ],
+    "path": "library/es_MX/2016-02-09-a-moment-ago.md"
   },
   {
     "language": "es_MX",
@@ -60,7 +63,7 @@
     "description": "Post creado un momento atrás",
     "published": true,
     "title": "Creado un momento atras",
-    "path": "content/es_MX/2016-02-09-creado-un-momento-atras.md"
+    "path": "library/es_MX/2016-02-09-creado-un-momento-atras.md"
   },
   {
     "language": "es_MX",
@@ -69,6 +72,6 @@
     "description": "lorem ipsum",
     "published": true,
     "title": "Lorem ipsum español",
-    "path": "content/es_MX/2016-02-09-lorem-ipsum-espa-ol.md"
+    "path": "library/es_MX/2016-02-09-lorem-ipsum-espa-ol.md"
   }
 ]
