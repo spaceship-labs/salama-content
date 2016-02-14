@@ -6,7 +6,7 @@
     "description": "Descripción en español",
     "published": true,
     "title": "Test en español",
-    "path": "content/es_MX/2016-02-03-test-en-espa-ol.md"
+    "path": "library/es_MX/2016-02-03-test-en-espa-ol.md"
   },
   {
     "language": "es_MX",
@@ -18,7 +18,7 @@
     "tags": [
       "digital"
     ],
-    "path": "content/es_MX/2016-02-09-a-moment-ago.md"
+    "path": "library/es_MX/2016-02-09-a-moment-ago.md"
   },
   {
     "language": "es_MX",
@@ -27,7 +27,7 @@
     "description": "Post creado un momento atrás",
     "published": true,
     "title": "Creado un momento atras",
-    "path": "content/es_MX/2016-02-09-creado-un-momento-atras.md"
+    "path": "library/es_MX/2016-02-09-creado-un-momento-atras.md"
   },
   {
     "language": "es_MX",
@@ -36,6 +36,6 @@
     "description": "lorem ipsum",
     "published": true,
     "title": "Lorem ipsum español",
-    "path": "content/es_MX/2016-02-09-lorem-ipsum-espa-ol.md"
+    "path": "library/es_MX/2016-02-09-lorem-ipsum-espa-ol.md"
   }
 ]
