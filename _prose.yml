@@ -57,6 +57,15 @@ prose:
           element: "textarea"
           label: "Descripción"
           help: "Por favor escriba una descripción"
+            
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Agregue categorias"
+          placeholder: "Escoja categorias"
+          options:
+            - name: "Seguridad Digital"
+              value: "digital"
 
       - name: "published"
         field:
