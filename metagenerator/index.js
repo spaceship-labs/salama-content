@@ -21,9 +21,8 @@ function metaGenerator(path){
   }
 
   function getMeta(post){
-      var basename=_path.basename(path);
       var meta=post.meta;
-      meta.path=_path.join(basename,meta.language,post.filename+'.md');
+      meta.path=_path.join(meta.language,post.filename+'.md');
       return meta;
   }
 
