@@ -6,7 +6,7 @@
     "description": "lorem ipsum",
     "published": true,
     "title": "Lorem markdown",
-    "path": "library/en_US/2016-02-09-lorem-markdown.md"
+    "path": "posts/en_US/2016-02-09-lorem-markdown.md"
   },
   {
     "language": "en_US",
@@ -15,7 +15,7 @@
     "description": "Tugorez",
     "published": true,
     "title": "new post for test",
-    "path": "library/en_US/2016-02-11-new-post-for-test.md"
+    "path": "posts/en_US/2016-02-11-new-post-for-test.md"
   },
   {
     "language": "en_US",
@@ -24,7 +24,7 @@
     "description": "post",
     "published": true,
     "title": "This is not a regular post ",
-    "path": "library/en_US/2016-02-11-this-is-not-a-regular-post.md"
+    "path": "posts/en_US/2016-02-11-this-is-not-a-regular-post.md"
   },
   {
     "language": "en_US",
@@ -33,6 +33,6 @@
     "author": "English Author",
     "description": "English Desc",
     "published": true,
-    "path": "library/en_US/test.md"
+    "path": "posts/en_US/test.md"
   }
 ]
