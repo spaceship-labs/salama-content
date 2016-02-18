@@ -73,5 +73,17 @@
     "published": true,
     "title": "Lorem ipsum español",
     "path": "es_MX/2016-02-09-lorem-ipsum-espa-ol.md"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-02-18 01:46 -0600",
+    "author": "tugorez",
+    "description": "testing",
+    "tags": [
+      "digital"
+    ],
+    "published": true,
+    "title": "Post de prueba",
+    "path": "es_MX/2016-02-18-post-de-prueba.md"
   }
 ]
