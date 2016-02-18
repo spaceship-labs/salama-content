@@ -5,9 +5,10 @@ author: tugorez
 description: testing
 tags: 
   - digital
-published: false
+published: true
 title: Segundo post de prueba
 ---
+
 
 ## A New Post
 
