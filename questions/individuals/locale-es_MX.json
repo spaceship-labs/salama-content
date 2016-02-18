@@ -62,7 +62,7 @@
       "type": "radio",
       "options": [
         {
-          "value": 0,
+          "value": 20,
           "option": "Si"
         },
         {
@@ -76,7 +76,7 @@
       "type": "radio",
       "options": [
         {
-          "value": 0,
+          "value": 20,
           "option": "Si"
         },
         {
@@ -90,7 +90,7 @@
       "type": "radio",
       "options": [
         {
-          "value": 0,
+          "value": 20,
           "option": "Si"
         },
         {
@@ -108,23 +108,23 @@
           "question": "¿Cubres notas de policía o crimen?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Nunca"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "A veces"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularmente"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Con mucha frecuencia"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Todos los días"
             }
           ]
@@ -133,23 +133,23 @@
           "question": "¿Cubres hechos de corrupción?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Nunca"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "A veces"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularmente"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Con mucha frecuencia"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Todos los días"
             }
           ]
@@ -158,23 +158,23 @@
           "question": "¿Cubres hechos violentos? (Asesinatos, disturbios, golpes)",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Nunca"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "A veces"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularmente"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Con mucha frecuencia"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Todos los días"
             }
           ]
@@ -183,23 +183,23 @@
           "question": "¿Con qué frecuencia acudes a zonas de alto riesgo?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Nunca"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "A veces"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularmente"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Con mucha frecuencia"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Todos los días"
             }
           ]
@@ -208,23 +208,23 @@
           "question": "¿Recibes Información confidencial de tus fuentes?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Nunca"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "A veces"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularmente"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Con mucha frecuencia"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Todos los días"
             }
           ]
@@ -240,23 +240,23 @@
           "question": "¿Recibes presiones externas para censurar tus información?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Nunca"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "A veces"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularmente"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Con mucha frecuencia"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Todos los días"
             }
           ]
@@ -265,23 +265,23 @@
           "question": "¿Recibes presiones internas para censurar tus información?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Nunca"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "A veces"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularmente"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Con mucha frecuencia"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Todos los días"
             }
           ]
@@ -290,23 +290,23 @@
           "question": "¿Practicas autocensura?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Nunca"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "A veces"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularmente"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Con mucha frecuencia"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Todos los días"
             }
           ]
@@ -322,23 +322,23 @@
           "question": "¿Qué tanto planificas tus coberturas?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Todos los días"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Con mucha frecuencia"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularmente"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "A veces"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Nunca"
             }
           ]
@@ -347,23 +347,23 @@
           "question": "¿Con qué frecuencia verificas la información que consigues y publicas?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Todos los días"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Con mucha frecuencia"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularmente"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "A veces"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Nunca"
             }
           ]
@@ -372,23 +372,23 @@
           "question": "¿Con qué frecuencia analizas los principios y valores éticos del periodismo antes de publicar la información que consigues?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Todos los días"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Con mucha frecuencia"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularmente"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "A veces"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Nunca"
             }
           ]
@@ -397,23 +397,23 @@
           "question": "¿Usas protocolos de reducción de riesgo en tu trabajo?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Todos los días"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Con mucha frecuencia"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularmente"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "A veces"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Nunca"
             }
           ]
@@ -429,23 +429,23 @@
           "question": "¿Cómo es la comunicación con tus jefes?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Excelente"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Buena"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Deficiente"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Mala"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Pésima"
             }
           ]
@@ -454,23 +454,23 @@
           "question": "¿Cómo es la comunicación con tus subalternos?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Excelente"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Buena"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Deficiente"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Mala"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Pésima"
             }
           ]
@@ -479,23 +479,23 @@
           "question": "Cómo es la comunicación con tus colegas de otros medios?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Excelente"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Buena"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Deficiente"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Mala"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Pésima"
             }
           ]
@@ -511,23 +511,23 @@
           "question": "¿Cómo es tu condición laboral (sueldo, prestaciones)",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Excelente"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Buena"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Deficiente"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Mala"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Pésima"
             }
           ]
@@ -536,23 +536,23 @@
           "question": "Califica la voluntad y acciones de tu empresa para mejorar tu seguridad",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Excelente"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Buena"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Deficiente"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Mala"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Pésima"
             }
           ]
@@ -568,23 +568,23 @@
           "question": "Navegación anónima (TOR)",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Maestro"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Avanzada"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Intermedia"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Básica"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Ninguna"
             }
           ]
@@ -593,23 +593,23 @@
           "question": "Correo encriptado (PGP, Protogmail, Mailvelope, Hushmail)",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Maestro"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Avanzada"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Intermedia"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Básica"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Ninguna"
             }
           ]
@@ -618,23 +618,23 @@
           "question": "Chat encriptado (OTR+Pidgin, OTR+Adium, Cryptocat, etc)",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Maestro"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Avanzada"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Intermedia"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Básica"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Ninguna"
             }
           ]
@@ -643,23 +643,23 @@
           "question": "Contraseñas fuertes",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Maestro"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Avanzada"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Intermedia"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Básica"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Ninguna"
             }
           ]
@@ -668,23 +668,23 @@
           "question": "Llamadas telefónicas (RedPhone, Signal, Ostel)",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Maestro"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Avanzada"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Intermedia"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Básica"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Ninguna"
             }
           ]
