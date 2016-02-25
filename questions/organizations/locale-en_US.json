@@ -12,7 +12,7 @@
     },
     {
       "question": "Personalized Training",
-      "type": "radio",
+      "type": "checkbox",
       "options": [
         {
           "value": 0,
