@@ -12,7 +12,7 @@
     },
     {
       "question": "Personalized Training",
-      "type": "checkbox",
+      "type": "radio",
       "options": [
         {
           "value": 0,
@@ -33,7 +33,7 @@
     {
       "question": "Areas of Work",
       "instruction": "In the current security environment, all members of a media organization share the same level of risk. However, journalists in one areas may face more risks than others. Please select your area or areas of work in your media organization",
-      "type": "checkbox",
+      "type": "radio",
       "options": [
         {
           "value": 0,
