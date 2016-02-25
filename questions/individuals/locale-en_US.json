@@ -62,7 +62,7 @@
       "type": "radio",
       "options": [
         {
-          "value": 0,
+          "value": 20,
           "option": "Yes"
         },
         {
@@ -76,7 +76,7 @@
       "type": "radio",
       "options": [
         {
-          "value": 0,
+          "value": 20,
           "option": "Yes"
         },
         {
@@ -90,7 +90,7 @@
       "type": "radio",
       "options": [
         {
-          "value": 0,
+          "value": 20,
           "option": "Yes"
         },
         {
@@ -108,23 +108,23 @@
           "question": "Do you cover crime?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Never"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Sometimes"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularly"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Often"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Very often"
             }
           ]
@@ -133,23 +133,23 @@
           "question": "Do you cover corruption?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Never"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Sometimes"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularly"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Often"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Very often"
             }
           ]
@@ -158,23 +158,23 @@
           "question": "Do you cover violent incidents? (Example: murders, riots, beatings)",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Never"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Sometimes"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularly"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Often"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Very often"
             }
           ]
@@ -183,23 +183,23 @@
           "question": "How often do you cover dangerous zones?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Never"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Sometimes"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularly"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Often"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Very often"
             }
           ]
@@ -208,23 +208,23 @@
           "question": "How often do you receive confidential information?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Never"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Sometimes"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularly"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Often"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Very often"
             }
           ]
@@ -240,23 +240,23 @@
           "question": "Do you receive external pressures to publish or not publish information? ",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Never"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Sometimes"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularly"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Often"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Very Often"
             }
           ]
@@ -265,23 +265,23 @@
           "question": "Do you receive internal pressures to publish or not publish information? ",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Never"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Sometimes"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularly"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Often"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Very Often"
             }
           ]
@@ -290,23 +290,23 @@
           "question": "Do you practice self-censorship?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Never"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Sometimes"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularly"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Often"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Very Often"
             }
           ]
@@ -322,23 +322,23 @@
           "question": "Do you plan your stories?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Very often"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Often"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularly"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Sometimes"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Never"
             }
           ]
@@ -347,23 +347,23 @@
           "question": "Do you verify your information?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Very often"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Often"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularly"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Sometimes"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Never"
             }
           ]
@@ -372,23 +372,23 @@
           "question": "Do you use ethical guidelines?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Very often"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Often"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularly"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Sometimes"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Never"
             }
           ]
@@ -397,23 +397,23 @@
           "question": "Do you use security protocols?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Very often"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Often"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Regularly"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Sometimes"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Never"
             }
           ]
@@ -429,23 +429,23 @@
           "question": "How is communication with your bosses?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Excellent"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Good"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Just fair"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Bad"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Very bad"
             }
           ]
@@ -454,23 +454,23 @@
           "question": "How is communication with the people you oversee?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Excellent"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Good"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Just fair"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Bad"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Very bad"
             }
           ]
@@ -479,23 +479,23 @@
           "question": "How is communication with your colleagues inside and outside your organization?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Excellent"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Good"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Just fair"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Bad"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Very bad"
             }
           ]
@@ -511,23 +511,23 @@
           "question": "Your labor conditions (salary, benefits) are...",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Excellent"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Good"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Just Fair"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Bad"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Very bad"
             }
           ]
@@ -536,23 +536,23 @@
           "question": "How are your media organization's policy and actions to increase your security?",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Excellent"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Good"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Just Fair"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Bad"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "Very bad"
             }
           ]
@@ -568,23 +568,23 @@
           "question": "Anonymous navigation (TOR)",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Master"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Advanced"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Internediate"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Basic"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "None"
             }
           ]
@@ -593,23 +593,23 @@
           "question": "Encrypted email (PGP, Protonmail, Mailvelope, Hushmail)",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Master"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Advanced"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Internediate"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Basic"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "None"
             }
           ]
@@ -618,23 +618,23 @@
           "question": "Encrypted chat (OTR+Pidgin, OTR+Adium, Cryptocat, etc)",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Master"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Advanced"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Internediate"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Basic"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "None"
             }
           ]
@@ -643,23 +643,23 @@
           "question": "Strong passwords",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Master"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Advanced"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Internediate"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Basic"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "None"
             }
           ]
@@ -668,23 +668,23 @@
           "question": "Encrypted phone calls (RedPhone, Signal, Ostel)",
           "options": [
             {
-              "value": 0,
+              "value": 1,
               "option": "Master"
             },
             {
-              "value": 0,
+              "value": 2,
               "option": "Advanced"
             },
             {
-              "value": 0,
+              "value": 3,
               "option": "Internediate"
             },
             {
-              "value": 0,
+              "value": 4,
               "option": "Basic"
             },
             {
-              "value": 0,
+              "value": 5,
               "option": "None"
             }
           ]
