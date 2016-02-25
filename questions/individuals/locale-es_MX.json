@@ -33,7 +33,7 @@
     {
       "question": "Puesto",
       "instruction": "Todos los periodistas o trabajadores de medios comparten los mismos riesgos. Sin embargo algunas posiciones enfrentan más riesgo que otras. Por favor define en qué área trabajas. Elige las opciones que apliquen.",
-      "type": "radio",
+      "type": "checkbox",
       "options": [
         {
           "value": 0,
