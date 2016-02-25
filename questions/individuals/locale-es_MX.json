@@ -12,7 +12,7 @@
     },
     {
       "question": "Entrenamiento Individualizado",
-      "type": "checkbox",
+      "type": "radio",
       "options": [
         {
           "value": 0,
@@ -33,7 +33,7 @@
     {
       "question": "Puesto",
       "instruction": "Todos los periodistas o trabajadores de medios comparten los mismos riesgos. Sin embargo algunas posiciones enfrentan más riesgo que otras. Por favor define en qué área trabajas. Elige las opciones que apliquen.",
-      "type": "checkbox",
+      "type": "radio",
       "options": [
         {
           "value": 0,
