@@ -12,10 +12,10 @@
     },
     {
       "question": "Entrenamiento Individualizado",
-      "type": "radio",
+      "type": "checkbox",
       "options": [
         {
-          "value": 0,
+          "value": 1,
           "option": "Si, deseo recibir entrenamiento individualizado"
         }
       ]
