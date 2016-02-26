@@ -5,7 +5,9 @@ author: Tugorez
 description: Tugorez
 published: true
 title: new post for test
+tags: laboral security
 ---
+
 
 ## A New Post
 
