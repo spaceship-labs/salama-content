@@ -31,10 +31,10 @@ prose:
           options:
             - name: "Digital Security"
               value: "digital security"
-            - name: "Seguridad Laboral"
-              value: "seguridad laboral"
-            - name: "Otros"
-              value: "otros"
+            - name: "Laboral Security"
+              value: "laboral security"
+            - name: "Others"
+              value: "others"
               
       - name: "published"
         field:
