@@ -8,5 +8,15 @@
     "published": true,
     "title": "Test in english - Digital Security",
     "path": "en_US/2016-02-26-test-in-english-digital-security.md"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-02-26 16:51 -0600",
+    "author": "tugorez",
+    "description": "Es un test",
+    "category": "otros",
+    "published": true,
+    "title": "Testeando - Otros ",
+    "path": "es_MX/2016-02-26-testeando-otros.md"
   }
 ]
