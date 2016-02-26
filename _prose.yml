@@ -76,7 +76,10 @@ prose:
           options:
             - name: "Seguridad Digital"
               value: "seguridad digital"
-
+            - name: "Seguridad Laboral"
+              value: "seguridad laboral"
+            - name: "Otros"
+              value: "otros"
 
       - name: "published"
         field:
