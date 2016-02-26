@@ -69,12 +69,12 @@ prose:
             
       - name: "tags"
         field:
-          element: "multiselect"
+          element: "select"
           label: "Agregue categorias"
           placeholder: "Escoja categorias"
           options:
             - name: "Seguridad Digital"
-              value: "digital"
+              value: "seguridad digital"
 
       - name: "published"
         field:
