@@ -12,6 +12,8 @@ title: "Testeando - Otros "
 
 ## Vis fraterni et pastae ipso quae erat
 
+![catlel.gif]({{site.baseurl}}/media/catlel.gif)
+
 Lorem markdownum biiugum domum et figere ita *dolor*, adsiduoque tellure
 terruerat Palladis, totidem, ebur? Arbore litusque currus custodes modicisque
 placidique micant; ego Somni. Ora Iovem sollemni quod facta pereuntem: secutae
