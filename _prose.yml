@@ -25,13 +25,16 @@ prose:
 
       - name: "tags"
         field:
-          element: "multiselect"
-          label: "Add tags"
-          placeholder: "Choose tags"
+          element: "select"
+          label: "Category"
+          placeholder: "Choose a category"
           options:
             - name: "Digital Security"
-              value: "digital"
-
+              value: "digital security"
+            - name: "Laboral Security"
+              value: "laboral security"
+            - name: "Others":
+              value: "others"
       - name: "published"
         field:
           element: "checkbox"
@@ -70,11 +73,15 @@ prose:
       - name: "tags"
         field:
           element: "select"
-          label: "Agregue categorias"
-          placeholder: "Escoja categorias"
+          label: "Categoria"
+          placeholder: "Escoja una categoria"
           options:
             - name: "Seguridad Digital"
               value: "seguridad digital"
+            - name: "Seguridad Laboral"
+              value: "seguridad laboral"
+            - name: "Otros"
+              value: "otros"
 
       - name: "published"
         field:
