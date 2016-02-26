@@ -23,7 +23,7 @@ prose:
           label: "Description"
           help: "Please describe this post"
 
-      - name: "tags"
+      - name: "category"
         field:
           element: "select"
           label: "Category"
@@ -71,7 +71,7 @@ prose:
           label: "Descripción"
           help: "Por favor escriba una descripción"
             
-      - name: "tags"
+      - name: "category"
         field:
           element: "select"
           label: "Categoria"
