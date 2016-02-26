@@ -35,6 +35,7 @@ prose:
               value: "laboral security"
             - name: "Others":
               value: "others"
+              
       - name: "published"
         field:
           element: "checkbox"
@@ -98,4 +99,3 @@ prose:
         field: 
           element: "hidden"
           value: "es_MX"
-
