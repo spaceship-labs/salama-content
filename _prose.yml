@@ -1,5 +1,5 @@
 prose:
-  rooturl: 'posts'
+  ignore: ['metadata', 'metagenerator', '_prose.yml', 'media', 'metagenerate.js']
   baseurl: 'http://spaceship-labs.github.io/salama'
   siteurl: 'http://spaceship-labs.github.io/salama'
   media: 'media'
