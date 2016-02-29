@@ -1,4 +1,4 @@
-# High risk - You reached more than 60 points
+# Extreme risk - You reached more than 80 points
 
 You are under a potential high risk. 
 In high levels of risk, journalists may suffer serious physical, psychological, legal or digital damage. 

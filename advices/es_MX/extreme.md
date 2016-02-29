@@ -1,4 +1,4 @@
-# Nivel de riesgo alto - Más de 60 puntos
+# Nivel de riesgo extremo - más de 80 puntos
 
 Alcanzaste más de 60 puntos y estás probablemente en un riesgo potencial alto. 
 En estos niveles de riesgo, los periodistas pueden sufrir ataques con daños serios a su integridad física, psicológica, legal o digital. 
