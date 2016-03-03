@@ -1,738 +1,1162 @@
 {
-  "questions": [
+  "pages": [
+
     {
-      "type": "contact",
-      "questions": [
-        {
-          "question": "Name",
-          "instruction": "If you want to remain anonymous, please don't fill the space name. We need your emal address to email the results to you.  If you want to receive taylored and individual advice, please write your name.",
-          "type": "text"
-        },
-        {
-          "question": "E-mail Address",
-          "instruction": "Please write your e-mail address. (Results of your assessment will be emailed to you.)",
-          "type": "email"
-        }
-      ]
-    },
-    {
-      "type": "general",
+      "type": "one-column" ,
       "questions":[
         {
-          "question": "Personalized Training",
-          "type": "checkbox",
-          "options": [
-            {
-              "value": 0,
-              "option": "Yes, I would like to receive personalized training from ICFJ."
-            }
-          ]
+          "name": "medium",
+          "input":"text",
+          "title":"Medio de comunicación",
+          "instruction":"Por favor anota el nombre de tu organización"
         },
         {
-          "question": "Media Organization",
-          "instruction": "Please write the name of your media organization (if you are a freelancer, please write it)",
-          "type": "text"
+          "name": "section",
+          "input": "text",
+          "title": "Sección",
+          "instruction": "Por favor anota el nombre de tu sección o departamento"
         },
         {
-          "question": "District (Municipality) and Province (Department)",
-          "instruction": "Please write the name of your municipality (district) and Province. For example: Mahmudiya, Baghdad",
-          "type": "text"
+          "name": "members",
+          "input": "text",
+          "title": "Integrantes",
+          "instruction": "Por favor anota el número de integrantes de tu sección o departamento"
         },
         {
-          "question": "Areas of Work",
-          "instruction": "In the current security environment, all members of a media organization share the same level of risk. However, journalists in one areas may face more risks than others. Please select your area or areas of work in your media organization",
-          "type": "checkbox",
-          "options": [
-            {
-              "value": 0,
-              "option": "Production and Circulation"
-            },
-            {
-              "value": 0,
-              "option": "Community Manager"
-            },
-            {
-              "value": 0,
-              "option": "Edition"
-            },
-            {
-              "value": 0,
-              "option": "Direction or Management"
-            },
-            {
-              "value": 0,
-              "option": "Reporter, Photographer or Blogger"
-            }
-          ]
+          "name": "participants",
+          "input": "text",
+          "title": "Participantes",
+          "instruction": "Por favor anota el nombre de las personas que participan en el análisis de riesgo"
         }
       ]
     },
     {
-      "type":"score",
+      "type": "table-multiradio",
+      "title": "Probabilidad de riesgos", 
+      "instruction": "Must be a instruction",
+      "options":[
+        {
+          "option": "Muy Baja",
+          "value" : 1
+        },
+        {
+          "option": "Baja",
+          "value" : 2
+        },
+        {
+          "option": "Moderada",
+          "value" : 3
+        },
+       
+        {
+          "option": "Alta",
+          "value" : 4
+        },
+
+        {
+          "option": "Muy alta",
+          "value" : 5
+        }
+      ],
       "questions":[
         {
-          "question": "Have you been threatened or suffered an aggression as a journalist over the last year)",
-          "type": "radio",
-          "options": [
-            {
-              "value": 20,
-              "option": "Yes"
-            },
-            {
-              "value": 0,
-              "option": "No"
-            }
-          ]
+          "score":true,
+          "name": "probability_murder",
+          "title":"Asesinato"
+        },     
+        {
+          "score":true,
+          "name": "probability_dissapear",
+          "title":"Desapariciones"
+        },     
+
+        {
+          "score":true,
+          "name": "probability_kidnapping",
+          "title":"Secuestros"
+        },     
+
+        {
+          "score":true,
+          "name": "probability_torture",
+          "title":"Tortura"
+        },     
+        {
+          "score":true,
+          "name": "probability_coups",
+          "title":"Golpes"
         },
         {
-          "question": "Have colleagues in your organization been threatened or suffered an aggression as journalists over the last year?",
-          "type": "radio",
-          "options": [
-            {
-              "value": 20,
-              "option": "Yes"
-            },
-            {
-              "value": 0,
-              "option": "No"
-            }
-          ]
+          "score":true,
+          "name": "probability_stole",
+          "title":"Robo"
         },
         {
-          "question": "Have colleagues in your area been threatened or suffered an aggression as journalists over the last year?",
-          "type": "radio",
-          "options": [
-            {
-              "value": 20,
-              "option": "Yes"
-            },
-            {
-              "value": 0,
-              "option": "No"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "score",
-      "questions": [
+          "score":true,
+          "name": "probability_thread_death",
+          "title":"Amenaza de muerte"
+        },
         {
-          "question": "Security Situation",
-          "instruction": "Please check the proper boxes",
-          "type": "multiradio",
-          "options": [
-            {
-              "question": "Do you cover crime?",
-              "options": [
-                {
-                  "value": 1,
-                  "option": "Never"
-                },
-                {
-                  "value": 2,
-                  "option": "Sometimes"
-                },
-                {
-                  "value": 3,
-                  "option": "Regularly"
-                },
-                {
-                  "value": 4,
-                  "option": "Often"
-                },
-                {
-                  "value": 5,
-                  "option": "Very often"
-                }
-              ]
-            },
-            {
-              "question": "Do you cover corruption?",
-              "options": [
-                {
-                  "value": 1,
-                  "option": "Never"
-                },
-                {
-                  "value": 2,
-                  "option": "Sometimes"
-                },
-                {
-                  "value": 3,
-                  "option": "Regularly"
-                },
-                {
-                  "value": 4,
-                  "option": "Often"
-                },
-                {
-                  "value": 5,
-                  "option": "Very often"
-                }
-              ]
-            },
-            {
-              "question": "Do you cover violent incidents? (Example: murders, riots, beatings)",
-              "options": [
-                {
-                  "value": 1,
-                  "option": "Never"
-                },
-                {
-                  "value": 2,
-                  "option": "Sometimes"
-                },
-                {
-                  "value": 3,
-                  "option": "Regularly"
-                },
-                {
-                  "value": 4,
-                  "option": "Often"
-                },
-                {
-                  "value": 5,
-                  "option": "Very often"
-                }
-              ]
-            },
-            {
-              "question": "How often do you cover dangerous zones?",
-              "options": [
-                {
-                  "value": 1,
-                  "option": "Never"
-                },
-                {
-                  "value": 2,
-                  "option": "Sometimes"
-                },
-                {
-                  "value": 3,
-                  "option": "Regularly"
-                },
-                {
-                  "value": 4,
-                  "option": "Often"
-                },
-                {
-                  "value": 5,
-                  "option": "Very often"
-                }
-              ]
-            },
-            {
-              "question": "How often do you receive confidential information?",
-              "options": [
-                {
-                  "value": 1,
-                  "option": "Never"
-                },
-                {
-                  "value": 2,
-                  "option": "Sometimes"
-                },
-                {
-                  "value": 3,
-                  "option": "Regularly"
-                },
-                {
-                  "value": 4,
-                  "option": "Often"
-                },
-                {
-                  "value": 5,
-                  "option": "Very often"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "score",
-      "questions": [
+          "score":true,
+          "name": "probability_defamation",
+          "title":"Difamación"
+        },
         {
-          "question": "Censorship Situation",
-          "instruction": "Please check the proper boxes",
-          "type": "multiradio",
-          "options": [
-            {
-              "question": "Do you receive external pressures to publish or not publish information? ",
-              "options": [
-                {
-                  "value": 1,
-                  "option": "Never"
-                },
-                {
-                  "value": 2,
-                  "option": "Sometimes"
-                },
-                {
-                  "value": 3,
-                  "option": "Regularly"
-                },
-                {
-                  "value": 4,
-                  "option": "Often"
-                },
-                {
-                  "value": 5,
-                  "option": "Very Often"
-                }
-              ]
-            },
-            {
-              "question": "Do you receive internal pressures to publish or not publish information? ",
-              "options": [
-                {
-                  "value": 1,
-                  "option": "Never"
-                },
-                {
-                  "value": 2,
-                  "option": "Sometimes"
-                },
-                {
-                  "value": 3,
-                  "option": "Regularly"
-                },
-                {
-                  "value": 4,
-                  "option": "Often"
-                },
-                {
-                  "value": 5,
-                  "option": "Very Often"
-                }
-              ]
-            },
-            {
-              "question": "Do you practice self-censorship?",
-              "options": [
-                {
-                  "value": 1,
-                  "option": "Never"
-                },
-                {
-                  "value": 2,
-                  "option": "Sometimes"
-                },
-                {
-                  "value": 3,
-                  "option": "Regularly"
-                },
-                {
-                  "value": 4,
-                  "option": "Often"
-                },
-                {
-                  "value": 5,
-                  "option": "Very Often"
-                }
-              ]
-            }
-          ]
+          "score":true,
+          "name": "probability_verbal_attack",
+          "title":"Ataque verbal"
+        },
+        {
+          "score":true,
+          "name": "probability_espionage",
+          "title":"Espionaje"
+        },
+        {
+          "score":true,
+          "name": "probability_hacking",
+          "title":"Hackeo de cuentas"
+        },
+        {
+          "score":true,
+          "name": "probability_ciber_attack",
+          "title":"Ataque cibernetico"
+        },
+        {
+          "score":true,
+          "name": "probability_ddos_attack",
+          "title": "Denegación de servicio"
+        },
+        {
+          "score":true,
+          "name": "probability_media_attack",
+          "title": "Ataque a medios"
+        },
+        {
+          "score":true,
+          "name": "probability_sexual_attack",
+          "title": "Ataque sexual"
+        },
+        {
+          "score":true,
+          "name": "probability_information_obstacle",
+          "title": "Obstaculos a la información"
         }
       ]
     },
     {
-      "type":"score",
+      "type": "table-multiradio",
+      "title": "Control de la probabilidad", 
+      "instruction": "Must be a instruction",
+      "options":[
+        {
+          "option": "Muy Baja",
+          "value" : 1
+        },
+        {
+          "option": "Baja",
+          "value" : 2
+        },
+        {
+          "option": "Moderada",
+          "value" : 3
+        },
+       
+        {
+          "option": "Alta",
+          "value" : 4
+        },
+
+        {
+          "option": "Muy alta",
+          "value" : 5
+        }
+      ],
       "questions":[
         {
-          "question": "Professional situation ",
-          "instruction": "Please check the proper box",
-          "type": "multiradio",
-          "options": [
-            {
-              "question": "Do you plan your stories?",
-              "options": [
-                {
-                  "value": 1,
-                  "option": "Very often"
-                },
-                {
-                  "value": 2,
-                  "option": "Often"
-                },
-                {
-                  "value": 3,
-                  "option": "Regularly"
-                },
-                {
-                  "value": 4,
-                  "option": "Sometimes"
-                },
-                {
-                  "value": 5,
-                  "option": "Never"
-                }
-              ]
-            },
-            {
-              "question": "Do you verify your information?",
-              "options": [
-                {
-                  "value": 1,
-                  "option": "Very often"
-                },
-                {
-                  "value": 2,
-                  "option": "Often"
-                },
-                {
-                  "value": 3,
-                  "option": "Regularly"
-                },
-                {
-                  "value": 4,
-                  "option": "Sometimes"
-                },
-                {
-                  "value": 5,
-                  "option": "Never"
-                }
-              ]
-            },
-            {
-              "question": "Do you use ethical guidelines?",
-              "options": [
-                {
-                  "value": 1,
-                  "option": "Very often"
-                },
-                {
-                  "value": 2,
-                  "option": "Often"
-                },
-                {
-                  "value": 3,
-                  "option": "Regularly"
-                },
-                {
-                  "value": 4,
-                  "option": "Sometimes"
-                },
-                {
-                  "value": 5,
-                  "option": "Never"
-                }
-              ]
-            },
-            {
-              "question": "Do you use security protocols?",
-              "options": [
-                {
-                  "value": 1,
-                  "option": "Very often"
-                },
-                {
-                  "value": 2,
-                  "option": "Often"
-                },
-                {
-                  "value": 3,
-                  "option": "Regularly"
-                },
-                {
-                  "value": 4,
-                  "option": "Sometimes"
-                },
-                {
-                  "value": 5,
-                  "option": "Never"
-                }
-              ]
-            }
-          ]
+          "score":true,
+          "name": "probability_control_murder",
+          "title":"Asesinato"
+        },     
+        {
+          "score":true,
+          "name": "probability_control_dissapear",
+          "title":"Desapariciones"
+        },     
+
+        {
+          "score":true,
+          "name": "probability_control_kidnapping",
+          "title":"Secuestros"
+        },     
+
+        {
+          "score":true,
+          "name": "probability_control_torture",
+          "title":"Tortura"
+        },     
+        {
+          "score":true,
+          "name": "probability_control_coups",
+          "title":"Golpes"
+        },
+        {
+          "score":true,
+          "name": "probability_control_stole",
+          "title":"Robo"
+        },
+        {
+          "score":true,
+          "name": "probability_control_thread_death",
+          "title":"Amenaza de muerte"
+        },
+        {
+          "score":true,
+          "name": "probability_control_defamation",
+          "title":"Difamación"
+        },
+        {
+          "score":true,
+          "name": "probability_control_verbal_attack",
+          "title":"Ataque verbal"
+        },
+        {
+          "score":true,
+          "name": "probability_control_espionage",
+          "title":"Espionaje"
+        },
+        {
+          "score":true,
+          "name": "probability_control_hacking",
+          "title":"Hackeo de cuentas"
+        },
+        {
+          "score":true,
+          "name": "probability_control_ciber_attack",
+          "title":"Ataque cibernetico"
+        },
+        {
+          "score":true,
+          "name": "probability_control_ddos_attack",
+          "title": "Denegación de servicio"
+        },
+        {
+          "score":true,
+          "name": "probability_control_media_attack",
+          "title": "Ataque a medios"
+        },
+        {
+          "score":true,
+          "name": "probability_control_sexual_attack",
+          "title": "Ataque sexual"
+        },
+        {
+          "score":true,
+          "name": "probability_control_information_obstacle",
+          "title": "Obstaculos a la información"
         }
       ]
     },
     {
-      "type": "score",
-      "questions": [
+      "type": "table-multiradio",
+      "title": "Tiempo para el impacto", 
+      "instruction": "Must be a instruction",
+      "options":[
         {
-          "question": "Support networks",
-          "instruction": "Please check the proper boxes",
-          "type": "multiradio",
-          "options": [
-            {
-              "question": "How is communication with your bosses?",
-              "options": [
-                {
-                  "value": 1,
-                  "option": "Excellent"
-                },
-                {
-                  "value": 2,
-                  "option": "Good"
-                },
-                {
-                  "value": 3,
-                  "option": "Just fair"
-                },
-                {
-                  "value": 4,
-                  "option": "Bad"
-                },
-                {
-                  "value": 5,
-                  "option": "Very bad"
-                }
-              ]
-            },
-            {
-              "question": "How is communication with the people you oversee?",
-              "options": [
-                {
-                  "value": 1,
-                  "option": "Excellent"
-                },
-                {
-                  "value": 2,
-                  "option": "Good"
-                },
-                {
-                  "value": 3,
-                  "option": "Just fair"
-                },
-                {
-                  "value": 4,
-                  "option": "Bad"
-                },
-                {
-                  "value": 5,
-                  "option": "Very bad"
-                }
-              ]
-            },
-            {
-              "question": "How is communication with your colleagues inside and outside your organization?",
-              "options": [
-                {
-                  "value": 1,
-                  "option": "Excellent"
-                },
-                {
-                  "value": 2,
-                  "option": "Good"
-                },
-                {
-                  "value": 3,
-                  "option": "Just fair"
-                },
-                {
-                  "value": 4,
-                  "option": "Bad"
-                },
-                {
-                  "value": 5,
-                  "option": "Very bad"
-                }
-              ]
-            }
-          ]
+          "option": "Muy Baja",
+          "value" : 1
+        },
+        {
+          "option": "Baja",
+          "value" : 2
+        },
+        {
+          "option": "Moderada",
+          "value" : 3
+        },
+       
+        {
+          "option": "Alta",
+          "value" : 4
+        },
+
+        {
+          "option": "Muy alta",
+          "value" : 5
+        }
+      ],
+      "questions":[
+        {
+          "score":true,
+          "name": "time_murder",
+          "title":"Asesinato"
+        },     
+        {
+          "score":true,
+          "name": "time_dissapear",
+          "title":"Desapariciones"
+        },     
+
+        {
+          "score":true,
+          "name": "time_kidnapping",
+          "title":"Secuestros"
+        },     
+
+        {
+          "score":true,
+          "name": "time_torture",
+          "title":"Tortura"
+        },     
+        {
+          "score":true,
+          "name": "time_coups",
+          "title":"Golpes"
+        },
+        {
+          "score":true,
+          "name": "time_stole",
+          "title":"Robo"
+        },
+        {
+          "score":true,
+          "name": "time_thread_death",
+          "title":"Amenaza de muerte"
+        },
+        {
+          "score":true,
+          "name": "time_defamation",
+          "title":"Difamación"
+        },
+        {
+          "score":true,
+          "name": "time_verbal_attack",
+          "title":"Ataque verbal"
+        },
+        {
+          "score":true,
+          "name": "time_espionage",
+          "title":"Espionaje"
+        },
+        {
+          "score":true,
+          "name": "time_hacking",
+          "title":"Hackeo de cuentas"
+        },
+        {
+          "score":true,
+          "name": "time_ciber_attack",
+          "title":"Ataque cibernetico"
+        },
+        {
+          "score":true,
+          "name": "time_ddos_attack",
+          "title": "Denegación de servicio"
+        },
+        {
+          "score":true,
+          "name": "time_media_attack",
+          "title": "Ataque a medios"
+        },
+        {
+          "score":true,
+          "name": "time_sexual_attack",
+          "title": "Ataque sexual"
+        },
+        {
+          "score":true,
+          "name": "time_information_obstacle",
+          "title": "Obstaculos a la información"
         }
       ]
     },
     {
-      "type":"score",
-      "questions": [
+      "type": "table-multiradio",
+      "title": "Control del tiempo para el impacto", 
+      "instruction": "Must be a instruction",
+      "options":[
         {
-          "question": "Labor security ",
-          "instruction": "Analyze your condition at work. Please check the proper boxes",
-          "type": "multiradio",
-          "options": [
-            {
-              "question": "Your labor conditions (salary, benefits) are...",
-              "options": [
-                {
-                  "value": 1,
-                  "option": "Excellent"
-                },
-                {
-                  "value": 2,
-                  "option": "Good"
-                },
-                {
-                  "value": 3,
-                  "option": "Just Fair"
-                },
-                {
-                  "value": 4,
-                  "option": "Bad"
-                },
-                {
-                  "value": 5,
-                  "option": "Very bad"
-                }
-              ]
-            },
-            {
-              "question": "How are your media organization's policy and actions to increase your security?",
-              "options": [
-                {
-                  "value": 1,
-                  "option": "Excellent"
-                },
-                {
-                  "value": 2,
-                  "option": "Good"
-                },
-                {
-                  "value": 3,
-                  "option": "Just Fair"
-                },
-                {
-                  "value": 4,
-                  "option": "Bad"
-                },
-                {
-                  "value": 5,
-                  "option": "Very bad"
-                }
-              ]
-            }
-          ]
+          "option": "Muy Baja",
+          "value" : 1
+        },
+        {
+          "option": "Baja",
+          "value" : 2
+        },
+        {
+          "option": "Moderada",
+          "value" : 3
+        },
+       
+        {
+          "option": "Alta",
+          "value" : 4
+        },
+
+        {
+          "option": "Muy alta",
+          "value" : 5
+        }
+      ],
+      "questions":[
+        {
+          "score":true,
+          "name": "time_control_murder",
+          "title":"Asesinato"
+        },     
+        {
+          "score":true,
+          "name": "time_control_dissapear",
+          "title":"Desapariciones"
+        },     
+
+        {
+          "score":true,
+          "name": "time_control_kidnapping",
+          "title":"Secuestros"
+        },     
+
+        {
+          "score":true,
+          "name": "time_control_torture",
+          "title":"Tortura"
+        },     
+        {
+          "score":true,
+          "name": "time_control_coups",
+          "title":"Golpes"
+        },
+        {
+          "score":true,
+          "name": "time_control_stole",
+          "title":"Robo"
+        },
+        {
+          "score":true,
+          "name": "time_control_thread_death",
+          "title":"Amenaza de muerte"
+        },
+        {
+          "score":true,
+          "name": "time_control_defamation",
+          "title":"Difamación"
+        },
+        {
+          "score":true,
+          "name": "time_control_verbal_attack",
+          "title":"Ataque verbal"
+        },
+        {
+          "score":true,
+          "name": "time_control_espionage",
+          "title":"Espionaje"
+        },
+        {
+          "score":true,
+          "name": "time_control_hacking",
+          "title":"Hackeo de cuentas"
+        },
+        {
+          "score":true,
+          "name": "time_control_ciber_attack",
+          "title":"Ataque cibernetico"
+        },
+        {
+          "score":true,
+          "name": "time_control_ddos_attack",
+          "title": "Denegación de servicio"
+        },
+        {
+          "score":true,
+          "name": "time_control_media_attack",
+          "title": "Ataque a medios"
+        },
+        {
+          "score":true,
+          "name": "time_control_sexual_attack",
+          "title": "Ataque sexual"
+        },
+        {
+          "score":true,
+          "name": "time_control_information_obstacle",
+          "title": "Obstaculos a la información"
         }
       ]
     },
     {
-      "type": "score",
-      "questions": [
+      "type": "table-multiradio",
+      "title": "Severidad del daño financiero", 
+      "instruction": "Must be a instruction",
+      "options":[
         {
-          "question": "Digital security",
-          "instruction": "Please rank your skills in these digital security tools",
-          "type": "multiradio",
-          "options": [
-            {
-              "question": "Anonymous navigation (TOR)",
-              "options": [
-                {
-                  "value": 1,
-                  "option": "Master"
-                },
-                {
-                  "value": 2,
-                  "option": "Advanced"
-                },
-                {
-                  "value": 3,
-                  "option": "Internediate"
-                },
-                {
-                  "value": 4,
-                  "option": "Basic"
-                },
-                {
-                  "value": 5,
-                  "option": "None"
-                }
-              ]
-            },
-            {
-              "question": "Encrypted email (PGP, Protonmail, Mailvelope, Hushmail)",
-              "options": [
-                {
-                  "value": 1,
-                  "option": "Master"
-                },
-                {
-                  "value": 2,
-                  "option": "Advanced"
-                },
-                {
-                  "value": 3,
-                  "option": "Internediate"
-                },
-                {
-                  "value": 4,
-                  "option": "Basic"
-                },
-                {
-                  "value": 5,
-                  "option": "None"
-                }
-              ]
-            },
-            {
-              "question": "Encrypted chat (OTR+Pidgin, OTR+Adium, Cryptocat, etc)",
-              "options": [
-                {
-                  "value": 1,
-                  "option": "Master"
-                },
-                {
-                  "value": 2,
-                  "option": "Advanced"
-                },
-                {
-                  "value": 3,
-                  "option": "Internediate"
-                },
-                {
-                  "value": 4,
-                  "option": "Basic"
-                },
-                {
-                  "value": 5,
-                  "option": "None"
-                }
-              ]
-            },
-            {
-              "question": "Strong passwords",
-              "options": [
-                {
-                  "value": 1,
-                  "option": "Master"
-                },
-                {
-                  "value": 2,
-                  "option": "Advanced"
-                },
-                {
-                  "value": 3,
-                  "option": "Internediate"
-                },
-                {
-                  "value": 4,
-                  "option": "Basic"
-                },
-                {
-                  "value": 5,
-                  "option": "None"
-                }
-              ]
-            },
-            {
-              "question": "Encrypted phone calls (RedPhone, Signal, Ostel)",
-              "options": [
-                {
-                  "value": 1,
-                  "option": "Master"
-                },
-                {
-                  "value": 2,
-                  "option": "Advanced"
-                },
-                {
-                  "value": 3,
-                  "option": "Internediate"
-                },
-                {
-                  "value": 4,
-                  "option": "Basic"
-                },
-                {
-                  "value": 5,
-                  "option": "None"
-                }
-              ]
-            }
-          ]
+          "option": "Muy Baja",
+          "value" : 1
+        },
+        {
+          "option": "Baja",
+          "value" : 2
+        },
+        {
+          "option": "Moderada",
+          "value" : 3
+        },
+       
+        {
+          "option": "Alta",
+          "value" : 4
+        },
+
+        {
+          "option": "Muy alta",
+          "value" : 5
+        }
+      ],
+      "questions":[
+        {
+          "score":true,
+          "name": "financial_murder",
+          "title":"Asesinato"
+        },     
+        {
+          "score":true,
+          "name": "financial_dissapear",
+          "title":"Desapariciones"
+        },     
+
+        {
+          "score":true,
+          "name": "financial_kidnapping",
+          "title":"Secuestros"
+        },     
+
+        {
+          "score":true,
+          "name": "financial_torture",
+          "title":"Tortura"
+        },     
+        {
+          "score":true,
+          "name": "financial_coups",
+          "title":"Golpes"
+        },
+        {
+          "score":true,
+          "name": "financial_stole",
+          "title":"Robo"
+        },
+        {
+          "score":true,
+          "name": "financial_thread_death",
+          "title":"Amenaza de muerte"
+        },
+        {
+          "score":true,
+          "name": "financial_defamation",
+          "title":"Difamación"
+        },
+        {
+          "score":true,
+          "name": "financial_verbal_attack",
+          "title":"Ataque verbal"
+        },
+        {
+          "score":true,
+          "name": "financial_espionage",
+          "title":"Espionaje"
+        },
+        {
+          "score":true,
+          "name": "financial_hacking",
+          "title":"Hackeo de cuentas"
+        },
+        {
+          "score":true,
+          "name": "financial_ciber_attack",
+          "title":"Ataque cibernetico"
+        },
+        {
+          "score":true,
+          "name": "financial_ddos_attack",
+          "title": "Denegación de servicio"
+        },
+        {
+          "score":true,
+          "name": "financial_media_attack",
+          "title": "Ataque a medios"
+        },
+        {
+          "score":true,
+          "name": "financial_sexual_attack",
+          "title": "Ataque sexual"
+        },
+        {
+          "score":true,
+          "name": "financial_information_obstacle",
+          "title": "Obstaculos a la información"
+        }
+      ]
+    },
+    {
+      "type": "table-multiradio",
+      "title": "Control de daño financiero", 
+      "instruction": "Must be a instruction",
+      "options":[
+        {
+          "option": "Muy Baja",
+          "value" : 1
+        },
+        {
+          "option": "Baja",
+          "value" : 2
+        },
+        {
+          "option": "Moderada",
+          "value" : 3
+        },
+       
+        {
+          "option": "Alta",
+          "value" : 4
+        },
+
+        {
+          "option": "Muy alta",
+          "value" : 5
+        }
+      ],
+      "questions":[
+        {
+          "score":true,
+          "name": "financial_control_murder",
+          "title":"Asesinato"
+        },     
+        {
+          "score":true,
+          "name": "financial_control_dissapear",
+          "title":"Desapariciones"
+        },     
+
+        {
+          "score":true,
+          "name": "financial_control_kidnapping",
+          "title":"Secuestros"
+        },     
+
+        {
+          "score":true,
+          "name": "financial_control_torture",
+          "title":"Tortura"
+        },     
+        {
+          "score":true,
+          "name": "financial_control_coups",
+          "title":"Golpes"
+        },
+        {
+          "score":true,
+          "name": "financial_control_stole",
+          "title":"Robo"
+        },
+        {
+          "score":true,
+          "name": "financial_control_thread_death",
+          "title":"Amenaza de muerte"
+        },
+        {
+          "score":true,
+          "name": "financial_control_defamation",
+          "title":"Difamación"
+        },
+        {
+          "score":true,
+          "name": "financial_control_verbal_attack",
+          "title":"Ataque verbal"
+        },
+        {
+          "score":true,
+          "name": "financial_control_espionage",
+          "title":"Espionaje"
+        },
+        {
+          "score":true,
+          "name": "financial_control_hacking",
+          "title":"Hackeo de cuentas"
+        },
+        {
+          "score":true,
+          "name": "financial_control_ciber_attack",
+          "title":"Ataque cibernetico"
+        },
+        {
+          "score":true,
+          "name": "financial_control_ddos_attack",
+          "title": "Denegación de servicio"
+        },
+        {
+          "score":true,
+          "name": "financial_control_media_attack",
+          "title": "Ataque a medios"
+        },
+        {
+          "score":true,
+          "name": "financial_control_sexual_attack",
+          "title": "Ataque sexual"
+        },
+        {
+          "score":true,
+          "name": "financial_control_information_obstacle",
+          "title": "Obstaculos a la información"
+        }
+      ]
+    },
+    {
+      "type": "table-multiradio",
+      "title": "Severidad del daño físico", 
+      "instruction": "Must be a instruction",
+      "options":[
+        {
+          "option": "Muy Baja",
+          "value" : 1
+        },
+        {
+          "option": "Baja",
+          "value" : 2
+        },
+        {
+          "option": "Moderada",
+          "value" : 3
+        },
+       
+        {
+          "option": "Alta",
+          "value" : 4
+        },
+
+        {
+          "option": "Muy alta",
+          "value" : 5
+        }
+      ],
+      "questions":[
+        {
+          "score":true,
+          "name": "physical_murder",
+          "title":"Asesinato"
+        },     
+        {
+          "score":true,
+          "name": "physical_dissapear",
+          "title":"Desapariciones"
+        },     
+
+        {
+          "score":true,
+          "name": "physical_kidnapping",
+          "title":"Secuestros"
+        },     
+
+        {
+          "score":true,
+          "name": "physical_torture",
+          "title":"Tortura"
+        },     
+        {
+          "score":true,
+          "name": "physical_coups",
+          "title":"Golpes"
+        },
+        {
+          "score":true,
+          "name": "physical_stole",
+          "title":"Robo"
+        },
+        {
+          "score":true,
+          "name": "physical_thread_death",
+          "title":"Amenaza de muerte"
+        },
+        {
+          "score":true,
+          "name": "physical_defamation",
+          "title":"Difamación"
+        },
+        {
+          "score":true,
+          "name": "physical_verbal_attack",
+          "title":"Ataque verbal"
+        },
+        {
+          "score":true,
+          "name": "physical_espionage",
+          "title":"Espionaje"
+        },
+        {
+          "score":true,
+          "name": "physical_hacking",
+          "title":"Hackeo de cuentas"
+        },
+        {
+          "score":true,
+          "name": "physical_ciber_attack",
+          "title":"Ataque cibernetico"
+        },
+        {
+          "score":true,
+          "name": "physical_ddos_attack",
+          "title": "Denegación de servicio"
+        },
+        {
+          "score":true,
+          "name": "physical_media_attack",
+          "title": "Ataque a medios"
+        },
+        {
+          "score":true,
+          "name": "physical_sexual_attack",
+          "title": "Ataque sexual"
+        },
+        {
+          "score":true,
+          "name": "physical_information_obstacle",
+          "title": "Obstaculos a la información"
+        }
+      ]
+    },
+    {
+      "type": "table-multiradio",
+      "title": "Control del daño físico", 
+      "instruction": "Must be a instruction",
+      "options":[
+        {
+          "option": "Muy Baja",
+          "value" : 1
+        },
+        {
+          "option": "Baja",
+          "value" : 2
+        },
+        {
+          "option": "Moderada",
+          "value" : 3
+        },
+       
+        {
+          "option": "Alta",
+          "value" : 4
+        },
+
+        {
+          "option": "Muy alta",
+          "value" : 5
+        }
+      ],
+      "questions":[
+        {
+          "score":true,
+          "name": "physical_control_murder",
+          "title":"Asesinato"
+        },     
+        {
+          "score":true,
+          "name": "physical_control_dissapear",
+          "title":"Desapariciones"
+        },     
+
+        {
+          "score":true,
+          "name": "physical_control_kidnapping",
+          "title":"Secuestros"
+        },     
+
+        {
+          "score":true,
+          "name": "physical_control_torture",
+          "title":"Tortura"
+        },     
+        {
+          "score":true,
+          "name": "physical_control_coups",
+          "title":"Golpes"
+        },
+        {
+          "score":true,
+          "name": "physical_control_stole",
+          "title":"Robo"
+        },
+        {
+          "score":true,
+          "name": "physical_control_thread_death",
+          "title":"Amenaza de muerte"
+        },
+        {
+          "score":true,
+          "name": "physical_control_defamation",
+          "title":"Difamación"
+        },
+        {
+          "score":true,
+          "name": "physical_control_verbal_attack",
+          "title":"Ataque verbal"
+        },
+        {
+          "score":true,
+          "name": "physical_control_espionage",
+          "title":"Espionaje"
+        },
+        {
+          "score":true,
+          "name": "physical_control_hacking",
+          "title":"Hackeo de cuentas"
+        },
+        {
+          "score":true,
+          "name": "physical_control_ciber_attack",
+          "title":"Ataque cibernetico"
+        },
+        {
+          "score":true,
+          "name": "physical_control_ddos_attack",
+          "title": "Denegación de servicio"
+        },
+        {
+          "score":true,
+          "name": "physical_control_media_attack",
+          "title": "Ataque a medios"
+        },
+        {
+          "score":true,
+          "name": "physical_control_sexual_attack",
+          "title": "Ataque sexual"
+        },
+        {
+          "score":true,
+          "name": "physical_control_information_obstacle",
+          "title": "Obstaculos a la información"
+        }
+      ]
+    },
+    {
+      "type": "table-multiradio",
+      "title": "Severidad del daño a la reputación", 
+      "instruction": "Must be a instruction",
+      "options":[
+        {
+          "option": "Muy Baja",
+          "value" : 1
+        },
+        {
+          "option": "Baja",
+          "value" : 2
+        },
+        {
+          "option": "Moderada",
+          "value" : 3
+        },
+       
+        {
+          "option": "Alta",
+          "value" : 4
+        },
+
+        {
+          "option": "Muy alta",
+          "value" : 5
+        }
+      ],
+      "questions":[
+        {
+          "score":true,
+          "name": "reputation_murder",
+          "title":"Asesinato"
+        },     
+        {
+          "score":true,
+          "name": "reputation_dissapear",
+          "title":"Desapariciones"
+        },     
+
+        {
+          "score":true,
+          "name": "reputation_kidnapping",
+          "title":"Secuestros"
+        },     
+
+        {
+          "score":true,
+          "name": "reputation_torture",
+          "title":"Tortura"
+        },     
+        {
+          "score":true,
+          "name": "reputation_coups",
+          "title":"Golpes"
+        },
+        {
+          "score":true,
+          "name": "reputation_stole",
+          "title":"Robo"
+        },
+        {
+          "score":true,
+          "name": "reputation_thread_death",
+          "title":"Amenaza de muerte"
+        },
+        {
+          "score":true,
+          "name": "reputation_defamation",
+          "title":"Difamación"
+        },
+        {
+          "score":true,
+          "name": "reputation_verbal_attack",
+          "title":"Ataque verbal"
+        },
+        {
+          "score":true,
+          "name": "reputation_espionage",
+          "title":"Espionaje"
+        },
+        {
+          "score":true,
+          "name": "reputation_hacking",
+          "title":"Hackeo de cuentas"
+        },
+        {
+          "score":true,
+          "name": "reputation_ciber_attack",
+          "title":"Ataque cibernetico"
+        },
+        {
+          "score":true,
+          "name": "reputation_ddos_attack",
+          "title": "Denegación de servicio"
+        },
+        {
+          "score":true,
+          "name": "reputation_media_attack",
+          "title": "Ataque a medios"
+        },
+        {
+          "score":true,
+          "name": "reputation_sexual_attack",
+          "title": "Ataque sexual"
+        },
+        {
+          "score":true,
+          "name": "reputation_information_obstacle",
+          "title": "Obstaculos a la información"
+        }
+      ]
+    },
+    {
+      "type": "table-multiradio",
+      "title": "Control del daño a la reputación", 
+      "instruction": "Must be a instruction",
+      "options":[
+        {
+          "option": "Muy Baja",
+          "value" : 1
+        },
+        {
+          "option": "Baja",
+          "value" : 2
+        },
+        {
+          "option": "Moderada",
+          "value" : 3
+        },
+       
+        {
+          "option": "Alta",
+          "value" : 4
+        },
+
+        {
+          "option": "Muy alta",
+          "value" : 5
+        }
+      ],
+      "questions":[
+        {
+          "score":true,
+          "name": "reputation_control_murder",
+          "title":"Asesinato"
+        },     
+        {
+          "score":true,
+          "name": "reputation_control_dissapear",
+          "title":"Desapariciones"
+        },     
+
+        {
+          "score":true,
+          "name": "reputation_control_kidnapping",
+          "title":"Secuestros"
+        },     
+
+        {
+          "score":true,
+          "name": "reputation_control_torture",
+          "title":"Tortura"
+        },     
+        {
+          "score":true,
+          "name": "reputation_control_coups",
+          "title":"Golpes"
+        },
+        {
+          "score":true,
+          "name": "reputation_control_stole",
+          "title":"Robo"
+        },
+        {
+          "score":true,
+          "name": "reputation_control_thread_death",
+          "title":"Amenaza de muerte"
+        },
+        {
+          "score":true,
+          "name": "reputation_control_defamation",
+          "title":"Difamación"
+        },
+        {
+          "score":true,
+          "name": "reputation_control_verbal_attack",
+          "title":"Ataque verbal"
+        },
+        {
+          "score":true,
+          "name": "reputation_control_espionage",
+          "title":"Espionaje"
+        },
+        {
+          "score":true,
+          "name": "reputation_control_hacking",
+          "title":"Hackeo de cuentas"
+        },
+        {
+          "score":true,
+          "name": "reputation_control_ciber_attack",
+          "title":"Ataque cibernetico"
+        },
+        {
+          "score":true,
+          "name": "reputation_control_ddos_attack",
+          "title": "Denegación de servicio"
+        },
+        {
+          "score":true,
+          "name": "reputation_control_media_attack",
+          "title": "Ataque a medios"
+        },
+        {
+          "score":true,
+          "name": "reputation_control_sexual_attack",
+          "title": "Ataque sexual"
+        },
+        {
+          "score":true,
+          "name": "reputation_control_information_obstacle",
+          "title": "Obstaculos a la información"
         }
       ]
     }
