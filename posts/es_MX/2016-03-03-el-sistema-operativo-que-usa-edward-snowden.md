@@ -8,8 +8,12 @@ published: true
 title: El sistema operativo que usa Edward Snowden
 ---
 
+
 # Tails
 ## Privacy for anyone anywhere
+
+![tails]({{site.baseurl}}/media/tails.jpg)
+
 
 Tails is a live operating system, that you can start on almost any computer from a DVD, USB stick, or SD card. It aims at preserving your privacy and anonymity, and helps you to:
 
