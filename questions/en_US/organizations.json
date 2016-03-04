@@ -8,25 +8,25 @@
           "name": "medium",
           "input":"text",
           "title":"Medio de comunicación",
-          "instruction":"Por favor anota el nombre de tu organización"
+          "placeholder":"Por favor anota el nombre de tu organización"
         },
         {
           "name": "section",
           "input": "text",
           "title": "Sección",
-          "instruction": "Por favor anota el nombre de tu sección o departamento"
+          "placeholder": "Por favor anota el nombre de tu sección o departamento"
         },
         {
           "name": "members",
           "input": "text",
           "title": "Integrantes",
-          "instruction": "Por favor anota el número de integrantes de tu sección o departamento"
+          "placeholder": "Por favor anota el número de integrantes de tu sección o departamento"
         },
         {
           "name": "participants",
           "input": "text",
           "title": "Participantes",
-          "instruction": "Por favor anota el nombre de las personas que participan en el análisis de riesgo"
+          "placeholder": "Por favor anota el nombre de las personas que participan en el análisis de riesgo"
         }
       ]
     },
