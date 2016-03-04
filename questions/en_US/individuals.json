@@ -8,13 +8,15 @@
           "name": "name",
           "input":"text",
           "title":"Nombre",
-          "instruction":"Si quiere permanecer anónimo, no llenes el espacio del nombre. Necesitamos tu correo electrónico para enviarte los resultado . Si deseas recibir consejo individual, por favor escribe tu nombre"
+          "instruction":"Si quiere permanecer anónimo, no llenes el espacio del nombre. Necesitamos tu correo electrónico para enviarte los resultado . Si deseas recibir consejo individual, por favor escribe tu nombre",
+          "placeholder": "Por favor anota tu nombre completo"
         },
         {
           "name": "email",
           "input": "email",
           "title": "Correo Electrónico",
-          "instruction": "Por favor escribe tu correo electrónico, (Los resultados serán enviados a este correo electrónico)."
+          "instruction": "Por favor escribe tu correo electrónico, (Los resultados serán enviados a este correo electrónico).",
+          "placeholder": "Anota tu dirección de correo electrónico"
         }
       ]
     },
@@ -32,13 +34,15 @@
           "name": "medium",
           "input": "text",
           "title": "Medio",
-          "instruction": "Por favor anota el nombre de tu medio de comunicación (si eres periodista independiente, escribe esas palabras)"
+          "instruction": "Por favor anota el nombre de tu medio de comunicación (si eres periodista independiente, escribe esas palabras)",
+          "placeholder": "Escribe tu respuesta"
         },
         {
           "name": "location",
           "input": "text",
           "title": "Municipio y Estado (Provincia o Departamento)",
-          "instruction": "Por favor escribe el nombre de tu municipio y departamento. Ejemplo: Pueblo Nuevo, Estelí"
+          "instruction": "Por favor escribe el nombre de tu municipio y departamento. Ejemplo: Pueblo Nuevo, Estelí",
+          "placeholder": "Escribe tu respuesta"
         },
         {
           "name":  "job",
