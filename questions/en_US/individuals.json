@@ -7,7 +7,7 @@
         {
           "name": "name",
           "input":"text",
-          "title":"Nombre",
+          "title":"Name",
           "instruction":"Si quiere permanecer anónimo, no llenes el espacio del nombre. Necesitamos tu correo electrónico para enviarte los resultado . Si deseas recibir consejo individual, por favor escribe tu nombre",
           "placeholder": "Por favor anota tu nombre completo"
         },
