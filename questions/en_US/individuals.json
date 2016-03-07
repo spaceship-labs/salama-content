@@ -7,16 +7,16 @@
         {
           "name": "name",
           "input":"text",
-          "title":"Nombre",
-          "instruction":"Si quiere permanecer anónimo, no llenes el espacio del nombre. Necesitamos tu correo electrónico para enviarte los resultado . Si deseas recibir consejo individual, por favor escribe tu nombre",
-          "placeholder": "Por favor anota tu nombre completo"
+          "title":"Name",
+          "instruction":"If you want to remain anonymous, please don't fill the space name. We need your emal address to email the results to you.  If you want to receive taylored and individual advice, please write your name.",
+          "placeholder": "Please write your name"
         },
         {
           "name": "email",
           "input": "email",
-          "title": "Correo Electrónico",
-          "instruction": "Por favor escribe tu correo electrónico, (Los resultados serán enviados a este correo electrónico).",
-          "placeholder": "Anota tu dirección de correo electrónico",
+          "title": "E-mail Address",
+          "instruction":"Please write your e-mail address. (Results of your assessment will be emailed to you.)",
+          "placeholder": "Please write your email",
           "required":true
         }
       ]
@@ -28,50 +28,50 @@
         {
          "name": "personalized_training",
          "input":"checkbox",
-         "title": "Entrenamiento personalizado",
-         "instruction":"Si, deseo recibir entrenamiento individualizado"
+         "title": "Personalized training",
+         "instruction":"Yes, I would like to received personalized training."
         },
         {
           "name": "medium",
           "input": "text",
-          "title": "Medio",
-          "instruction": "Por favor anota el nombre de tu medio de comunicación (si eres periodista independiente, escribe esas palabras)",
-          "placeholder": "Escribe tu respuesta",
+          "title": "Media Organization",
+          "instruction": "Please write the name of your media organization (if you are a freelancer, please write it)",
+          "placeholder": "Write your answer",
           "required":true
         },
         {
           "name": "location",
           "input": "text",
-          "title": "Municipio y Estado (Provincia o Departamento)",
-          "instruction": "Por favor escribe el nombre de tu municipio y departamento. Ejemplo: Pueblo Nuevo, Estelí",
-          "placeholder": "Escribe tu respuesta",
+          "title": "District (Municipality) and Province (Department)",
+          "instruction": "Please write the name of your municipality (district) and Province. For example: Mahmudiya, Baghdad",
+          "placeholder": "Write your answer",
           "required":true
         },
         {
           "name":  "job",
           "input": "multi-checkbox",
-          "title": "Puesto",
-          "instruction": "Todos los periodistas o trabajadores de medios comparten los mismos riesgos. Sin embargo algunas posiciones enfrentan más riesgo que otras. Por favor define en qué área trabajas. Elige las opciones que apliquen.",
+          "title": "Areas of Work",
+          "instruction": "In the current security environment, all members of a media organization share the same level of risk. However, journalists in one areas may face more risks than others. Please select your area or areas of work in your media organization",
           "options":[
             {
-              "option": "Producción y circulación",
-              "value": "Producción y circulación"
+              "option": "Production and Circulation",
+              "value": "Production and Circulation"
             },
             {
-              "option": "Gerencia de comunidades",
-              "value": "Gerencia de comunidades"
+              "option": "Community Manager",
+              "value": "Community Manager"
             },
             {
-              "option": "Editor",
-              "value": "Editor"
+              "option": "Edition",
+              "value": "Edition"
             },
             {
-              "option": "Director",
-              "value": "Director"
+              "option": "Direction or Management",
+              "value": "Direction or Management"
             },
             {
-              "option": "Reportero, fotógrafo o bloguero",
-              "value": "Reportero, fotógrafo o bloguero"
+              "option": "Reporter, Photographer or Blogger",
+              "value": "Reporter, Photographer or Blogger"
             }
           ]
         },
@@ -79,15 +79,15 @@
           "score": true,
           "name": "threat_individual",
           "input": "radio",
-          "title": "¿Has recibido una amenaza o sufriste una agresión como periodista en el último año?",
+          "title": "Have you been threatened or suffered an agression as a journalist over the last year)",
           "instruction":"",
           "options":[
             {
-              "option": "Sí",
+              "option": "Yes",
               "value": 20
             },
             {
-              "option": "no",
+              "option": "No",
               "value": 0
             }
           ],
@@ -102,15 +102,15 @@
           "score": true,
           "name": "threat_collegues_in",
           "input": "radio",
-          "title": "¿Colegas de tu medio han recibido una amenaza o sufrieron una agresión como periodistas en el último año?",
+          "title": "Have colleagues in your organization been threatened or suffered an agression as journalist over the last year?",
           "instruction":"",
           "options":[
             {
-              "option": "Sí",
+              "option": "Yes",
               "value": 20
             },
             {
-              "option": "no",
+              "option": "No",
               "value": 0
             }
           ],
@@ -120,15 +120,15 @@
           "score": true,
           "name": "threat_collegues_out",
           "input": "radio",
-          "title": "¿Colegas de otros medios del área han recibido amenazas o sufrieron una agresión como periodistas en el último año?",
+          "title": "Have other colleagues in the area been threatened or suffered an agression as journalists over the last year?",
           "instruction":"",
           "options":[
             {
-              "option": "Sí",
+              "option": "Yes",
               "value": 20
             },
             {
-              "option": "no",
+              "option": "No",
               "value": 0
             }
           ],
@@ -138,29 +138,29 @@
     },
     {
       "type":"table-multiradio",
-      "title": "Situación de seguridad",
-      "instruction":"Por favor elige una opción",
+      "title": "Security Situation",
+      "instruction":"Please check the proper boxes",
       "options":[
         {
-          "option": "Nunca",
+          "option": "Never",
           "value" : "1"
         },
         {
-          "option": "A veces",
+          "option": "Sometimes",
           "value" : "2"
         },
         {
-          "option": "Regularmente",
+          "option": "Regularly",
           "value" : "3"
         },
        
         {
-          "option": "Con mucha frecuencia",
+          "option": "Often",
           "value" : "4"
         },
 
         {
-          "option": "Todos los días",
+          "option": "Very often",
           "value" : "5"
         }
       ],
@@ -168,62 +168,62 @@
         {
           "score": true,
           "name": "security_police",
-          "title": "¿Cubres notas de policía o crimen",
+          "title": "Do you cover crime?",
           "required":true
         },
         {
           "score": true,
           "name": "security_corruption",
-          "title": "¿Cubres hechos de corrupción?",
+          "title": "Do you cover corruption?",
           "required":true
         },
 
         {
           "score": true,
           "name": "security_violence",
-          "title": "¿Cubres hechos violentos?",
+          "title":"Do you cover violent incidents? (Example: murders, riots, beatings)",
           "required":true
         },
 
         {
           "score": true,
           "name": "security_zone",
-          "title": "¿Con qué frecuencia acudes a zonas de alto riesgo?",
+          "title": "How often do you cover dangerous zones?",
           "required":true
         },
         {
           "score": true,
           "name": "security_information",
-          "title": "¿Cubres notas de policía o crimen",
+          "title":"How often do you receive confidential information?",
           "required":true
         }
       ]
     },
     {
       "type":"table-multiradio",
-      "title": "Situación de censura",
-      "instruction":"Por favor elige una opción",
+      "title": "Censorship Situation",
+      "instruction":"Please check the proper boxes",
       "options":[
         {
-          "option": "Nunca",
+          "option": "Never",
           "value" : "1"
         },
         {
-          "option": "A veces",
+          "option": "Sometimes",
           "value" : "2"
         },
         {
-          "option": "Regularmente",
+          "option": "Regularly",
           "value" : "3"
         },
        
         {
-          "option": "Con mucha frecuencia",
+          "option": "Often",
           "value" : "4"
         },
 
         {
-          "option": "Todos los días",
+          "option": "Very often",
           "value" : "5"
         }
       ],
@@ -231,48 +231,48 @@
         {
           "score": true,
           "name": "censorship_out",
-          "title": "¿Recibes presiones externas para censurar tus información?",
+          "title": "Do you receive external pressures to publish or not publish information?",
           "required":true
         },
         {
           "score": true,
           "name": "censorship_in",
-          "title": "¿Cubres hechos de corrupción?",
+          "title": "Do you receive internal pressures to publish or not publish information?",
           "required":true
         },
         {
           "score": true,
           "name": "censorship_auto",
-          "title": "¿Practicas autocensura",
+          "title": "Do you practice self-censorship?",
           "required":true
         }
       ]
     },
     {
       "type":"table-multiradio",
-      "title": "Situación Profesional",
-      "instruction":"Por favor elige una opción",
+      "title": "Professional situation ",
+      "instruction":"Please check the proper box",
       "options":[
         {
-          "option": "Todos los días",
+          "option": "Very often",
           "value" : "1"
         },
         {
-          "option": "Con mucha frecuencia",
+          "option": "Often",
           "value" : "2"
         },
         {
-          "option": "Regularmente",
+          "option": "Regularly",
           "value" : "3"
         },
        
         {
-          "option": "A veces",
+          "option": "Sometimes",
           "value" : "4"
         },
 
         {
-          "option": "Nunca",
+          "option": "Never",
           "value" : "5"
         }
       ],
@@ -280,54 +280,54 @@
         {
           "score": true,
           "name": "profesional_plan",
-          "title": "¿Qué tanto planificas tus coberturas?",
+          "title": "Do you plan your stories?",
           "required":true
         },
         {
           "score": true,
           "name": "profesional_information",
-          "title": "¿Con qué frecuencia verificas la información que consigues y publicas?",
+          "title": "Do you verify your information?",
           "required":true
         },
         {
           "score": true,
           "name": "profesional_etic",
-          "title": "¿Con qué frecuencia analizas los principios y valores éticos del periodismo antes de publicar la información que consigues?",
+          "title": "Do you use ethical guidelines?",
           "required":true
         },
         {
           "score": true,
           "name": "profesional_protocols",
-          "title": "¿Usas protocolos de reducción de riesgo en tu trabajo?",
+          "title": "Do you use security protocols?",
           "required":true
         }
       ]
     },
     {
       "type":"table-multiradio",
-      "title": "Seguridad de redes",
-      "instruction":"Por favor elige una opción",
+      "title": "Support networks",
+      "instruction":"Please check the proper boxes",
       "options":[
         {
-          "option": "Excelente",
+          "option": "Excellent",
           "value" : "1"
         },
         {
-          "option": "Buena",
+          "option": "Good",
           "value" : "2"
         },
         {
-          "option": "Deficiente",
+          "option": "Just fair",
           "value" : "3"
         },
        
         {
-          "option": "Mala",
+          "option": "Bad",
           "value" : "4"
         },
 
         {
-          "option": "Pésima",
+          "option": "Very bad",
           "value" : "5"
         }
       ],
@@ -335,48 +335,48 @@
         {
           "score": true,
           "name": "network_boss",
-          "title": "¿Cómo es la comunicación con tus jefes?",
+          "title": "How is communication with your bosses?",
           "required":true
         },
         {
           "score": true,
           "name": "network_sub",
-          "title": "¿Cómo es la comunicación con tus subalternos?",
+          "title": "How is communication with the people you oversee?",
           "required":true
         },
         {
           "score": true,
           "name": "network_collegues",
-          "title": "Cómo es la comunicación con tus colegas de otros medios?",
+          "title": "How is communication with your colleagues inside and outside your organization?",
           "required":true
         }
       ]
     },
     {
       "type":"table-multiradio",
-      "title": "Seguridad laboral",
-      "instruction":"Por favor elige una opción",
+      "title": "Labor security ",
+      "instruction":"Analyze your condition at work. Please check the proper boxes",
       "options":[
         {
-          "option": "Excelente",
+          "option": "Excellent",
           "value" : "1"
         },
         {
-          "option": "Buena",
+          "option": "Good",
           "value" : "2"
         },
         {
-          "option": "Deficiente",
+          "option": "Just fair",
           "value" : "3"
         },
        
         {
-          "option": "Mala",
+          "option": "Bad",
           "value" : "4"
         },
 
         {
-          "option": "Pésima",
+          "option": "Very bad",
           "value" : "5"
         }
       ],
@@ -384,42 +384,42 @@
         {
           "score": true,
           "name": "laboral_condition",
-          "title": "¿Cómo es tu condición laboral (sueldo, prestaciones)",
+          "title": "Your labor conditions (salary, benefits) are...",
           "required":true
         },
         {
           "score": true,
           "name": "laboral_will",
-          "title": "Califica la voluntad y acciones de tu empresa para mejorar tu seguridad",
+          "title": "How are your media organization's policy and actions to increase your security?",
           "required":true
         }
       ]
     },
     {
       "type":"table-multiradio",
-      "title": "Seguridad digital",
-      "instruction":"Por favor elige una opción",
+      "title": "Digital security",
+      "instruction":"Please rank your skills in these digital security tools",
       "options":[
         {
-          "option": "Maestro",
+          "option": "Master",
           "value" : "1"
         },
         {
-          "option": "Avanzada",
+          "option": "Advanced",
           "value" : "2"
         },
         {
-          "option": "Intermedia",
+          "option": "Intermediate",
           "value" : "3"
         },
        
         {
-          "option": "Básica",
+          "option": "Basic",
           "value" : "4"
         },
 
         {
-          "option": "Ninguna",
+          "option": "None",
           "value" : "5"
         }
       ],
@@ -427,31 +427,31 @@
         {
           "score": true,
           "name": "digital_navigation",
-          "title": "Navegación anónima",
+          "title": "Anonymous navigation (TOR)",
           "required":true
         },
         {
           "score": true,
           "name": "digital_mail",
-          "title": "Correo encriptado (PGP, Protogmail, Mailvelope, Hushmail)",
+          "title": "Encrypted email (PGP, Protonmail, Mailvelope, Hushmail)",
           "required":true
         },
         {
           "score": true,
           "name": "digital_chat",
-          "title": "Chat encriptado (OTR+Pidgin, OTR+Adium, Cryptocat, etc)",
+          "title": "Encrypted chat (OTR+Pidgin, OTR+Adium, Cryptocat, etc)",
           "required":true
         },
         {
           "score": true,
           "name": "digital_passwords",
-          "title": "Contraseñas fuertes",
+          "title": "Strong passwords",
           "required":true
         },
         {
           "score": true,
           "name": "digital_calls",
-          "title": "Llamadas telefónicas (RedPhone, Signal, Ostel)",
+          "title": "Encrypted phone calls (RedPhone, Signal, Ostel)",
           "required":true
         }
       ]
