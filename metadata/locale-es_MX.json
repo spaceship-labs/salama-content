@@ -21,6 +21,16 @@
   },
   {
     "language": "es_MX",
+    "date": "2016-03-07 15:14 -0600",
+    "author": "Sandor B.",
+    "description": "En estos niveles de riesgo, los periodistas pueden sufrir ataques con daños serios a su integridad física, psicológica, legal o digital.",
+    "category": "seguridad digital",
+    "published": true,
+    "title": "Nivel de riesgo alto",
+    "path": "es_MX/2016-03-07-nivel-de-riesgo-alto.md"
+  },
+  {
+    "language": "es_MX",
     "date": "2016-03-07 14:50 -0600",
     "author": "Sandor B.",
     "description": "En estos niveles de riesgo, el daño a la integridad física, psicológica, legal o digital puede ser severo o catastrófico.",
