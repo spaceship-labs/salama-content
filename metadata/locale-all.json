@@ -40,5 +40,15 @@
     "published": true,
     "title": "post de prueba",
     "path": "es_MX/2016-03-07-post-de-prueba.md"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-07 13:29 -0600",
+    "author": "Snador barragán",
+    "description": "Creación de un post de prueba en Lunes",
+    "category": "seguridad digital",
+    "published": true,
+    "title": "Post de Sandor 01 Prueba 01",
+    "path": "es_MX/2016-03-07-post-de-sandor-01-prueba-01.md"
   }
 ]
