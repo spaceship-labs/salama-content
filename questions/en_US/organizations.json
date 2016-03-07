@@ -8,25 +8,29 @@
           "name": "medium",
           "input":"text",
           "title":"Medio de comunicación",
-          "placeholder":"Por favor anota el nombre de tu organización"
+          "instruction":"Por favor anota el nombre de tu organización",
+          "required":true
         },
         {
           "name": "section",
           "input": "text",
           "title": "Sección",
-          "placeholder": "Por favor anota el nombre de tu sección o departamento"
+          "instruction": "Por favor anota el nombre de tu sección o departamento",
+          "required":true
         },
         {
           "name": "members",
           "input": "text",
           "title": "Integrantes",
-          "placeholder": "Por favor anota el número de integrantes de tu sección o departamento"
+          "instruction": "Por favor anota el número de integrantes de tu sección o departamento",
+          "required":true
         },
         {
           "name": "participants",
           "input": "text",
           "title": "Participantes",
-          "placeholder": "Por favor anota el nombre de las personas que participan en el análisis de riesgo"
+          "instruction": "Por favor anota el nombre de las personas que participan en el análisis de riesgo",
+          "required":true
         }
       ]
     },
@@ -62,84 +66,100 @@
         {
           "score":true,
           "name": "probability_murder",
-          "title":"Asesinato"
+          "title":"Asesinato",
+          "required":true
         },     
         {
           "score":true,
           "name": "probability_dissapear",
-          "title":"Desapariciones"
+          "title":"Desapariciones",
+          "required":true
         },     
 
         {
           "score":true,
           "name": "probability_kidnapping",
-          "title":"Secuestros"
+          "title":"Secuestros",
+          "required":true
         },     
 
         {
           "score":true,
           "name": "probability_torture",
-          "title":"Tortura"
+          "title":"Tortura",
+          "required":true
         },     
         {
           "score":true,
           "name": "probability_coups",
-          "title":"Golpes"
+          "title":"Golpes",
+          "required":true
         },
         {
           "score":true,
           "name": "probability_stole",
-          "title":"Robo"
+          "title":"Robo",
+          "required":true
         },
         {
           "score":true,
           "name": "probability_thread_death",
-          "title":"Amenaza de muerte"
+          "title":"Amenaza de muerte",
+          "required":true
         },
         {
           "score":true,
           "name": "probability_defamation",
-          "title":"Difamación"
+          "title":"Difamación",
+          "required":true
         },
         {
           "score":true,
           "name": "probability_verbal_attack",
-          "title":"Ataque verbal"
+          "title":"Ataque verbal",
+          "required":true
         },
         {
           "score":true,
           "name": "probability_espionage",
-          "title":"Espionaje"
+          "title":"Espionaje",
+          "required":true
         },
         {
           "score":true,
           "name": "probability_hacking",
-          "title":"Hackeo de cuentas"
+          "title":"Hackeo de cuentas",
+          "required":true
         },
         {
           "score":true,
           "name": "probability_ciber_attack",
-          "title":"Ataque cibernetico"
+          "title":"Ataque cibernetico",
+          "required":true
         },
         {
           "score":true,
           "name": "probability_ddos_attack",
-          "title": "Denegación de servicio"
+          "title":"Denegación de servicio",
+          "required":true
         },
         {
           "score":true,
           "name": "probability_media_attack",
-          "title": "Ataque a medios"
+          "title":"Ataque a medios",
+          "required":true
         },
         {
           "score":true,
           "name": "probability_sexual_attack",
-          "title": "Ataque sexual"
+          "title":"Ataque sexual",
+          "required":true
         },
         {
           "score":true,
           "name": "probability_information_obstacle",
-          "title": "Obstaculos a la información"
+          "title":"Obstaculos a la información",
+          "required":true
         }
       ]
     },
@@ -175,84 +195,100 @@
         {
           "score":true,
           "name": "probability_control_murder",
-          "title":"Asesinato"
+          "title":"Asesinato",
+          "required":true
         },     
         {
           "score":true,
           "name": "probability_control_dissapear",
-          "title":"Desapariciones"
+          "title":"Desapariciones",
+          "required":true
         },     
 
         {
           "score":true,
           "name": "probability_control_kidnapping",
-          "title":"Secuestros"
+          "title":"Secuestros",
+          "required":true
         },     
 
         {
           "score":true,
           "name": "probability_control_torture",
-          "title":"Tortura"
+          "title":"Tortura",
+          "required":true
         },     
         {
           "score":true,
           "name": "probability_control_coups",
-          "title":"Golpes"
+          "title":"Golpes",
+          "required":true
         },
         {
           "score":true,
           "name": "probability_control_stole",
-          "title":"Robo"
+          "title":"Robo",
+          "required":true
         },
         {
           "score":true,
           "name": "probability_control_thread_death",
-          "title":"Amenaza de muerte"
+          "title":"Amenaza de muerte",
+          "required":true
         },
         {
           "score":true,
           "name": "probability_control_defamation",
-          "title":"Difamación"
+          "title":"Difamación",
+          "required":true
         },
         {
           "score":true,
           "name": "probability_control_verbal_attack",
-          "title":"Ataque verbal"
+          "title":"Ataque verbal",
+          "required":true
         },
         {
           "score":true,
           "name": "probability_control_espionage",
-          "title":"Espionaje"
+          "title":"Espionaje",
+          "required":true
         },
         {
           "score":true,
           "name": "probability_control_hacking",
-          "title":"Hackeo de cuentas"
+          "title":"Hackeo de cuentas",
+          "required":true
         },
         {
           "score":true,
           "name": "probability_control_ciber_attack",
-          "title":"Ataque cibernetico"
+          "title":"Ataque cibernetico",
+          "required":true
         },
         {
           "score":true,
           "name": "probability_control_ddos_attack",
-          "title": "Denegación de servicio"
+          "title":"Denegación de servicio",
+          "required":true
         },
         {
           "score":true,
           "name": "probability_control_media_attack",
-          "title": "Ataque a medios"
+          "title":"Ataque a medios",
+          "required":true
         },
         {
           "score":true,
           "name": "probability_control_sexual_attack",
-          "title": "Ataque sexual"
+          "title":"Ataque sexual",
+          "required":true
         },
         {
           "score":true,
           "name": "probability_control_information_obstacle",
-          "title": "Obstaculos a la información"
+          "title":"Obstaculos a la información",
+          "required":true
         }
       ]
     },
@@ -288,84 +324,100 @@
         {
           "score":true,
           "name": "time_murder",
-          "title":"Asesinato"
+          "title":"Asesinato",
+          "required":true
         },     
         {
           "score":true,
           "name": "time_dissapear",
-          "title":"Desapariciones"
+          "title":"Desapariciones",
+          "required":true
         },     
 
         {
           "score":true,
           "name": "time_kidnapping",
-          "title":"Secuestros"
+          "title":"Secuestros",
+          "required":true
         },     
 
         {
           "score":true,
           "name": "time_torture",
-          "title":"Tortura"
+          "title":"Tortura",
+          "required":true
         },     
         {
           "score":true,
           "name": "time_coups",
-          "title":"Golpes"
+          "title":"Golpes",
+          "required":true
         },
         {
           "score":true,
           "name": "time_stole",
-          "title":"Robo"
+          "title":"Robo",
+          "required":true
         },
         {
           "score":true,
           "name": "time_thread_death",
-          "title":"Amenaza de muerte"
+          "title":"Amenaza de muerte",
+          "required":true
         },
         {
           "score":true,
           "name": "time_defamation",
-          "title":"Difamación"
+          "title":"Difamación",
+          "required":true
         },
         {
           "score":true,
           "name": "time_verbal_attack",
-          "title":"Ataque verbal"
+          "title":"Ataque verbal",
+          "required":true
         },
         {
           "score":true,
           "name": "time_espionage",
-          "title":"Espionaje"
+          "title":"Espionaje",
+          "required":true
         },
         {
           "score":true,
           "name": "time_hacking",
-          "title":"Hackeo de cuentas"
+          "title":"Hackeo de cuentas",
+          "required":true
         },
         {
           "score":true,
           "name": "time_ciber_attack",
-          "title":"Ataque cibernetico"
+          "title":"Ataque cibernetico",
+          "required":true
         },
         {
           "score":true,
           "name": "time_ddos_attack",
-          "title": "Denegación de servicio"
+          "title":"Denegación de servicio",
+          "required":true
         },
         {
           "score":true,
           "name": "time_media_attack",
-          "title": "Ataque a medios"
+          "title":"Ataque a medios",
+          "required":true
         },
         {
           "score":true,
           "name": "time_sexual_attack",
-          "title": "Ataque sexual"
+          "title":"Ataque sexual",
+          "required":true
         },
         {
           "score":true,
           "name": "time_information_obstacle",
-          "title": "Obstaculos a la información"
+          "title":"Obstaculos a la información",
+          "required":true
         }
       ]
     },
@@ -401,84 +453,100 @@
         {
           "score":true,
           "name": "time_control_murder",
-          "title":"Asesinato"
+          "title":"Asesinato",
+          "required":true
         },     
         {
           "score":true,
           "name": "time_control_dissapear",
-          "title":"Desapariciones"
+          "title":"Desapariciones",
+          "required":true
         },     
 
         {
           "score":true,
           "name": "time_control_kidnapping",
-          "title":"Secuestros"
+          "title":"Secuestros",
+          "required":true
         },     
 
         {
           "score":true,
           "name": "time_control_torture",
-          "title":"Tortura"
+          "title":"Tortura",
+          "required":true
         },     
         {
           "score":true,
           "name": "time_control_coups",
-          "title":"Golpes"
+          "title":"Golpes",
+          "required":true
         },
         {
           "score":true,
           "name": "time_control_stole",
-          "title":"Robo"
+          "title":"Robo",
+          "required":true
         },
         {
           "score":true,
           "name": "time_control_thread_death",
-          "title":"Amenaza de muerte"
+          "title":"Amenaza de muerte",
+          "required":true
         },
         {
           "score":true,
           "name": "time_control_defamation",
-          "title":"Difamación"
+          "title":"Difamación",
+          "required":true
         },
         {
           "score":true,
           "name": "time_control_verbal_attack",
-          "title":"Ataque verbal"
+          "title":"Ataque verbal",
+          "required":true
         },
         {
           "score":true,
           "name": "time_control_espionage",
-          "title":"Espionaje"
+          "title":"Espionaje",
+          "required":true
         },
         {
           "score":true,
           "name": "time_control_hacking",
-          "title":"Hackeo de cuentas"
+          "title":"Hackeo de cuentas",
+          "required":true
         },
         {
           "score":true,
           "name": "time_control_ciber_attack",
-          "title":"Ataque cibernetico"
+          "title":"Ataque cibernetico",
+          "required":true
         },
         {
           "score":true,
           "name": "time_control_ddos_attack",
-          "title": "Denegación de servicio"
+          "title":"Denegación de servicio",
+          "required":true
         },
         {
           "score":true,
           "name": "time_control_media_attack",
-          "title": "Ataque a medios"
+          "title":"Ataque a medios",
+          "required":true
         },
         {
           "score":true,
           "name": "time_control_sexual_attack",
-          "title": "Ataque sexual"
+          "title":"Ataque sexual",
+          "required":true
         },
         {
           "score":true,
           "name": "time_control_information_obstacle",
-          "title": "Obstaculos a la información"
+          "title":"Obstaculos a la información",
+          "required":true
         }
       ]
     },
@@ -514,84 +582,100 @@
         {
           "score":true,
           "name": "financial_murder",
-          "title":"Asesinato"
+          "title":"Asesinato",
+          "required":true
         },     
         {
           "score":true,
           "name": "financial_dissapear",
-          "title":"Desapariciones"
+          "title":"Desapariciones",
+          "required":true
         },     
 
         {
           "score":true,
           "name": "financial_kidnapping",
-          "title":"Secuestros"
+          "title":"Secuestros",
+          "required":true
         },     
 
         {
           "score":true,
           "name": "financial_torture",
-          "title":"Tortura"
+          "title":"Tortura",
+          "required":true
         },     
         {
           "score":true,
           "name": "financial_coups",
-          "title":"Golpes"
+          "title":"Golpes",
+          "required":true
         },
         {
           "score":true,
           "name": "financial_stole",
-          "title":"Robo"
+          "title":"Robo",
+          "required":true
         },
         {
           "score":true,
           "name": "financial_thread_death",
-          "title":"Amenaza de muerte"
+          "title":"Amenaza de muerte",
+          "required":true
         },
         {
           "score":true,
           "name": "financial_defamation",
-          "title":"Difamación"
+          "title":"Difamación",
+          "required":true
         },
         {
           "score":true,
           "name": "financial_verbal_attack",
-          "title":"Ataque verbal"
+          "title":"Ataque verbal",
+          "required":true
         },
         {
           "score":true,
           "name": "financial_espionage",
-          "title":"Espionaje"
+          "title":"Espionaje",
+          "required":true
         },
         {
           "score":true,
           "name": "financial_hacking",
-          "title":"Hackeo de cuentas"
+          "title":"Hackeo de cuentas",
+          "required":true
         },
         {
           "score":true,
           "name": "financial_ciber_attack",
-          "title":"Ataque cibernetico"
+          "title":"Ataque cibernetico",
+          "required":true
         },
         {
           "score":true,
           "name": "financial_ddos_attack",
-          "title": "Denegación de servicio"
+          "title":"Denegación de servicio",
+          "required":true
         },
         {
           "score":true,
           "name": "financial_media_attack",
-          "title": "Ataque a medios"
+          "title":"Ataque a medios",
+          "required":true
         },
         {
           "score":true,
           "name": "financial_sexual_attack",
-          "title": "Ataque sexual"
+          "title":"Ataque sexual",
+          "required":true
         },
         {
           "score":true,
           "name": "financial_information_obstacle",
-          "title": "Obstaculos a la información"
+          "title":"Obstaculos a la información",
+          "required":true
         }
       ]
     },
@@ -627,84 +711,100 @@
         {
           "score":true,
           "name": "financial_control_murder",
-          "title":"Asesinato"
+          "title":"Asesinato",
+          "required":true
         },     
         {
           "score":true,
           "name": "financial_control_dissapear",
-          "title":"Desapariciones"
+          "title":"Desapariciones",
+          "required":true
         },     
 
         {
           "score":true,
           "name": "financial_control_kidnapping",
-          "title":"Secuestros"
+          "title":"Secuestros",
+          "required":true
         },     
 
         {
           "score":true,
           "name": "financial_control_torture",
-          "title":"Tortura"
+          "title":"Tortura",
+          "required":true
         },     
         {
           "score":true,
           "name": "financial_control_coups",
-          "title":"Golpes"
+          "title":"Golpes",
+          "required":true
         },
         {
           "score":true,
           "name": "financial_control_stole",
-          "title":"Robo"
+          "title":"Robo",
+          "required":true
         },
         {
           "score":true,
           "name": "financial_control_thread_death",
-          "title":"Amenaza de muerte"
+          "title":"Amenaza de muerte",
+          "required":true
         },
         {
           "score":true,
           "name": "financial_control_defamation",
-          "title":"Difamación"
+          "title":"Difamación",
+          "required":true
         },
         {
           "score":true,
           "name": "financial_control_verbal_attack",
-          "title":"Ataque verbal"
+          "title":"Ataque verbal",
+          "required":true
         },
         {
           "score":true,
           "name": "financial_control_espionage",
-          "title":"Espionaje"
+          "title":"Espionaje",
+          "required":true
         },
         {
           "score":true,
           "name": "financial_control_hacking",
-          "title":"Hackeo de cuentas"
+          "title":"Hackeo de cuentas",
+          "required":true
         },
         {
           "score":true,
           "name": "financial_control_ciber_attack",
-          "title":"Ataque cibernetico"
+          "title":"Ataque cibernetico",
+          "required":true
         },
         {
           "score":true,
           "name": "financial_control_ddos_attack",
-          "title": "Denegación de servicio"
+          "title":"Denegación de servicio",
+          "required":true
         },
         {
           "score":true,
           "name": "financial_control_media_attack",
-          "title": "Ataque a medios"
+          "title":"Ataque a medios",
+          "required":true
         },
         {
           "score":true,
           "name": "financial_control_sexual_attack",
-          "title": "Ataque sexual"
+          "title":"Ataque sexual",
+          "required":true
         },
         {
           "score":true,
           "name": "financial_control_information_obstacle",
-          "title": "Obstaculos a la información"
+          "title":"Obstaculos a la información",
+          "required":true
         }
       ]
     },
@@ -740,84 +840,100 @@
         {
           "score":true,
           "name": "physical_murder",
-          "title":"Asesinato"
+          "title":"Asesinato",
+          "required":true
         },     
         {
           "score":true,
           "name": "physical_dissapear",
-          "title":"Desapariciones"
+          "title":"Desapariciones",
+          "required":true
         },     
 
         {
           "score":true,
           "name": "physical_kidnapping",
-          "title":"Secuestros"
+          "title":"Secuestros",
+          "required":true
         },     
 
         {
           "score":true,
           "name": "physical_torture",
-          "title":"Tortura"
+          "title":"Tortura",
+          "required":true
         },     
         {
           "score":true,
           "name": "physical_coups",
-          "title":"Golpes"
+          "title":"Golpes",
+          "required":true
         },
         {
           "score":true,
           "name": "physical_stole",
-          "title":"Robo"
+          "title":"Robo",
+          "required":true
         },
         {
           "score":true,
           "name": "physical_thread_death",
-          "title":"Amenaza de muerte"
+          "title":"Amenaza de muerte",
+          "required":true
         },
         {
           "score":true,
           "name": "physical_defamation",
-          "title":"Difamación"
+          "title":"Difamación",
+          "required":true
         },
         {
           "score":true,
           "name": "physical_verbal_attack",
-          "title":"Ataque verbal"
+          "title":"Ataque verbal",
+          "required":true
         },
         {
           "score":true,
           "name": "physical_espionage",
-          "title":"Espionaje"
+          "title":"Espionaje",
+          "required":true
         },
         {
           "score":true,
           "name": "physical_hacking",
-          "title":"Hackeo de cuentas"
+          "title":"Hackeo de cuentas",
+          "required":true
         },
         {
           "score":true,
           "name": "physical_ciber_attack",
-          "title":"Ataque cibernetico"
+          "title":"Ataque cibernetico",
+          "required":true
         },
         {
           "score":true,
           "name": "physical_ddos_attack",
-          "title": "Denegación de servicio"
+          "title":"Denegación de servicio",
+          "required":true
         },
         {
           "score":true,
           "name": "physical_media_attack",
-          "title": "Ataque a medios"
+          "title":"Ataque a medios",
+          "required":true
         },
         {
           "score":true,
           "name": "physical_sexual_attack",
-          "title": "Ataque sexual"
+          "title":"Ataque sexual",
+          "required":true
         },
         {
           "score":true,
           "name": "physical_information_obstacle",
-          "title": "Obstaculos a la información"
+          "title":"Obstaculos a la información",
+          "required":true
         }
       ]
     },
@@ -853,84 +969,100 @@
         {
           "score":true,
           "name": "physical_control_murder",
-          "title":"Asesinato"
+          "title":"Asesinato",
+          "required":true
         },     
         {
           "score":true,
           "name": "physical_control_dissapear",
-          "title":"Desapariciones"
+          "title":"Desapariciones",
+          "required":true
         },     
 
         {
           "score":true,
           "name": "physical_control_kidnapping",
-          "title":"Secuestros"
+          "title":"Secuestros",
+          "required":true
         },     
 
         {
           "score":true,
           "name": "physical_control_torture",
-          "title":"Tortura"
+          "title":"Tortura",
+          "required":true
         },     
         {
           "score":true,
           "name": "physical_control_coups",
-          "title":"Golpes"
+          "title":"Golpes",
+          "required":true
         },
         {
           "score":true,
           "name": "physical_control_stole",
-          "title":"Robo"
+          "title":"Robo",
+          "required":true
         },
         {
           "score":true,
           "name": "physical_control_thread_death",
-          "title":"Amenaza de muerte"
+          "title":"Amenaza de muerte",
+          "required":true
         },
         {
           "score":true,
           "name": "physical_control_defamation",
-          "title":"Difamación"
+          "title":"Difamación",
+          "required":true
         },
         {
           "score":true,
           "name": "physical_control_verbal_attack",
-          "title":"Ataque verbal"
+          "title":"Ataque verbal",
+          "required":true
         },
         {
           "score":true,
           "name": "physical_control_espionage",
-          "title":"Espionaje"
+          "title":"Espionaje",
+          "required":true
         },
         {
           "score":true,
           "name": "physical_control_hacking",
-          "title":"Hackeo de cuentas"
+          "title":"Hackeo de cuentas",
+          "required":true
         },
         {
           "score":true,
           "name": "physical_control_ciber_attack",
-          "title":"Ataque cibernetico"
+          "title":"Ataque cibernetico",
+          "required":true
         },
         {
           "score":true,
           "name": "physical_control_ddos_attack",
-          "title": "Denegación de servicio"
+          "title":"Denegación de servicio",
+          "required":true
         },
         {
           "score":true,
           "name": "physical_control_media_attack",
-          "title": "Ataque a medios"
+          "title":"Ataque a medios",
+          "required":true
         },
         {
           "score":true,
           "name": "physical_control_sexual_attack",
-          "title": "Ataque sexual"
+          "title":"Ataque sexual",
+          "required":true
         },
         {
           "score":true,
           "name": "physical_control_information_obstacle",
-          "title": "Obstaculos a la información"
+          "title":"Obstaculos a la información",
+          "required":true
         }
       ]
     },
@@ -966,84 +1098,100 @@
         {
           "score":true,
           "name": "reputation_murder",
-          "title":"Asesinato"
+          "title":"Asesinato",
+          "required":true
         },     
         {
           "score":true,
           "name": "reputation_dissapear",
-          "title":"Desapariciones"
+          "title":"Desapariciones",
+          "required":true
         },     
 
         {
           "score":true,
           "name": "reputation_kidnapping",
-          "title":"Secuestros"
+          "title":"Secuestros",
+          "required":true
         },     
 
         {
           "score":true,
           "name": "reputation_torture",
-          "title":"Tortura"
+          "title":"Tortura",
+          "required":true
         },     
         {
           "score":true,
           "name": "reputation_coups",
-          "title":"Golpes"
+          "title":"Golpes",
+          "required":true
         },
         {
           "score":true,
           "name": "reputation_stole",
-          "title":"Robo"
+          "title":"Robo",
+          "required":true
         },
         {
           "score":true,
           "name": "reputation_thread_death",
-          "title":"Amenaza de muerte"
+          "title":"Amenaza de muerte",
+          "required":true
         },
         {
           "score":true,
           "name": "reputation_defamation",
-          "title":"Difamación"
+          "title":"Difamación",
+          "required":true
         },
         {
           "score":true,
           "name": "reputation_verbal_attack",
-          "title":"Ataque verbal"
+          "title":"Ataque verbal",
+          "required":true
         },
         {
           "score":true,
           "name": "reputation_espionage",
-          "title":"Espionaje"
+          "title":"Espionaje",
+          "required":true
         },
         {
           "score":true,
           "name": "reputation_hacking",
-          "title":"Hackeo de cuentas"
+          "title":"Hackeo de cuentas",
+          "required":true
         },
         {
           "score":true,
           "name": "reputation_ciber_attack",
-          "title":"Ataque cibernetico"
+          "title":"Ataque cibernetico",
+          "required":true
         },
         {
           "score":true,
           "name": "reputation_ddos_attack",
-          "title": "Denegación de servicio"
+          "title":"Denegación de servicio",
+          "required":true
         },
         {
           "score":true,
           "name": "reputation_media_attack",
-          "title": "Ataque a medios"
+          "title":"Ataque a medios",
+          "required":true
         },
         {
           "score":true,
           "name": "reputation_sexual_attack",
-          "title": "Ataque sexual"
+          "title":"Ataque sexual",
+          "required":true
         },
         {
           "score":true,
           "name": "reputation_information_obstacle",
-          "title": "Obstaculos a la información"
+          "title":"Obstaculos a la información",
+          "required":true
         }
       ]
     },
@@ -1079,84 +1227,100 @@
         {
           "score":true,
           "name": "reputation_control_murder",
-          "title":"Asesinato"
+          "title":"Asesinato",
+          "required":true
         },     
         {
           "score":true,
           "name": "reputation_control_dissapear",
-          "title":"Desapariciones"
+          "title":"Desapariciones",
+          "required":true
         },     
 
         {
           "score":true,
           "name": "reputation_control_kidnapping",
-          "title":"Secuestros"
+          "title":"Secuestros",
+          "required":true
         },     
 
         {
           "score":true,
           "name": "reputation_control_torture",
-          "title":"Tortura"
+          "title":"Tortura",
+          "required":true
         },     
         {
           "score":true,
           "name": "reputation_control_coups",
-          "title":"Golpes"
+          "title":"Golpes",
+          "required":true
         },
         {
           "score":true,
           "name": "reputation_control_stole",
-          "title":"Robo"
+          "title":"Robo",
+          "required":true
         },
         {
           "score":true,
           "name": "reputation_control_thread_death",
-          "title":"Amenaza de muerte"
+          "title":"Amenaza de muerte",
+          "required":true
         },
         {
           "score":true,
           "name": "reputation_control_defamation",
-          "title":"Difamación"
+          "title":"Difamación",
+          "required":true
         },
         {
           "score":true,
           "name": "reputation_control_verbal_attack",
-          "title":"Ataque verbal"
+          "title":"Ataque verbal",
+          "required":true
         },
         {
           "score":true,
           "name": "reputation_control_espionage",
-          "title":"Espionaje"
+          "title":"Espionaje",
+          "required":true
         },
         {
           "score":true,
           "name": "reputation_control_hacking",
-          "title":"Hackeo de cuentas"
+          "title":"Hackeo de cuentas",
+          "required":true
         },
         {
           "score":true,
           "name": "reputation_control_ciber_attack",
-          "title":"Ataque cibernetico"
+          "title":"Ataque cibernetico",
+          "required":true
         },
         {
           "score":true,
           "name": "reputation_control_ddos_attack",
-          "title": "Denegación de servicio"
+          "title":"Denegación de servicio",
+          "required":true
         },
         {
           "score":true,
           "name": "reputation_control_media_attack",
-          "title": "Ataque a medios"
+          "title":"Ataque a medios",
+          "required":true
         },
         {
           "score":true,
           "name": "reputation_control_sexual_attack",
-          "title": "Ataque sexual"
+          "title":"Ataque sexual",
+          "required":true
         },
         {
           "score":true,
           "name": "reputation_control_information_obstacle",
-          "title": "Obstaculos a la información"
+          "title":"Obstaculos a la información",
+          "required":true
         }
       ]
     }

@@ -7,7 +7,7 @@
         {
           "name": "name",
           "input":"text",
-          "title":"Name",
+          "title":"Nombre",
           "instruction":"Si quiere permanecer anónimo, no llenes el espacio del nombre. Necesitamos tu correo electrónico para enviarte los resultado . Si deseas recibir consejo individual, por favor escribe tu nombre",
           "placeholder": "Por favor anota tu nombre completo"
         },
@@ -16,7 +16,8 @@
           "input": "email",
           "title": "Correo Electrónico",
           "instruction": "Por favor escribe tu correo electrónico, (Los resultados serán enviados a este correo electrónico).",
-          "placeholder": "Anota tu dirección de correo electrónico"
+          "placeholder": "Anota tu dirección de correo electrónico",
+          "required":true
         }
       ]
     },
@@ -35,14 +36,16 @@
           "input": "text",
           "title": "Medio",
           "instruction": "Por favor anota el nombre de tu medio de comunicación (si eres periodista independiente, escribe esas palabras)",
-          "placeholder": "Escribe tu respuesta"
+          "placeholder": "Escribe tu respuesta",
+          "required":true
         },
         {
           "name": "location",
           "input": "text",
           "title": "Municipio y Estado (Provincia o Departamento)",
           "instruction": "Por favor escribe el nombre de tu municipio y departamento. Ejemplo: Pueblo Nuevo, Estelí",
-          "placeholder": "Escribe tu respuesta"
+          "placeholder": "Escribe tu respuesta",
+          "required":true
         },
         {
           "name":  "job",
@@ -87,7 +90,8 @@
               "option": "no",
               "value": 0
             }
-          ]
+          ],
+          "required":true
         }
       ]      
     },
@@ -109,7 +113,8 @@
               "option": "no",
               "value": 0
             }
-          ]
+          ],
+          "required":true
         },
         {
           "score": true,
@@ -126,7 +131,8 @@
               "option": "no",
               "value": 0
             }
-          ]
+          ],
+          "required":true
         }
       ]
     },
@@ -162,29 +168,34 @@
         {
           "score": true,
           "name": "security_police",
-          "title": "¿Cubres notas de policía o crimen"
+          "title": "¿Cubres notas de policía o crimen",
+          "required":true
         },
         {
           "score": true,
           "name": "security_corruption",
-          "title": "¿Cubres hechos de corrupción?"
+          "title": "¿Cubres hechos de corrupción?",
+          "required":true
         },
 
         {
           "score": true,
           "name": "security_violence",
-          "title": "¿Cubres hechos violentos?"
+          "title": "¿Cubres hechos violentos?",
+          "required":true
         },
 
         {
           "score": true,
           "name": "security_zone",
-          "title": "¿Con qué frecuencia acudes a zonas de alto riesgo?"
+          "title": "¿Con qué frecuencia acudes a zonas de alto riesgo?",
+          "required":true
         },
         {
           "score": true,
           "name": "security_information",
-          "title": "¿Cubres notas de policía o crimen"
+          "title": "¿Cubres notas de policía o crimen",
+          "required":true
         }
       ]
     },
@@ -220,17 +231,20 @@
         {
           "score": true,
           "name": "censorship_out",
-          "title": "¿Recibes presiones externas para censurar tus información?"
+          "title": "¿Recibes presiones externas para censurar tus información?",
+          "required":true
         },
         {
           "score": true,
           "name": "censorship_in",
-          "title": "¿Cubres hechos de corrupción?"
+          "title": "¿Cubres hechos de corrupción?",
+          "required":true
         },
         {
           "score": true,
           "name": "censorship_auto",
-          "title": "¿Practicas autocensura"
+          "title": "¿Practicas autocensura",
+          "required":true
         }
       ]
     },
@@ -266,22 +280,26 @@
         {
           "score": true,
           "name": "profesional_plan",
-          "title": "¿Qué tanto planificas tus coberturas?"
+          "title": "¿Qué tanto planificas tus coberturas?",
+          "required":true
         },
         {
           "score": true,
           "name": "profesional_information",
-          "title": "¿Con qué frecuencia verificas la información que consigues y publicas?"
+          "title": "¿Con qué frecuencia verificas la información que consigues y publicas?",
+          "required":true
         },
         {
           "score": true,
           "name": "profesional_etic",
-          "title": "¿Con qué frecuencia analizas los principios y valores éticos del periodismo antes de publicar la información que consigues?"
+          "title": "¿Con qué frecuencia analizas los principios y valores éticos del periodismo antes de publicar la información que consigues?",
+          "required":true
         },
         {
           "score": true,
           "name": "profesional_protocols",
-          "title": "¿Usas protocolos de reducción de riesgo en tu trabajo?"
+          "title": "¿Usas protocolos de reducción de riesgo en tu trabajo?",
+          "required":true
         }
       ]
     },
@@ -317,17 +335,20 @@
         {
           "score": true,
           "name": "network_boss",
-          "title": "¿Cómo es la comunicación con tus jefes?"
+          "title": "¿Cómo es la comunicación con tus jefes?",
+          "required":true
         },
         {
           "score": true,
           "name": "network_sub",
-          "title": "¿Cómo es la comunicación con tus subalternos?"
+          "title": "¿Cómo es la comunicación con tus subalternos?",
+          "required":true
         },
         {
           "score": true,
           "name": "network_collegues",
-          "title": "Cómo es la comunicación con tus colegas de otros medios?"
+          "title": "Cómo es la comunicación con tus colegas de otros medios?",
+          "required":true
         }
       ]
     },
@@ -363,12 +384,14 @@
         {
           "score": true,
           "name": "laboral_condition",
-          "title": "¿Cómo es tu condición laboral (sueldo, prestaciones)"
+          "title": "¿Cómo es tu condición laboral (sueldo, prestaciones)",
+          "required":true
         },
         {
           "score": true,
           "name": "laboral_will",
-          "title": "Califica la voluntad y acciones de tu empresa para mejorar tu seguridad"
+          "title": "Califica la voluntad y acciones de tu empresa para mejorar tu seguridad",
+          "required":true
         }
       ]
     },
@@ -404,27 +427,32 @@
         {
           "score": true,
           "name": "digital_navigation",
-          "title": "Navegación anónima"
+          "title": "Navegación anónima",
+          "required":true
         },
         {
           "score": true,
           "name": "digital_mail",
-          "title": "Correo encriptado (PGP, Protogmail, Mailvelope, Hushmail)"
+          "title": "Correo encriptado (PGP, Protogmail, Mailvelope, Hushmail)",
+          "required":true
         },
         {
           "score": true,
           "name": "digital_chat",
-          "title": "Chat encriptado (OTR+Pidgin, OTR+Adium, Cryptocat, etc)"
+          "title": "Chat encriptado (OTR+Pidgin, OTR+Adium, Cryptocat, etc)",
+          "required":true
         },
         {
           "score": true,
           "name": "digital_passwords",
-          "title": "Contraseñas fuertes"
+          "title": "Contraseñas fuertes",
+          "required":true
         },
         {
           "score": true,
           "name": "digital_calls",
-          "title": "Llamadas telefónicas (RedPhone, Signal, Ostel)"
+          "title": "Llamadas telefónicas (RedPhone, Signal, Ostel)",
+          "required":true
         }
       ]
     }
