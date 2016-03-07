@@ -3,11 +3,12 @@ language: es_MX
 date: "2016-03-07 13:07 -0600"
 author: Tugorez
 description: 
-  Seguridad dígital: encriptación de las conexiones.
+  - object Object
 category: seguridad digital
-published: true
+published: false
 title: post de prueba
 ---
+
 
 # A New Post
 ## A subtitle
@@ -22,5 +23,3 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 - item 1 de la lista
 - item 2 de la lista
 - item 3 de la lista
-
-
