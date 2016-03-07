@@ -8,5 +8,15 @@
     "published": true,
     "title": "Test in english - Digital Security",
     "path": "en_US/2016-02-26-test-in-english-digital-security.md"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-07 13:41 -0600",
+    "author": "tugorez",
+    "description": "tugorez",
+    "category": "digital security",
+    "published": true,
+    "title": "Testing prose",
+    "path": "en_US/2016-03-07-testing-prose.md"
   }
 ]
