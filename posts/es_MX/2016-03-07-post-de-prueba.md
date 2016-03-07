@@ -5,7 +5,7 @@ author: Tugorez
 description: 
   - object Object
 category: seguridad digital
-published: false
+published: true
 title: post de prueba
 ---
 
