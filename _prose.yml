@@ -99,3 +99,52 @@ prose:
         field: 
           element: "hidden"
           value: "es_MX"
+
+    posts/ar_AE:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          help: "Title of this post"
+
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          help: "Please write your name"
+
+      - name: "description"
+        field:
+          element: "textarea"
+          label: "Description"
+          help: "Please describe this post"
+
+      - name: "category"
+        field:
+          element: "select"
+          label: "Category"
+          placeholder: "Choose a category"
+          options:
+            - name: "Digital Security"
+              value: "digital security"
+            - name: "Laboral Security"
+              value: "laboral security"
+            - name: "Others"
+              value: "others"
+              
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Should I publish this post?"
+          value: false
+
+      - name: "date"
+        field:
+          element: "hidden"
+          value: "CURRENT_DATETIME"
+
+      - name: "language" 
+        field: 
+          element: "hidden"
+          value: "ar_AE"
+
