@@ -3,6 +3,8 @@
 
     {
       "type": "one-column" ,
+      "optional":"true",
+      "legend-optional":"Would you like to receive the results in your mail?",
       "questions":[
         {
           "name": "name",
@@ -24,6 +26,8 @@
 
     {
       "type": "double-column",
+      "optional":"true",
+      "legend-optional":"Would you like to improve this evaluation sending us more data?",
       "questions":[
         {
          "name": "personalized_training",
