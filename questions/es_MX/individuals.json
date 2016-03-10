@@ -74,7 +74,12 @@
               "value": "Reportero, fotógrafo o bloguero"
             }
           ]
-        },
+        }
+      ]      
+    },
+    {
+      "type": "double-column",
+      "questions":[
         {
           "score": true,
           "name": "threat_individual",
@@ -92,12 +97,7 @@
             }
           ],
           "required":true
-        }
-      ]      
-    },
-    {
-      "type": "double-column",
-      "questions":[
+        },
         {
           "score": true,
           "name": "threat_collegues_in",
