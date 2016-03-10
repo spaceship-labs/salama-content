@@ -5,7 +5,7 @@ author: Sandor B.
 description: "Insults, bad treatment, defamation campaigns, some cyber-attacks, are examples of these risks."
 category: digital security
 published: true
-title: Moderate risk
+title: Low risk
 ---
 
 ## 40 to 59 points
