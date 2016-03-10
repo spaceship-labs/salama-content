@@ -26,7 +26,7 @@
     "description": "Insults, bad treatment, defamation campaigns, some cyber-attacks, are examples of these risks.",
     "category": "digital security",
     "published": true,
-    "title": "Moderate risk",
+    "title": "Low risk",
     "path": "en_US/low.md"
   },
   {
@@ -66,7 +66,7 @@
     "description": "Los periodistas pueden sufrir ataques con daños moderados a su integridad física, psicológica, legal o digital.",
     "category": "seguridad digital",
     "published": true,
-    "title": "Nivel de riesgo moderado",
+    "title": "Nivel de riesgo bajo",
     "path": "es_MX/low.md"
   },
   {
