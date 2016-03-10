@@ -2,86 +2,6 @@
   "pages": [
 
     {
-      "type": "one-column" ,
-      "optional":"true",
-      "legend-optional":"Would you like to receive the results in your mail?",
-      "questions":[
-        {
-          "name": "name",
-          "input":"text",
-          "title":"Name",
-          "instruction":"If you want to remain anonymous, please don't fill the space name. We need your emal address to email the results to you.  If you want to receive taylored and individual advice, please write your name.",
-          "placeholder": "Please write your name"
-        },
-        {
-          "name": "email",
-          "input": "email",
-          "title": "E-mail Address",
-          "instruction":"Please write your e-mail address. (Results of your assessment will be emailed to you.)",
-          "placeholder": "Please write your email",
-          "required":true
-        }
-      ]
-    },
-
-    {
-      "type": "double-column",
-      "optional":"true",
-      "legend-optional":"Would you like to improve this evaluation sending us more data?",
-      "questions":[
-        {
-         "name": "personalized_training",
-         "input":"checkbox",
-         "title": "Personalized training",
-         "instruction":"Yes, I would like to received personalized training."
-        },
-        {
-          "name": "medium",
-          "input": "text",
-          "title": "Media Organization",
-          "instruction": "Please write the name of your media organization (if you are a freelancer, please write it)",
-          "placeholder": "Write your answer",
-          "required":true
-        },
-        {
-          "name": "location",
-          "input": "text",
-          "title": "District (Municipality) and Province (Department)",
-          "instruction": "Please write the name of your municipality (district) and Province. For example: Mahmudiya, Baghdad",
-          "placeholder": "Write your answer",
-          "required":true
-        },
-        {
-          "name":  "job",
-          "input": "multi-checkbox",
-          "title": "Areas of Work",
-          "instruction": "In the current security environment, all members of a media organization share the same level of risk. However, journalists in one areas may face more risks than others. Please select your area or areas of work in your media organization",
-          "options":[
-            {
-              "option": "Production and Circulation",
-              "value": "Production and Circulation"
-            },
-            {
-              "option": "Community Manager",
-              "value": "Community Manager"
-            },
-            {
-              "option": "Edition",
-              "value": "Edition"
-            },
-            {
-              "option": "Direction or Management",
-              "value": "Direction or Management"
-            },
-            {
-              "option": "Reporter, Photographer or Blogger",
-              "value": "Reporter, Photographer or Blogger"
-            }
-          ]
-        }
-      ]      
-    },
-    {
       "type": "double-column",
       "questions":[
         {
@@ -459,6 +379,86 @@
           "required":true
         }
       ]
+    },
+    {
+      "type": "one-column" ,
+      "optional":"true",
+      "legend-optional":"Would you like to receive the results in your mail?",
+      "questions":[
+        {
+          "name": "name",
+          "input":"text",
+          "title":"Name",
+          "instruction":"If you want to remain anonymous, please don't fill the space name. We need your emal address to email the results to you.  If you want to receive taylored and individual advice, please write your name.",
+          "placeholder": "Please write your name"
+        },
+        {
+          "name": "email",
+          "input": "email",
+          "title": "E-mail Address",
+          "instruction":"Please write your e-mail address. (Results of your assessment will be emailed to you.)",
+          "placeholder": "Please write your email",
+          "required":true
+        }
+      ]
+    },
+
+    {
+      "type": "double-column",
+      "optional":"true",
+      "legend-optional":"Would you like to improve this evaluation sending us more data?",
+      "questions":[
+        {
+         "name": "personalized_training",
+         "input":"checkbox",
+         "title": "Personalized training",
+         "instruction":"Yes, I would like to received personalized training."
+        },
+        {
+          "name": "medium",
+          "input": "text",
+          "title": "Media Organization",
+          "instruction": "Please write the name of your media organization (if you are a freelancer, please write it)",
+          "placeholder": "Write your answer",
+          "required":true
+        },
+        {
+          "name": "location",
+          "input": "text",
+          "title": "District (Municipality) and Province (Department)",
+          "instruction": "Please write the name of your municipality (district) and Province. For example: Mahmudiya, Baghdad",
+          "placeholder": "Write your answer",
+          "required":true
+        },
+        {
+          "name":  "job",
+          "input": "multi-checkbox",
+          "title": "Areas of Work",
+          "instruction": "In the current security environment, all members of a media organization share the same level of risk. However, journalists in one areas may face more risks than others. Please select your area or areas of work in your media organization",
+          "options":[
+            {
+              "option": "Production and Circulation",
+              "value": "Production and Circulation"
+            },
+            {
+              "option": "Community Manager",
+              "value": "Community Manager"
+            },
+            {
+              "option": "Edition",
+              "value": "Edition"
+            },
+            {
+              "option": "Direction or Management",
+              "value": "Direction or Management"
+            },
+            {
+              "option": "Reporter, Photographer or Blogger",
+              "value": "Reporter, Photographer or Blogger"
+            }
+          ]
+        }
+      ]      
     }
   ]
 }
