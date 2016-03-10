@@ -1,39 +1,5 @@
 {
   "pages": [
-
-    {
-      "type": "one-column" ,
-      "questions":[
-        {
-          "name": "medium",
-          "input":"text",
-          "title":"Medio de comunicación",
-          "instruction":"Por favor anota el nombre de tu organización",
-          "required":true
-        },
-        {
-          "name": "section",
-          "input": "text",
-          "title": "Sección",
-          "instruction": "Por favor anota el nombre de tu sección o departamento",
-          "required":true
-        },
-        {
-          "name": "members",
-          "input": "text",
-          "title": "Integrantes",
-          "instruction": "Por favor anota el número de integrantes de tu sección o departamento",
-          "required":true
-        },
-        {
-          "name": "participants",
-          "input": "text",
-          "title": "Participantes",
-          "instruction": "Por favor anota el nombre de las personas que participan en el análisis de riesgo",
-          "required":true
-        }
-      ]
-    },
     {
       "type": "table-multiradio",
       "title": "Probabilidad de riesgos", 
@@ -1320,6 +1286,41 @@
           "score":true,
           "name": "reputation_control_information_obstacle",
           "title":"Obstaculos a la información",
+          "required":true
+        }
+      ]
+    },
+    {
+      "type": "one-column" ,
+      "optional":"true",
+      "legend-optional":"Would you like to improve this evaluation sending us more data?",
+      "questions":[
+        {
+          "name": "medium",
+          "input":"text",
+          "title":"Medio de comunicación",
+          "instruction":"Por favor anota el nombre de tu organización",
+          "required":true
+        },
+        {
+          "name": "section",
+          "input": "text",
+          "title": "Sección",
+          "instruction": "Por favor anota el nombre de tu sección o departamento",
+          "required":true
+        },
+        {
+          "name": "members",
+          "input": "text",
+          "title": "Integrantes",
+          "instruction": "Por favor anota el número de integrantes de tu sección o departamento",
+          "required":true
+        },
+        {
+          "name": "participants",
+          "input": "text",
+          "title": "Participantes",
+          "instruction": "Por favor anota el nombre de las personas que participan en el análisis de riesgo",
           "required":true
         }
       ]
