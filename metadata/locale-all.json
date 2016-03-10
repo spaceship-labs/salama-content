@@ -1,23 +1,13 @@
 [
   {
     "language": "en_US",
-    "date": "2016-02-26 16:25 -0600",
-    "author": "tugorez",
-    "description": "This is a test",
-    "category": "digital security",
-    "published": true,
-    "title": "Test in english - Digital Security",
-    "path": "en_US/2016-02-26-test-in-english-digital-security.md"
-  },
-  {
-    "language": "en_US",
     "date": "2016-03-07 15:06 -0600",
     "author": "Sandor B.",
     "description": "Under this level of risk, damage to physical, psychological, legal or digital security can be severe or catastrophic",
     "category": "digital security",
     "published": true,
     "title": "Extreme risk level",
-    "path": "en_US/2016-03-07-extreme-risk-level.md"
+    "path": "en_US/extreme.md"
   },
   {
     "language": "en_US",
@@ -27,7 +17,7 @@
     "category": "digital security",
     "published": true,
     "title": "High risk level",
-    "path": "en_US/2016-03-07-high-risk-level.md"
+    "path": "en_US/high.md"
   },
   {
     "language": "en_US",
@@ -37,37 +27,17 @@
     "category": "digital security",
     "published": true,
     "title": "Moderate risk",
-    "path": "en_US/2016-03-07-moderate-risk.md"
+    "path": "en_US/low.md"
   },
   {
-    "language": "es_MX",
-    "date": "2016-02-26 16:51 -0600",
-    "author": "tugorez",
-    "description": "Es un test",
-    "category": "otros",
-    "published": true,
-    "title": "Testeando - Otros ",
-    "path": "es_MX/2016-02-26-testeando-otros.md"
-  },
-  {
-    "language": "es_MX",
-    "date": "2016-03-03 13:16 -0600",
-    "author": "tugorez",
-    "description": "Sistema operativo seguro",
-    "category": "seguridad digital",
-    "published": true,
-    "title": "El sistema operativo que usa Edward Snowden",
-    "path": "es_MX/2016-03-03-el-sistema-operativo-que-usa-edward-snowden.md"
-  },
-  {
-    "language": "es_MX",
-    "date": "2016-03-07 15:14 -0600",
+    "language": "en_US",
+    "date": "2016-03-07 15:32 -0600",
     "author": "Sandor B.",
-    "description": "En estos niveles de riesgo, los periodistas pueden sufrir ataques con daños serios a su integridad física, psicológica, legal o digital.",
-    "category": "seguridad digital",
+    "description": "Insults, bad treatment, defamation campaigns, some cyber-attacks, are examples of these risks.",
+    "category": "digital security",
     "published": true,
-    "title": "Nivel de riesgo alto",
-    "path": "es_MX/2016-03-07-nivel-de-riesgo-alto.md"
+    "title": "Moderate risk",
+    "path": "en_US/moderate.md"
   },
   {
     "language": "es_MX",
@@ -77,7 +47,17 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Nivel de riesgo extremo",
-    "path": "es_MX/2016-03-07-nivel-de-riesgo-extremo.md"
+    "path": "es_MX/extreme.md"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-07 15:14 -0600",
+    "author": "Sandor B.",
+    "description": "En estos niveles de riesgo, los periodistas pueden sufrir ataques con daños serios a su integridad física, psicológica, legal o digital.",
+    "category": "seguridad digital",
+    "published": true,
+    "title": "Nivel de riesgo alto",
+    "path": "es_MX/high.md"
   },
   {
     "language": "es_MX",
@@ -87,6 +67,16 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Nivel de riesgo moderado",
-    "path": "es_MX/2016-03-07-nivel-de-riesgo-moderado.md"
+    "path": "es_MX/low.md"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-07 15:25 -0600",
+    "author": "Sandor B.",
+    "description": "Los periodistas pueden sufrir ataques con daños moderados a su integridad física, psicológica, legal o digital.",
+    "category": "seguridad digital",
+    "published": true,
+    "title": "Nivel de riesgo moderado",
+    "path": "es_MX/moderate.md"
   }
 ]

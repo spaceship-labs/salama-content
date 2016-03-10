@@ -1,23 +1,13 @@
 [
   {
     "language": "es_MX",
-    "date": "2016-02-26 16:51 -0600",
-    "author": "tugorez",
-    "description": "Es un test",
-    "category": "otros",
-    "published": true,
-    "title": "Testeando - Otros ",
-    "path": "es_MX/2016-02-26-testeando-otros.md"
-  },
-  {
-    "language": "es_MX",
-    "date": "2016-03-03 13:16 -0600",
-    "author": "tugorez",
-    "description": "Sistema operativo seguro",
+    "date": "2016-03-07 14:50 -0600",
+    "author": "Sandor B.",
+    "description": "En estos niveles de riesgo, el daño a la integridad física, psicológica, legal o digital puede ser severo o catastrófico.",
     "category": "seguridad digital",
     "published": true,
-    "title": "El sistema operativo que usa Edward Snowden",
-    "path": "es_MX/2016-03-03-el-sistema-operativo-que-usa-edward-snowden.md"
+    "title": "Nivel de riesgo extremo",
+    "path": "es_MX/extreme.md"
   },
   {
     "language": "es_MX",
@@ -27,17 +17,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Nivel de riesgo alto",
-    "path": "es_MX/2016-03-07-nivel-de-riesgo-alto.md"
-  },
-  {
-    "language": "es_MX",
-    "date": "2016-03-07 14:50 -0600",
-    "author": "Sandor B.",
-    "description": "En estos niveles de riesgo, el daño a la integridad física, psicológica, legal o digital puede ser severo o catastrófico.",
-    "category": "seguridad digital",
-    "published": true,
-    "title": "Nivel de riesgo extremo",
-    "path": "es_MX/2016-03-07-nivel-de-riesgo-extremo.md"
+    "path": "es_MX/high.md"
   },
   {
     "language": "es_MX",
@@ -47,6 +27,16 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Nivel de riesgo moderado",
-    "path": "es_MX/2016-03-07-nivel-de-riesgo-moderado.md"
+    "path": "es_MX/low.md"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-07 15:25 -0600",
+    "author": "Sandor B.",
+    "description": "Los periodistas pueden sufrir ataques con daños moderados a su integridad física, psicológica, legal o digital.",
+    "category": "seguridad digital",
+    "published": true,
+    "title": "Nivel de riesgo moderado",
+    "path": "es_MX/moderate.md"
   }
 ]
