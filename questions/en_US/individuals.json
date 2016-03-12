@@ -381,29 +381,6 @@
       ]
     },
     {
-      "type": "one-column" ,
-      "optional":"true",
-      "legend-optional":"Would you like to receive the results in your mail?",
-      "questions":[
-        {
-          "name": "name",
-          "input":"text",
-          "title":"Name",
-          "instruction":"If you want to remain anonymous, please don't fill the space name. We need your emal address to email the results to you.  If you want to receive taylored and individual advice, please write your name.",
-          "placeholder": "Please write your name"
-        },
-        {
-          "name": "email",
-          "input": "email",
-          "title": "E-mail Address",
-          "instruction":"Please write your e-mail address. (Results of your assessment will be emailed to you.)",
-          "placeholder": "Please write your email",
-          "required":true
-        }
-      ]
-    },
-
-    {
       "type": "double-column",
       "optional":"true",
       "legend-optional":"Would you like to improve this evaluation sending us more data?",
