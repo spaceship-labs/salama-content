@@ -8,9 +8,9 @@ published: true
 title: High risk level
 ---
 
+
 ## 60 to 79 points
 
-![100-0-info-en-peligro.png]({{site.baseurl}}/media/100-0-info-en-peligro.png)
 
 You reached more than 60 points and are under a potential high risk. In high levels of risk, journalists may suffer serious physical, psychological, legal or digital damage. Death threats, arbitrary arrests, beatings, cyber-attacks, are examples of these risks. You may conduct a evaluation of any operation which puts you in further risk. In your security plan, you need to add corrective actions and eliminate unacceptable risks. You will probably need to adopt or improve some protocols.
 
