@@ -141,6 +141,16 @@
   },
   {
     "language": "es_MX",
+    "date": "2016-03-13 12:50 -0600",
+    "author": "author",
+    "description": "Métodos de planeamiento",
+    "category": "seguridad digital",
+    "published": true,
+    "title": "Métodos de planeamiento",
+    "path": "es_MX/plan.md"
+  },
+  {
+    "language": "es_MX",
     "date": "2016-03-13 12:32 -0600",
     "author": "autor",
     "description": "Situación profesional",
