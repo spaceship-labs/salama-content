@@ -5,8 +5,9 @@ author: author
 description: Consejos sobre seguridad digital
 category: seguridad digital
 published: false
-title: Untitled
+title: Seguridad Digital
 ---
+
 
 
 Necesita mejorar sus habilidades de seguridad digital. Su información está en riesgo de pérdida, borrado o alteración, ya sea accidental o a propósito. Información crítica puede estar en riesgo: la identidad de sus fuentes, sus fuentes confidenciales, sus planes editorials, la información de sus contactos.    Usted necesita proteger su informacion con herrmientas de encriptación y buenas prácticas. Todos los periodistas, ya sea que trabajen en zonas de conflict, invstiguen corrupción, o cobran política local, necesitan aprender cómo encriptar sus comunicaciones digitales de voz y texto. Los adversaries, ya sea gobiernos, grupos criminales, oficiales corruptos o empresas, pueden ahora hackear las comunicaciones de periodistas , saber la identidad de sus Fuentes, obstruir investigaciones sensibles e incluso destruir o alterar documentos electrónicos.
