@@ -5,8 +5,9 @@ author: author
 description: como cifrar tus cuentas de mail
 category: seguridad digital
 published: true
-title: Untitled
+title: Protege tu información
 ---
+
 
 Debes proteger tus correos electrónicos. Para proteger la información sensible que envías por correo electrónico sigue estos consejos de seguridad: 
 
