@@ -241,6 +241,16 @@
   },
   {
     "language": "es_MX",
+    "date": "2016-03-13 11:36 -0600",
+    "author": "author",
+    "description": "¿Cubres notas de crimen o corrupción?",
+    "category": "seguridad digital",
+    "published": true,
+    "title": "¿Cubres notas de crimen o corrupción?",
+    "path": "es_MX/crime_corruption.md"
+  },
+  {
+    "language": "es_MX",
     "date": "2016-03-07 14:50 -0600",
     "author": "Sandor B.",
     "description": "En estos niveles de riesgo, el daño a la integridad física, psicológica, legal o digital puede ser severo o catastrófico.",
