@@ -8,9 +8,8 @@ published: true
 title: Extreme risk level
 ---
 
-## More than 80 points
 
-![115-0-amenazas-potenciales.png]({{site.baseurl}}/media/115-0-amenazas-potenciales.png)
+## More than 80 points
 
 You got more than 80 points and probably are under a potential extreme risk. Under this level of risk, damage to physical, psychological, legal or digital security can be severe or catastrophic. Damages may include loss of life, closure of the media organization or an unaffordable financial impact. If such an attack is highly probably to occur, your level of risk will be unacceptable. In that case, your most important goal is to reduce risk immediately, regroup with your organization and take immediate corrective actions. You will probably need to create a new security strategy.
 Immediate steps:
@@ -38,4 +37,3 @@ e) [Rory Peck Trust](https://rorypecktrust.org/Contact)
 -- Create or review your security strategy: A security strategy is a document revised periodically which outlines the major security concerns of a person or media organization and outlines plans to reduce risks and face those concerns. If possible, discuss with your media organization about this situation and analyze together actual and potential threats, vulnerabilities and strengths, and set up new security goals according to the new circumstances.
 
 -- Create or review security protocols. A protocol is a sequence of operations that ensure your physical, psychological, legal or digital security. You will need to create security protocols for each situation, depending of the nature of the threat you are facing and your specific conditions of vulnerability and strength.
-
