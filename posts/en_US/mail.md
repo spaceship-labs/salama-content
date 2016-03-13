@@ -8,8 +8,14 @@ published: true
 title: Untitled
 ---
 
-You may want to protect sensitive information you send in emails and learn how to encrypt information. Follow these security advices:
-Always use HTTPS. Make sure the email provider uses the Hyper Text Transfer Protocol Secure (HTTPS).  With this protocol the information is encrypted when in transit from your web browser to the server. If your contact, being a source, a colleague or an editor uses the same protocol, the information will be protected from end to end.
+
+You may want to protect sensitive information you send in emails and learn how to encrypt information. 
+
+Follow these security advices:
+
+- **Always use HTTPS**. 
+
+Make sure the email provider uses the Hyper Text Transfer Protocol Secure (HTTPS).  With this protocol the information is encrypted when in transit from your web browser to the server. If your contact, being a source, a colleague or an editor uses the same protocol, the information will be protected from end to end.
 If you are at extreme risk, under a live or death situation, and require privacy, do not transmit information via email at all.
 Otherwise, learn how to encrypt information in the body of an email. These are some options:
 
