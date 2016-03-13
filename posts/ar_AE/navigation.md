@@ -2,26 +2,37 @@
 language: ar_AE
 date: "2016-03-13 08:36 -0600"
 author: authors
-description: cómo navegar anonimamente
+description: how to navigate anonymously
 category: digital security
 published: true
 title: Untitled
 ---
 
-Para investigar en Internet temas sensibles, es necesario para que protejas tu identidad digital y ocultes tu IP. El navegador de Tor te permitirá ocultar tu IP original y tu ubicación geográfica. Una navegación anónima en Internet también te ayudará a ocultar la identidad de su proveedor de servicios de Internet (ISP).
 
-Puedes descargar el Tor Browser en:
+عند قيامك بتصفح الانترنيت للبحث عن قضايا حساسه، قد تحتاج الى حماية هويتك الرقميه واخفاء بروتوكول اﻻنتربيت (اي بي) الخاص بك: وفي هذا اﻻطار، يوفر لك استعمال متصفح تور امكانية اخفاء كل من (اي بي) اﻻصلي الخاص بك وموقعك الجغرافي. بااﻻظافه الى ذالك، قد يساعدك التصفح المجهول الهويه على اخفاء هوية موفر خدمة اﻻنترنيت (اي اس بي).
 
-- [La página web de tor project](https://www.torproject.org)
+ يمكنك تحميل متصفح تور عن طريق زيارة موقع التور على 
 
-Más recursos para ayudar a entender y utilizar el navegador Tor:
+[https://www.torproject.org](https://www.torproject.org)
 
-- [Tor Browser para Windows (anonimato digital y evasión)](http://bit.ly/1oWFt0c)
+لمساعدتك على فهم واستخدام متصفح تور، قم بزيارة المصادر 
+التاليه
+متصفح تور بالنسبه الى نظام
+التهرب واخفاء الهويه الرقميه) Windows     
 
-- [¿Cómo usar Tor en Windows?](http://bit.ly/1Qt1ZDF)
+- [http://bit.ly/1Z8sxz8](http://bit.ly/1Z8sxz8)
 
-- [¿Cómo usar Tor para Mac OS](Xhttp://bit.ly/1L4UqXR)
+كيفية استخدام متصفح تور للوندوز
 
-- [¿Cómo puedo evitar ser monitoreado en línea?](http://bit.ly/1PQDLaV)
+- [http://bit.ly/1O7dF15](http://bit.ly/1O7dF15)
 
-- [Mantenerse en el anonimato y evitar la censura en Internet](http://bit.ly/1QUrRc9)
+كيفية استخدام متصفح تور  بالنسبه الى  نظام ماك ام اس اكس  
+
+- [http://bit.ly/1O7dRgN](http://bit.ly/1O7dRgN)
+
+كيف لي تحاشي المراقبه الكترونيه من على اﻻنترنيت ؟  
+- [http://bit.ly/1PQDLaV](http://bit.ly/1PQDLaV)
+
+البقاء مجهول الهويه و تجاوز الرقابه على اﻻنترنيت
+
+- [http://bit.ly/1Z8tfwd](http://bit.ly/1Z8tfwd)
