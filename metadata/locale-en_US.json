@@ -1,6 +1,16 @@
 [
   {
     "language": "en_US",
+    "date": "2016-03-13 10:38 -0600",
+    "author": "author",
+    "description": "Chat encryption",
+    "category": "digital security",
+    "published": true,
+    "title": "Chat encryption",
+    "path": "en_US/chat.md"
+  },
+  {
+    "language": "en_US",
     "date": "2016-03-13 08:22 -0600",
     "author": "author",
     "description": "Digital advices",
