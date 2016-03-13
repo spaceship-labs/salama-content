@@ -7,7 +7,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Llamadas telefónicas cifradas",
-    "path": "es_MX/calls.md"
+    "path": "calls"
   },
   {
     "language": "es_MX",
@@ -17,7 +17,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Chat cifrado",
-    "path": "es_MX/chat.md"
+    "path": "chat"
   },
   {
     "language": "es_MX",
@@ -27,7 +27,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "¿Cubres notas de corrupción?",
-    "path": "es_MX/corruption.md"
+    "path": "corruption"
   },
   {
     "language": "es_MX",
@@ -37,7 +37,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Corrupción e información confidencial",
-    "path": "es_MX/corruption_information.md"
+    "path": "corruption_information"
   },
   {
     "language": "es_MX",
@@ -47,7 +47,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "¿Cubres notas de crimen o corrupción?",
-    "path": "es_MX/crime_corruption.md"
+    "path": "crime_corruption"
   },
   {
     "language": "es_MX",
@@ -57,7 +57,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Ética periodistica",
-    "path": "es_MX/etic.md"
+    "path": "etic"
   },
   {
     "language": "es_MX",
@@ -67,7 +67,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Nivel de riesgo extremo",
-    "path": "es_MX/extreme.md"
+    "path": "extreme"
   },
   {
     "language": "es_MX",
@@ -77,7 +77,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Nivel de riesgo alto",
-    "path": "es_MX/high.md"
+    "path": "high"
   },
   {
     "language": "es_MX",
@@ -87,7 +87,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Las historias deben ser revisadas",
-    "path": "es_MX/information.md"
+    "path": "information"
   },
   {
     "language": "es_MX",
@@ -97,7 +97,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "La información sensible debe ser cifrada",
-    "path": "es_MX/information_corruption_mail.md"
+    "path": "information_corruption_mail"
   },
   {
     "language": "es_MX",
@@ -107,7 +107,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Nivel de riesgo bajo",
-    "path": "es_MX/low.md"
+    "path": "low"
   },
   {
     "language": "es_MX",
@@ -117,7 +117,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Protege tu información",
-    "path": "es_MX/mail.md"
+    "path": "mail"
   },
   {
     "language": "es_MX",
@@ -127,7 +127,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Nivel de riesgo moderado",
-    "path": "es_MX/moderate.md"
+    "path": "moderate"
   },
   {
     "language": "es_MX",
@@ -137,7 +137,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Navegación segura",
-    "path": "es_MX/navigation.md"
+    "path": "navigation"
   },
   {
     "language": "es_MX",
@@ -147,7 +147,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "La buena comunicación es esencial",
-    "path": "es_MX/network.md"
+    "path": "network"
   },
   {
     "language": "es_MX",
@@ -157,7 +157,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Contraseñas seguras",
-    "path": "es_MX/passwords.md"
+    "path": "passwords"
   },
   {
     "language": "es_MX",
@@ -167,7 +167,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Métodos de planeamiento",
-    "path": "es_MX/plan.md"
+    "path": "plan"
   },
   {
     "language": "es_MX",
@@ -177,7 +177,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Situación profesional",
-    "path": "es_MX/professional.md"
+    "path": "professional"
   },
   {
     "language": "es_MX",
@@ -187,7 +187,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "¿Estás listo para manejar información sensible?",
-    "path": "es_MX/sinformation.md"
+    "path": "sinformation"
   },
   {
     "language": "es_MX",
@@ -197,7 +197,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Ataques a periodistas y blogueros",
-    "path": "es_MX/threat.md"
+    "path": "threat"
   },
   {
     "language": "es_MX",
@@ -207,7 +207,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Protocolos de ataque",
-    "path": "es_MX/threat_protocols.md"
+    "path": "threat_protocols"
   },
   {
     "language": "es_MX",
@@ -217,7 +217,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "¿Cubres hechos de violencia?",
-    "path": "es_MX/violence.md"
+    "path": "violence"
   },
   {
     "language": "es_MX",
@@ -227,7 +227,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Mejora tú comunicación",
-    "path": "es_MX/violence_boss.md"
+    "path": "violence_boss"
   },
   {
     "language": "es_MX",
@@ -237,7 +237,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Plan para la cobertura de violencia",
-    "path": "es_MX/violence_plan.md"
+    "path": "violence_plan"
   },
   {
     "language": "es_MX",
@@ -247,6 +247,6 @@
     "category": "seguridad digital",
     "published": true,
     "title": "¿Estás listo para visitar zonas peligrosas?",
-    "path": "es_MX/zone_protocols.md"
+    "path": "zone_protocols"
   }
 ]

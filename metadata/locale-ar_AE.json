@@ -7,7 +7,7 @@
     "category": "digital security",
     "published": true,
     "title": "Untitled",
-    "path": "ar_AE/digital_security.md"
+    "path": "digital_security"
   },
   {
     "language": "ar_AE",
@@ -17,7 +17,7 @@
     "category": "digital security",
     "published": true,
     "title": "extreme",
-    "path": "ar_AE/extreme.md"
+    "path": "extreme"
   },
   {
     "language": "ar_AE",
@@ -27,7 +27,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Nivel de riesgo alto",
-    "path": "ar_AE/high.md"
+    "path": "high"
   },
   {
     "language": "ar_AE",
@@ -37,7 +37,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Nivel de riesgo bajo",
-    "path": "ar_AE/low.md"
+    "path": "low"
   },
   {
     "language": "ar_AE",
@@ -47,7 +47,7 @@
     "category": "digital security",
     "published": true,
     "title": "Untitled",
-    "path": "ar_AE/mail.md"
+    "path": "mail"
   },
   {
     "language": "ar_AE",
@@ -57,7 +57,7 @@
     "category": "seguridad digital",
     "published": true,
     "title": "Nivel de riesgo moderado",
-    "path": "ar_AE/moderate.md"
+    "path": "moderate"
   },
   {
     "language": "ar_AE",
@@ -67,6 +67,6 @@
     "category": "digital security",
     "published": true,
     "title": "Untitled",
-    "path": "ar_AE/navigation.md"
+    "path": "navigation"
   }
 ]

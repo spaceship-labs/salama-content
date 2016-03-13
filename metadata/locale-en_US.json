@@ -7,7 +7,7 @@
     "category": "digital security",
     "published": true,
     "title": "Encrypted phone calls",
-    "path": "en_US/calls.md"
+    "path": "calls"
   },
   {
     "language": "en_US",
@@ -17,7 +17,7 @@
     "category": "digital security",
     "published": true,
     "title": "Chat encryption",
-    "path": "en_US/chat.md"
+    "path": "chat"
   },
   {
     "language": "en_US",
@@ -27,7 +27,7 @@
     "category": "digital security",
     "published": true,
     "title": "Do you cover corruption?",
-    "path": "en_US/corruption.md"
+    "path": "corruption"
   },
   {
     "language": "en_US",
@@ -37,7 +37,7 @@
     "category": "digital security",
     "published": true,
     "title": "Corruption and confidential information",
-    "path": "en_US/corruption_information.md"
+    "path": "corruption_information"
   },
   {
     "language": "en_US",
@@ -47,7 +47,7 @@
     "category": "digital security",
     "published": true,
     "title": "Do you cover crime or corruption?",
-    "path": "en_US/crime_corruption.md"
+    "path": "crime_corruption"
   },
   {
     "language": "en_US",
@@ -57,7 +57,7 @@
     "category": "digital security",
     "published": true,
     "title": "Untitled",
-    "path": "en_US/digital_security.md"
+    "path": "digital_security"
   },
   {
     "language": "en_US",
@@ -67,7 +67,7 @@
     "category": "digital security",
     "published": true,
     "title": "Journalist Ethics",
-    "path": "en_US/etic.md"
+    "path": "etic"
   },
   {
     "language": "en_US",
@@ -77,7 +77,7 @@
     "category": "digital security",
     "published": true,
     "title": "Extreme risk level",
-    "path": "en_US/extreme.md"
+    "path": "extreme"
   },
   {
     "language": "en_US",
@@ -87,7 +87,7 @@
     "category": "digital security",
     "published": true,
     "title": "High risk level",
-    "path": "en_US/high.md"
+    "path": "high"
   },
   {
     "language": "en_US",
@@ -97,7 +97,7 @@
     "category": "digital security",
     "published": true,
     "title": "You must plan your histories",
-    "path": "en_US/information.md"
+    "path": "information"
   },
   {
     "language": "en_US",
@@ -107,7 +107,7 @@
     "category": "digital security",
     "published": true,
     "title": "Sensitive information must be encrypted",
-    "path": "en_US/information_corruption_mail.md"
+    "path": "information_corruption_mail"
   },
   {
     "language": "en_US",
@@ -117,7 +117,7 @@
     "category": "digital security",
     "published": true,
     "title": "Low risk",
-    "path": "en_US/low.md"
+    "path": "low"
   },
   {
     "language": "en_US",
@@ -127,7 +127,7 @@
     "category": "digital security",
     "published": true,
     "title": "Protect your information",
-    "path": "en_US/mail.md"
+    "path": "mail"
   },
   {
     "language": "en_US",
@@ -137,7 +137,7 @@
     "category": "digital security",
     "published": true,
     "title": "Moderate risk",
-    "path": "en_US/moderate.md"
+    "path": "moderate"
   },
   {
     "language": "en_US",
@@ -147,7 +147,7 @@
     "category": "digital security",
     "published": true,
     "title": "Secure Navigation",
-    "path": "en_US/navigation.md"
+    "path": "navigation"
   },
   {
     "language": "en_US",
@@ -157,7 +157,7 @@
     "category": "digital security",
     "published": true,
     "title": "A good communication is essential",
-    "path": "en_US/network.md"
+    "path": "network"
   },
   {
     "language": "en_US",
@@ -167,7 +167,7 @@
     "category": "digital security",
     "published": true,
     "title": "Secure passwords",
-    "path": "en_US/passwords.md"
+    "path": "passwords"
   },
   {
     "language": "en_US",
@@ -177,7 +177,7 @@
     "category": "digital security",
     "published": true,
     "title": "Planning methods",
-    "path": "en_US/plan.md"
+    "path": "plan"
   },
   {
     "language": "en_US",
@@ -187,7 +187,7 @@
     "category": "digital security",
     "published": true,
     "title": "Professional Situation",
-    "path": "en_US/professional.md"
+    "path": "professional"
   },
   {
     "language": "en_US",
@@ -197,7 +197,7 @@
     "category": "digital security",
     "published": true,
     "title": "You must be prepared for handling sensitive information",
-    "path": "en_US/sinformation.md"
+    "path": "sinformation"
   },
   {
     "language": "en_US",
@@ -207,7 +207,7 @@
     "category": "digital security",
     "published": true,
     "title": "Attacks to journalists and bloggers",
-    "path": "en_US/threat.md"
+    "path": "threat"
   },
   {
     "language": "en_US",
@@ -217,7 +217,7 @@
     "category": "digital security",
     "published": true,
     "title": "Threat protocols",
-    "path": "en_US/threat_protocols.md"
+    "path": "threat_protocols"
   },
   {
     "language": "en_US",
@@ -227,7 +227,7 @@
     "category": "digital security",
     "published": true,
     "title": "Do you cover violence?",
-    "path": "en_US/violence.md"
+    "path": "violence"
   },
   {
     "language": "en_US",
@@ -237,7 +237,7 @@
     "category": "digital security",
     "published": true,
     "title": "Improve your communication",
-    "path": "en_US/violence_boss.md"
+    "path": "violence_boss"
   },
   {
     "language": "en_US",
@@ -247,7 +247,7 @@
     "category": "digital security",
     "published": true,
     "title": "Planning for covering violence",
-    "path": "en_US/violence_plan.md"
+    "path": "violence_plan"
   },
   {
     "language": "en_US",
@@ -257,6 +257,6 @@
     "category": "digital security",
     "published": true,
     "title": "Be prepared for dangerous zones",
-    "path": "en_US/zone_protocols.md"
+    "path": "zone_protocols"
   }
 ]
