@@ -11,6 +11,36 @@
   },
   {
     "language": "ar_AE",
+    "date": "2016-03-13 01:39 -0600",
+    "author": "author",
+    "description": "extreme advice",
+    "category": "digital security",
+    "published": true,
+    "title": "extreme",
+    "path": "ar_AE/extreme.md"
+  },
+  {
+    "language": "ar_AE",
+    "date": "2016-03-07 15:14 -0600",
+    "author": "Sandor B.",
+    "description": "En estos niveles de riesgo, los periodistas pueden sufrir ataques con daños serios a su integridad física, psicológica, legal o digital.",
+    "category": "seguridad digital",
+    "published": true,
+    "title": "Nivel de riesgo alto",
+    "path": "ar_AE/high.md"
+  },
+  {
+    "language": "ar_AE",
+    "date": "2016-03-07 15:25 -0600",
+    "author": "Sandor B.",
+    "description": "Los periodistas pueden sufrir ataques con daños moderados a su integridad física, psicológica, legal o digital.",
+    "category": "seguridad digital",
+    "published": true,
+    "title": "Nivel de riesgo bajo",
+    "path": "ar_AE/low.md"
+  },
+  {
+    "language": "ar_AE",
     "date": "2016-03-13 08:59 -0600",
     "author": "author",
     "description": "Mail encryption",
@@ -18,6 +48,16 @@
     "published": true,
     "title": "Untitled",
     "path": "ar_AE/mail.md"
+  },
+  {
+    "language": "ar_AE",
+    "date": "2016-03-07 15:25 -0600",
+    "author": "Sandor B.",
+    "description": "Los periodistas pueden sufrir ataques con daños moderados a su integridad física, psicológica, legal o digital.",
+    "category": "seguridad digital",
+    "published": true,
+    "title": "Nivel de riesgo moderado",
+    "path": "ar_AE/moderate.md"
   },
   {
     "language": "ar_AE",

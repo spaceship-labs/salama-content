@@ -1,10 +1,10 @@
 ---
 language: ar_AE
 date: "2016-03-13 01:39 -0600"
-author: ""
-description: null
+author: author
+description: "extreme advice"
 category: digital security
-published: false
+published: true
 title: extreme
 ---
 
