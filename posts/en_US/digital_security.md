@@ -9,6 +9,7 @@ title: Digital Security
 ---
 
 
+# Digital Security
 
 You need to improve your digital security skills. Your information is at risk of being lost, erased or modified. Critical information might be at risk: identity of your sources, confidential sources, your editorial plans, your contacts information. You may need to protect your information with encrypting tools and good practices. All journalists, whether they work in conflict zones, investigate corruption or cover local politics, need to learn how to encrypt their digital voice and text communications. Media adversaries, whether governments, criminal organizations, corrupt officials or companies, can now easily hack journalists’ communications, learn sources’ identities, obstruct sensitive investigations and even destroy or alter electronic documents.
 
