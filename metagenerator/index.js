@@ -22,7 +22,7 @@ function metaGenerator(path){
 
   function getMeta(post){
       var meta=post.meta;
-      meta.path=_path.join(meta.language,post.filename+'.md');
+      meta.path=_path.join(post.filename);
       return meta;
   }
 
