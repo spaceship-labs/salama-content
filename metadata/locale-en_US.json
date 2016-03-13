@@ -191,6 +191,16 @@
   },
   {
     "language": "en_US",
+    "date": "2016-03-13 12:59 -0600",
+    "author": "author",
+    "description": "You must be prepared for handling sensitive information",
+    "category": "digital security",
+    "published": true,
+    "title": "You must be prepared for handling sensitive information",
+    "path": "en_US/sinformation.md"
+  },
+  {
+    "language": "en_US",
     "date": "2016-03-13 11:11 -0600",
     "author": "author",
     "description": "Attacks to journalists and bloggers",
