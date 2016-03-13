@@ -2,13 +2,14 @@
 language: en_US
 date: "2016-03-13 11:18 -0600"
 author: author
-description: "¿Do you cover corruption?"
+description: "Do you cover corruption?"
 category: digital security
 published: true
-title: "¿Do you cover corruption?"
+title: "Do you cover corruption?"
 ---
 
-# ¿Do you cover corruption?
+
+# Do you cover corruption?
 
 You often cover corruption. It is important for you to identify on a regular basis any source of risk. Because in our countries, investigative journalists are usually challenged in courts, you may need to strengthen your verification methods and make sure your data is bullet-proofed against libel lawsuits. You also need to have security protocols to decide what course of action you need in case of hostil acts or aggression from actors involved in corruption. Your protocols have to determine what to do during and after the process of investigation.
 
