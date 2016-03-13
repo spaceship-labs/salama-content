@@ -8,9 +8,10 @@ published: true
 title: Moderate risk
 ---
 
+
 ## 40 to 59 points
 
-![100-0-info-en-peligro.png]({{site.baseurl}}/media/100-0-info-en-peligro.png)
+
 
 You are under a potential moderate risk, meaning a non-serious damage to your physical, psychological, legal or digital integrity. Insults, bad treatment, defamation campaigns, some cyber-attacks, are examples of these risks. Some of those attacks are leading up to more serious risks. Evaluate what operation is putting you in higher levels of risk. Be aware of any corrective actions you need to take and eliminate any unacceptable risk. You will probably need to improve some prevention protocols.
 
