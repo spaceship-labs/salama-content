@@ -8,9 +8,10 @@ published: true
 title: Nivel de riesgo alto
 ---
 
+
 ## Más de 60 puntos. 
 
-![100-0-info-en-peligro.png]({{site.baseurl}}/media/100-0-info-en-peligro.png)
+
 
 Alcanzaste más de 60 puntos y estás probablemente en un riesgo potencial alto. En estos niveles de riesgo, los periodistas pueden sufrir ataques con daños serios a su integridad física, psicológica, legal o digital. Amenazas de muerte, detenciones arbitrarias, golpizas, ataques cibernéticos, son ejemplos de estos riesgos. 
 
@@ -43,4 +44,3 @@ e) [Rory Peck Trust](https://rorypecktrust.org/Contact)
 Crea o revisa tu estrategia de seguridad: Una estategia de seguridad es un documento que las organizaciones deben revisar periódicamente en el que está una definición de los problemas principales de seguridad para un periodista o un medio y un plan para reducir riesgos y enfrentar esas preocupaciones. De ser posible, discute con tu medio y tu red de confianza sobre la situación y analicen juntos las amenazas reales y potenciales, fortalezas y vulnerabilidades, y definan nuevas metas de seguridad según las circunstancias.
 
 Crear o revisar los protocolos de seguridad. Un protocolo de seguridad es una secuencia de operaciones que aseguren la integridad física, psicológica, legal o digital. Será necesaria la creación de protocolos de seguridad para cada situación, dependiendo de la naturaleza de la amenaza y las condiciones específicas de vulnerabilidad y fortaleza.
-
