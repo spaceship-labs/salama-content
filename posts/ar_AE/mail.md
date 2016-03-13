@@ -1,10 +1,10 @@
 ---
 language: ar_AE
 date: "2016-03-13 08:59 -0600"
-author: ""
-description: null
+author: author
+description: Mail encryption
 category: digital security
-published: false
+published: true
 title: Untitled
 ---
 
