@@ -1,49 +1,28 @@
 ---
-language: es_MX
-date: "2016-03-07 14:50 -0600"
-author: Sandor B.
-description: "En estos niveles de riesgo, el daño a la integridad física, psicológica, legal o digital puede ser severo o catastrófico."
-category: seguridad digital
-published: true
-title: Nivel de riesgo extremo
+language: ar_AE
+date: "2016-03-13 01:39 -0600"
+author: ""
+description: null
+category: digital security
+published: false
+title: extreme
 ---
 
-## Más de 80 puntos. 
+ﻢﺴﺗﻭﻯ ﺵﺪﻳﺩ ﺎﻠﺨﻃﺭﻮﻫ : ﺄﻜﺛﺭ ﻢﻧ 80     ﻮﺟﺪﺗ ﻦﻔﺴﻛ ﻒﻳ ﻢﺴﺗﻭﻯ ﻢﻧ ﺎﻠﺨﻃﺭ ﻲﺒﻠﻏ ﺄﻜﺛﺭ ﻢﻧ 80 ﺩﺮﺠﻫ، ﻭﺮﺒﻣﺍ ﻚﻨﺗ ﺖﺸﻋﺭ ﺐﺨﻃﺭ ﻚﺒﻳﺭ ﻢﺤﺘﻤﻟ ﺎﻠﺣﺩﻮﺛ. ﻒﻳ ﻢﺜﻟ ﻪﻛﺫﺍ ﻢﺴﺗﻭﻯ ﻢﻧ ﺎﻠﺨﻃﺭ، ﻕﺩ ﺖﻛﻮﻧ ﺍﻼﺿﺭﺍﺭ ﻡﺍﺪﻴﻫ ، ﻦﻔﺴﻴﻫ ،ﻕﺎﻧﻮﻨﻴﻫ ﺃﻭ ﺮﻘﻤﻴﻫ ﻚﺒﻳﺮﻫ ﺍﻭ ﺢﺗﻯ ﻙﺍﺮﺜﻴﻫ. ﻲﻤﻜﻧ ﺎﻧ ﺖﺸﺘﻤﻟ ﺃﻼﺿﺭﺍﺭ ﻊﻟﻯ ﺦﺳﺍﻯﺭ ﻒﻳ ﺍﻻﺭﻭﺎﺣ ، ﺎﻏﻼﻗ ﻞﻠﻣﺆﺴﺴﻫ ﺍﻼﻋﻼﻤﻴﻫ ﺍﻭ ﺎﺿﺭﺍﺭ ﻡﺍﺪﻴﻫ ﻼﻴﻤﻜﻧ ﺖﺤﻤﻠﻫﺍ. ﺃﺫﺍ ﻙﺎﻨﺗ ﺎﺤﺘﻣﺎﻠﻳﺓ ﻮﻗﻮﻋ ﻢﺜﻟ ﻪﻛﺫﺍ ﻪﺟﻮﻣ ﻉﺎﻠﻴﻫ، ﻑﺄﻧ ﺩﺮﺠﻫ ﺎﻠﺨﻃﻭﺮﻫ ﻼﻴﻤﻜﻧ ﺖﻘﺒﻠﻫﺍ. ﻒﻳ ﻢﺜﻟ ﻪﻛﺫﺍ ﺡﺎﻠﻫ، ﻲﻛﻮﻧ ﻩﺪﻔﻛ ﺍﻼﻬﻣ ﻩﻭ ﺎﻠﺣﺩ  ﺎﻠﻓﻭﺮﻳ ﻢﻧ ﻢﺴﺗﻭﻯ ﺎﻠﺨﻃﺭ، ﺖﻨﻈﻴﻣ ﺎﻠﺼﻓﻮﻓ ﺏﺎﻠﻌﻤﻟ ﻢﻋ ﻡﺆﺴﺴﺘﻛ ﺍﻼﻋﻼﻤﻴﻫ ﻭﺄﺘﺧﺍﺫ ﺄﺟﺭﺍﺀﺎﺗ ﺖﺼﺤﻴﺤﻴﻫ ﻑﻭﺮﻴﻫ. ﻕﺩ ﺖﺤﺗﺎﺟ ﺎﻟﻯ ﺄﺴﺗﺭﺎﺘﻴﺠﻴﻫ ﺄﻤﻨﻴﻫ ﺝﺪﻳﺪﻫ. ﺎﻠﺨﻃﻭﺎﺗ ﺎﻠﺘﻳ ﻲﺠﺑ ﺎﺘﺧﺍﺬﻫﺍ ﻑﻭﺭﺃ:ﺎﻠﺨﻃﻮﻫ ﺍﻻﻮﻟﻯ : ﻖﻣ ﺐﺗﺮﻛ ﺎﻳ ﻊﻤﻠﻴﻫ ﻢﻧ ﺵﺄﻨﻫﺍ ﺄﻧ ﺖﻀﻌﻛ ﺖﺤﺗ ﺦﻃﺭ ﻮﺸﻴﻛ ﻕﺩ ﻲﺴﺒﺑ ﻞﻛ ﺄﺿﺭﺍﺭ ﻡﺍﺪﻴﻫ ،ﻦﻔﺴﻴﻫ، ﺮﻘﻤﻴﻫ ﺍﻭ ﻕﺎﻧﻮﻨﻴﻫ ﺵﺪﻳﺪﻫ ﺍﻭ ﻙﺍﺮﺜﻴﻫ.
+ﺎﻠﺨﻃﻮﻫ ﺎﻠﺛﺎﻨﻴﻫ: ﻖﻣ ﺏﺍﻻﺘﺻﺎﻟ ﻑﻭﺭﺃ ﺐﻣﺆﺴﺴﺘﻛ ﺍﻼﻋﻼﻤﻴﻫ ﻮﻧﺎﻘﺷ ﻢﻋﺃ ﻡﺍ ﻲﻤﻜﻧ ﻒﻌﻠﻫ.  ﻒﻴﻣﺍ ﺃﺫﺍ ﻚﻨﺗ ﺺﺤﻔﻳ ﻢﺴﺘﻘﻟ ﺖﻌﻤﻟ ﺐﻨﻇﺎﻣ ﺎﻠﻌﻗﺩ، ﺄﺘﺼﻟ ﺐﻤﻧ ﺖﺜﻗ ﻢﻧ ﺍﻻﺸﺧﺎﺻ ﻭﺎﻠﻣﺆﺴﺳﺎﺗ ﺍﻼﻋﻼﻤﻴﻫ ﺎﻠﺘﻳ ﺖﻌﻤﻟ ﻞﻫﺍ.
+ﺎﻠﺨﻃﻮﻫ ﺎﻠﺛﺎﻠﺜﻫ: ﻖﻣ ﺏﺄﺨﺑﺍﺭﺎﻠﺴﻠﻃﺎﺗ ﺎﻟﻮﻄﻨﻴﻫ ﺍﻭﺎﻠﻤﺤﻠﻴﻫ ﻊﻧ ﺎﻳ ﺖﻫﺪﻳﺩ ﺍﻭ ﻢﺣﺍﻮﻠﻫ ﻞﻠﻬﺟﻮﻣ ﻊﻠﻴﻛ ﺃﻭ ﻡﺆﺴﺴﺘﻛ ﺍﻼﻋﻼﻤﻴﻫ ، ﻮﻛﺬﻠﻛ ﻖﻣ ﺏﺄﺘﺧﺍﺫ ﺦﻃﻭﺎﺗ ﻮﻗﺍﻰﻴﻫ ﻉﺎﺠﻠﻫ ﻢﻧ ﺵﺎﻨﻫﺍ ﺢﻣﺎﻳﺓ ﺱﻼﻤﺘﻛ ﺎﻠﺠﺳﺪﻴﻫ.
+ﺎﻠﺨﻃﻭﺮﻫ ﺎﻟﺭﺎﺒﻌﻫ: ﻖﻣ ﺏﺍﻼﺘﺻﺎﻟ ﺎﻠﻓﻭﺮﻳ ﻮﻄﻠﺑ ﺎﻠﻤﺳﺎﻋﺪﻫ ﻢﻧ ﺎﻠﻤﻨﻈﻣﺎﺗ ﺎﻠﺗﺎﻠﻴﻫ:
 
-![115-0-amenazas-potenciales.png]({{site.baseurl}}/media/115-0-amenazas-potenciales.png)
+1.- ﺍﻭﻻ: ﻞﺠﻧﺓ ﺢﻣﺎﻳﺓ ﺎﻠﺼﺤﻔﻴﻴﻧ : [Committee to Protect Journalists](https://www.cpj.org/campaigns/assistance/how-to-get-help.php)
 
+2.- ﺙﺎﻨﻳﺃ: ﻡﺭﺎﺴﻟﻮﻧ ﺏﻻ ﺡﺩﻭﺩ : [Reporters Without Borders](http://en.rsf.org/a-hotline-for-journalists-in-17-04-2007,21749.html)
 
-Alcanzaste más de 80 puntos y tu riesgo puede alcanzar potencialmente un nivel extremo. En estos niveles de riesgo, el daño a la integridad física, psicológica, legal o digital puede ser severo o catastrófico. En caso de un ataque, el daño puede ir desde la pérdida de la vida, el fin de la empresa periodística o un impacto financiero devastador.
+3.- ﺙﺎﻠﺛﺍ: ﻢﻌﻫﺩ ﺢﻣﺎﻳﺓ ﺍﻼﺨﺑﺍﺭ ﺎﻟﺩﻮﻠﻴﻫ : [International News Safety Institute](http://www.newssafety.org/contact/)
 
-Necesitarás evaluar qué tan probable es un ataque con un impacto extremo contra ti o tu organización. Si un ataque semejante con esa magnitud del daño tiene una alta probabilidad de ocurrir, entonces tu nivel de riesgo es inaceptable. En esas circunstancias, tu tarea principal es reducir el riesgo, evitar el daño grave o catastrófico, reagruparte con tu organización y tomar una acción correctiva inmediata. 
+4.- ﺭﺎﺒﻋﺃ: ﺃﺮﺘﻜﻟ (ﻡﺍﺪﻫ) ﺖﺴﻋﺓ ﻊﺷﺭ : [Article 19](http://www.article19.org/pages/en/contact-us.html)
 
-Como tu riesgo potencial es extremo, probablemente necesites crear una nueva estrategia de seguridad.
+5.- ﺥﺎﻤﺳﺍ: ﺕﺭﺎﺴﺗ ( ﻭﺪﻴﻋﺓ) ﺭﻭﺮﻳ ﺐﻴﻛ : [Rory Peck Trust](https://rorypecktrust.org/Contact)
 
-Pasos inmediatos:
-
-- Acción 1: Aborta cualquier operación que pueda conducir a un ataque con daños graves o catastróficos. 
-
-- Acción 2: Contacta a tu medio y discute posibles cursos de acción. Si eres un freelance, acércate con tu red de confianza y contacta al medio para el cual trabajas.
-
-- Acción 3: Reporta a las autoridades locales, estatales o nacionales cualquier intento o amenaza de ataque en contra tuya o de tu organización y exige medidas precautorias para proteger tu integridad física.
-
-- Acción 4. Contacta a cualquiera de estas organizaciones y solicita ayuda:
-
-1.- [Committee to Protect Journalists](https://www.cpj.org/campaigns/assistance/how-to-get-help.php)
-
-2.- [Reporters Without Borders](http://en.rsf.org/a-hotline-for-journalists-in-17-04-2007,21749.html)
-
-3.- [International News Safety Institute](http://www.newssafety.org/contact/ )
-
-4.- [Article 19](http://www.article19.org/pages/en/contact-us.html)
-
-5.- [Rory Peck Trust](https://rorypecktrust.org/Contact)
-
-- Otras acciones:
-
-Crea o revisa tu estrategia de seguridad: Una estrategia de seguridad es un documento que las organizaciones deben revisar periódicamente en el que está una definición de los problemas principales de seguridad para un periodista o un medio y un plan para reducir riesgos y enfrentar esas preocupaciones. De ser posible, discute con tu medio y tu red de confianza sobre la situación y analicen juntos las amenazas reales y potenciales, fortalezas y vulnerabilidades, y definan nuevas metas de seguridad según las circunstancias. 
-
-Crear o revisar los protocolos de seguridad. Un protocolo de seguridad es una secuencia de operaciones que aseguren la integridad física, psicológica, legal o digital. Será necesaria la creación de protocolos de seguridad para cada situación, dependiendo de la naturaleza de la amenaza y las condiciones específicas de vulnerabilidad y fortaleza.
-
-
+ﺦﻃﻭﺎﺗ ﺎﺧﺭﻯ ﻲﻤﻜﻧ ﺎﺘﺧﺍﺬﻫﺍ:
+  ﺎﻨﺷﺍﺀ ﺍﻭ ﻡﺭﺎﺠﻋﺓ ﺲﺗﺭﺎﺘﻴﺠﺘﻛ ﺍﻼﻤﻨﻴﻫ: ﺍﻼﺴﺗﺭﺎﺘﻴﺠﻴﻫ ﺍﻼﻤﻨﻴﻫ ﻪﻳ ﻊﺑﺍﺮﻫ ﻊﻧ ﻮﺜﻴﻘﻫ ﻲﻋﺍﺩ ﺺﻳﺎﻐﺘﻫﺍ ﺐﺻﻭﺮﻫ ﻢﻨﺘﻈﻤﻫ ﻡﻮﻀﺤﺗﺃ ﺎﻠﺘﺣﺪﻳﺎﺗ ﺍﻼﻤﻨﻴﻫ ﻞﻠﺸﺨﺻ ﺍﻭﺎﻠﻣﺆﺴﺴﻫ ﺍﻼﻋﻼﻤﻴﻫ ﻭﺎﻠﺨﻄﻃ ﺎﻠﺘﻳ ﻻﺑﺩ ﻢﻧ ﺎﺘﺑﺎﻌﻫﺍ ﻞﻠﺣﺩ ﻢﻧ ﺎﻠﻤﺧﺎﻃﺭ ﻮﻣﻭﺎﺠﻫﺓ ﺎﻠﺘﺣﺪﻳﺎﺗ. ﺃﺫﺍ ﺎﻤﻜﻧ، ﻥﺎﻘﺷ ﺎﻟﻮﻀﻋ ﻢﻋ ﻡﺆﺴﺴﺘﻛ ﺍﻼﻋﻼﻤﻴﻫ ﻮﻗﻮﻣﺍ ﻢﻋﺃ ﺐﺘﺤﻠﻴﻟ ﺎﻠﺘﻫﺪﻳﺩﺎﺗ ﺎﻠﻤﺤﺘﻤﻠﻫ ، ﻦﻗﺎﻃ ﺎﻠﻗﻮﻫ ﻭﺎﻠﻀﻌﻓ، ﻮﺼﻳﺎﻏﺓ ﺎﻫﺩﺎﻓ ﺎﻤﻨﻴﻫ ﺝﺪﻳﺪﻫ ﻮﻔﻗﺃ ﻞﻠﻇﺭﻮﻓ ﺎﻠﺟﺪﻳﺪﻫ. -- ﺎﻨﺷﺍﺀ ﺍﻭ ﻡﺭﺎﺠﻋﺓ ﺎﻠﺑﺭﻮﺗﻮﻛﻭﻼﺗ ﺍﻼﻤﻨﻴﻫ: ﺎﻠﺑﺭﻮﺘﻛﻮﻟ ﻩﻭ ﺲﻠﺴﻫ ﻢﻧ ﺎﻠﻌﻤﻠﻳﺎﺗ ﺎﻠﺘﻳ ﺖﻀﻤﻧ ﺢﻣﺎﻴﺘﻛ ﺎﻠﺠﺳﺪﻴﻫ، ﺎﻠﻨﻔﺴﻴﻫ، ﺎﻠﻗﺎﻧﻮﻨﻴﻫ ﺍﻭﺎﻟﺮﻘﻤﻴﻫ. ﻼﺑﺩ ﺎﻧ ﺖﻨﺷﻯ ﺏﺭﻮﺘﻛﻭﻼﺗ ﺎﻤﻨﻴﻫ ﻞﻜﻟ ﺡﺎﻠﻫ ﻊﻟﻯ ﺡﺪﻫ ﻮﻔﻗﺍ ﻞﻄﺒﻴﻋﺓ ﺎﻠﺘﻫﺪﻳﺩ ﺎﻟﺬﻳ ﺕﻭﺎﺠﻬﻫ ﻮﻨﻗﺎﻃ ﻕﻮﺘﻛ ﻮﻀﻌﻔﻛ."
 
