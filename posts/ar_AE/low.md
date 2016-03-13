@@ -1,5 +1,5 @@
 ---
-language: es_MX
+language: ar_AE
 date: "2016-03-07 15:25 -0600"
 author: Sandor B.
 description: "Los periodistas pueden sufrir ataques con daños moderados a su integridad física, psicológica, legal o digital."
