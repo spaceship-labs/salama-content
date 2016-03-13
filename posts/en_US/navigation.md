@@ -5,8 +5,9 @@ author: author
 description: how to navigate anonymously
 category: digital security
 published: true
-title: Untitled
+title: Secure Navigation
 ---
+
 
 
 If you are navigating the Internet and searching for sensitive issues, you may need to protect your digital identity and hide your IP. Using the Tor Browser will allow you to hide your original IP and do not reveal your geographic location. An anonymous navigation on the Internet will also help you to hide the identity of your Internet Service Provider (ISP).
