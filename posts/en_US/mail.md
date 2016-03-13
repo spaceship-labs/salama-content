@@ -5,8 +5,9 @@ author: author
 description: Mail encryption
 category: digital security
 published: true
-title: Untitled
+title: Protect your information
 ---
+
 
 
 You may want to protect sensitive information you send in emails and learn how to encrypt information. 
