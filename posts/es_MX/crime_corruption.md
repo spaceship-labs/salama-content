@@ -3,10 +3,11 @@ language: es_MX
 date: "2016-03-13 11:36 -0600"
 author: author
 description: "¿Cubres notas de crimen o corrupción?"
-category: seguridad digital
+category: seguridad laboral
 published: true
 title: "¿Cubres notas de crimen o corrupción?"
 ---
+
 
 
 # ¿Cubres notas de crimen o corrupción?
