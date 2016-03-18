@@ -3,10 +3,11 @@ language: en_US
 date: "2016-03-07 15:06 -0600"
 author: Sandor B.
 description: "Under this level of risk, damage to physical, psychological, legal or digital security can be severe or catastrophic"
-category: digital security
+category: others
 published: true
 title: Extreme risk level
 ---
+
 
 
 ## More than 80 points
