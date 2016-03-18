@@ -3,10 +3,11 @@ language: es_MX
 date: "2016-03-13 12:15 -0600"
 author: author
 description: Mejora tú comunicación
-category: seguridad digital
+category: seguridad de redes
 published: true
 title: Mejora tú comunicación
 ---
+
 
 # Mejora tú comunicación
 
