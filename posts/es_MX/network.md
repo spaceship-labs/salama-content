@@ -3,10 +3,11 @@ language: es_MX
 date: "2016-03-13 12:48 -0600"
 author: author
 description: La buena comunicación es esencial
-category: seguridad digital
+category: seguridad profesional
 published: true
 title: La buena comunicación es esencial
 ---
+
 
 # La buena comunicación es esencial
 
