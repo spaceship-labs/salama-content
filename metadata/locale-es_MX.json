@@ -244,7 +244,7 @@
     "date": "2016-03-13 12:10 -0600",
     "author": "author",
     "description": "Plan para la cobertura de violencia",
-    "category": "seguridad digital",
+    "category": "seguridad laboral",
     "published": true,
     "title": "Plan para la cobertura de violencia",
     "path": "violence_plan"
@@ -254,7 +254,7 @@
     "date": "2016-03-13 11:24 -0600",
     "author": "author",
     "description": "¿Estás listo para visitar zonas peligrosas?",
-    "category": "seguridad digital",
+    "category": "seguridad laboral",
     "published": true,
     "title": "¿Estás listo para visitar zonas peligrosas?",
     "path": "zone_protocols"

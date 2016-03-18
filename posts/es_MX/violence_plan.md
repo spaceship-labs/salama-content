@@ -3,10 +3,11 @@ language: es_MX
 date: "2016-03-13 12:10 -0600"
 author: author
 description: Plan para la cobertura de violencia
-category: seguridad digital
+category: seguridad laboral
 published: true
 title: Plan para la cobertura de violencia
 ---
+
 
 # Plan para la cobertura de violencia 
 Es necesario mejorar la planificación de la cobertura de la violencia. Esta planificación debe incluir reuniones de preparación con colegas de su organización, reporteros y editores, para discutir todos los aspectos de riesgo en la cobertura, incluyendo la selección de las fuentes y los lugares donde se recopilan datos para su historia.
