@@ -3,10 +3,11 @@ language: en_US
 date: "2016-03-13 11:11 -0600"
 author: author
 description: Attacks to journalists and bloggers
-category: digital security
+category: laboral security
 published: true
 title: Attacks to journalists and bloggers
 ---
+
 
 
 # Attacks to journalists and bloggers
