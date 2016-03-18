@@ -3,10 +3,11 @@ language: en_US
 date: "2016-03-13 11:36 -0600"
 author: author
 description: "Do you cover crime or corruption?"
-category: digital security
+category: laboral security
 published: true
 title: "Do you cover crime or corruption?"
 ---
+
 
 
 # Do you cover crime or corruption? 
