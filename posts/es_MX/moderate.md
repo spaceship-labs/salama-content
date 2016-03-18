@@ -3,10 +3,11 @@ language: es_MX
 date: "2016-03-07 15:25 -0600"
 author: Sandor B.
 description: "Los periodistas pueden sufrir ataques con daños moderados a su integridad física, psicológica, legal o digital."
-category: seguridad digital
+category: otros
 published: true
 title: Nivel de riesgo moderado
 ---
+
 
 
 ## Entre 40 y 59 puntos. 
