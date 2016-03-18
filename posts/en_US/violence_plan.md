@@ -3,10 +3,11 @@ language: en_US
 date: "2016-03-13 12:10 -0600"
 author: author
 description: Planning for covering violence
-category: digital security
+category: professional Security
 published: true
 title: Planning for covering violence
 ---
+
 
 
 # Planning for covering violence
