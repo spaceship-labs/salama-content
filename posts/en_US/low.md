@@ -9,11 +9,11 @@ title: Low risk
 ---
 
 
-## 40 to 59 points
+
+## 20 to 39 points
 
 
-
-You are under a potential moderate risk, meaning a non-serious damage to your physical, psychological, legal or digital integrity. Insults, bad treatment, defamation campaigns, some cyber-attacks, are examples of these risks. Some of those attacks are leading up to more serious risks. Evaluate what operation is putting you in higher levels of risk. Be aware of any corrective actions you need to take and eliminate any unacceptable risk. You will probably need to improve some prevention protocols.
+Be prepared to recognize any operation or situation that can increase your risk. Keep focus preventive protocols.
 
 Immediate steps:
 
