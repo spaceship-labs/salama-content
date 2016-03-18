@@ -3,10 +3,11 @@ language: en_US
 date: "2016-03-13 12:14 -0600"
 author: author
 description: Improve your communication
-category: digital security
+category: network Security
 published: true
 title: Improve your communication
 ---
+
 
 # Improve your communication
 You need to significantly improve your communication with your colleagues, both editors and reporters.  It is important to have meetings with them and discuss the best ways for communication when you cover violence. Communication needs to be fluent, confidential and frequent.
