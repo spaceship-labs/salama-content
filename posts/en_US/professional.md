@@ -3,10 +3,11 @@ language: en_US
 date: "2016-03-13 12:32 -0600"
 author: author
 description: Professional Situation
-category: digital security
+category: professional Security
 published: true
 title: Professional Situation
 ---
+
 
 
 # Professional Situation
