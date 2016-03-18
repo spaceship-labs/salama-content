@@ -3,10 +3,11 @@ language: en_US
 date: "2016-03-07 15:32 -0600"
 author: Sandor B.
 description: "Insults, bad treatment, defamation campaigns, some cyber-attacks, are examples of these risks."
-category: digital security
+category: others
 published: true
 title: Moderate risk
 ---
+
 
 
 ## 40 to 59 points
