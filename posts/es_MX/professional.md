@@ -3,10 +3,11 @@ language: es_MX
 date: "2016-03-13 12:32 -0600"
 author: autor
 description: Situación profesional
-category: seguridad digital
+category: seguridad profesional
 published: true
 title: Situación profesional
 ---
+
 
 # Situación profesional
 
