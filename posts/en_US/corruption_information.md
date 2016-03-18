@@ -3,10 +3,11 @@ language: en_US
 date: "2016-03-13 11:55 -0600"
 author: author
 description: Corruption and confidential information
-category: digital security
+category: Censorship Situations
 published: true
 title: Corruption and confidential information
 ---
+
 
 # Corruption and confidential information
 
