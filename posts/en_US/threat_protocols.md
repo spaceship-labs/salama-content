@@ -3,10 +3,11 @@ language: en_US
 date: "2016-03-13 12:25 -0600"
 author: author
 description: Threat protocols
-category: digital security
+category: laboral security
 published: true
 title: Threat protocols
 ---
+
 
 # Threat protocols
 Attacks to journalists and bloggers in high-risk zones should be an alert to you. We suggest you to discuss with colleagues what security protocols you should follow to face potential threats. Threats consist in the existence of power groups or individuals that may be affected by the work of the journalist, blogger, or citizen reporter, and have the capability to cause physical, psychological, legal, or digital harm. These threats are no longer potential and become real when these power groups develop the intent to cause harm and devise a plan to inflict it.

@@ -254,7 +254,7 @@
     "date": "2016-03-13 12:32 -0600",
     "author": "author",
     "description": "Professional Situation",
-    "category": "digital security",
+    "category": "professional Security",
     "published": true,
     "title": "Professional Situation",
     "path": "professional"
@@ -274,7 +274,7 @@
     "date": "2016-03-13 11:11 -0600",
     "author": "author",
     "description": "Attacks to journalists and bloggers",
-    "category": "digital security",
+    "category": "laboral security",
     "published": true,
     "title": "Attacks to journalists and bloggers",
     "path": "threat"
@@ -284,7 +284,7 @@
     "date": "2016-03-13 12:25 -0600",
     "author": "author",
     "description": "Threat protocols",
-    "category": "digital security",
+    "category": "laboral security",
     "published": true,
     "title": "Threat protocols",
     "path": "threat_protocols"
@@ -294,7 +294,7 @@
     "date": "2016-03-13 12:06 -0600",
     "author": "author",
     "description": "Do you cover violence?",
-    "category": "digital security",
+    "category": "laboral security",
     "published": true,
     "title": "Do you cover violence?",
     "path": "violence"
