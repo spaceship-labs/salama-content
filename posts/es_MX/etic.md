@@ -3,10 +3,11 @@ language: es_MX
 date: "2016-03-13 12:55 -0600"
 author: author
 description: Ética periodistica
-category: seguridad digital
+category: seguridad profesional
 published: true
 title: Ética periodistica
 ---
+
 
 # Ética periodistica
 
