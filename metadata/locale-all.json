@@ -464,7 +464,7 @@
     "date": "2016-03-07 15:25 -0600",
     "author": "Sandor B.",
     "description": "Los periodistas pueden sufrir ataques con daños moderados a su integridad física, psicológica, legal o digital.",
-    "category": "seguridad digital",
+    "category": "otros",
     "published": true,
     "title": "Nivel de riesgo moderado",
     "path": "moderate"
@@ -484,7 +484,7 @@
     "date": "2016-03-13 12:48 -0600",
     "author": "author",
     "description": "La buena comunicación es esencial",
-    "category": "seguridad digital",
+    "category": "seguridad profesional",
     "published": true,
     "title": "La buena comunicación es esencial",
     "path": "network"
@@ -504,7 +504,7 @@
     "date": "2016-03-13 12:50 -0600",
     "author": "author",
     "description": "Métodos de planeamiento",
-    "category": "seguridad digital",
+    "category": "seguridad profesional",
     "published": true,
     "title": "Métodos de planeamiento",
     "path": "plan"
