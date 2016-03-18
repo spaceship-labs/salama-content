@@ -3,10 +3,12 @@ language: en_US
 date: "2016-03-07 15:20 -0600"
 author: Sandor B.
 description: "In high levels of risk, journalists may suffer serious physical, psychological, legal or digital damage."
-category: digital security
+category: others
 published: true
 title: High risk level
 ---
+
+
 
 
 ## 60 to 79 points
