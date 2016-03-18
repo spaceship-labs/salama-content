@@ -3,10 +3,11 @@ language: en_US
 date: "2016-03-13 12:06 -0600"
 author: author
 description: "Do you cover violence?"
-category: digital security
+category: laboral security
 published: true
 title: "Do you cover violence?"
 ---
+
 
 # Do you cover violence?
 
