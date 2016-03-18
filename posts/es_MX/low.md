@@ -9,13 +9,13 @@ title: Nivel de riesgo bajo
 ---
 
 
-## Entre 40 y 59 puntos. 
+
+## Entre 20 y 39 puntos. 
 
 
 
-Alcanzaste más de 40 puntos y estás probablemente en un riesgo potencial medio o moderado, lo que significa que los periodistas pueden sufrir ataques con daños moderados a su integridad física, psicológica, legal o digital. Insultos, maltratos, campañas de difamación, algunos ataques cibernéticos son ejemplos de estos riesgos. 
+Alcanzaste más de 20 puntos, lo que significa que estás en un nivel de riesgo bajo. Prepárate para reconocer cualqiuer operación que pueda colocarte en una situación de alto riesgo. Enfócate en la prevención de riesgos.
 
-Toma en cuenta que estos ataques son en ocasiones un preámbulo para ataques más graves, propios de un nivel alto de riesgo. Necesitas evaluar todas las operaciones que pueden colocarte en una situación de alto riesgo. Sé consciente de las acciones correctivas que necesitas tomar y elimina riesgos inaceptables. Probablemente necesitarás adoptar o mejorar algunos protocolos preventivos de seguridad.
 
 Pasos inmediatos:
 
