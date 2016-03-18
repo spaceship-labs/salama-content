@@ -3,10 +3,11 @@ language: en_US
 date: "2016-03-13 12:48 -0600"
 author: author
 description: A good communication is essential
-category: digital security
+category: network Security
 published: true
 title: A good communication is essential
 ---
+
 
 # A good communication is essential
 
