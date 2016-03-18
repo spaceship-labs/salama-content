@@ -3,10 +3,11 @@ language: en_US
 date: "2016-03-13 12:56 -0600"
 author: author
 description: Journalist Ethics
-category: digital security
+category: professional Security
 published: true
 title: Journalist Ethics
 ---
+
 
 # Journalist Ethics
 Journalistic Ethics is an important factor to reduce risk. These resources might be useful for you:
