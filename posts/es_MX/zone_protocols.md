@@ -3,10 +3,11 @@ language: es_MX
 date: "2016-03-13 11:24 -0600"
 author: author
 description: "¿Estás listo para visitar zonas peligrosas?"
-category: seguridad digital
+category: seguridad laboral
 published: true
 title: "¿Estás listo para visitar zonas peligrosas?"
 ---
+
 
 # ¿Estás listo para visitar zonas peligrosas?
 Visitar zonas peligrosas sin protocolos de seguridad es una combinación muy arriesgada. Los reporteros con experiencia nunca asumen que están seguros en ningún momento. Para ellos, la visita a una zona de alto riesgo requiere tanto de preparación como de un estado de alerta permanente. Los periodistas necesitan estar preparados con una gran cantidad de información acerca de esa zona, y, al mismo tiempo, estar preparados para enfrentar lo inesperado. Las condiciones de seguridad pueden cambiar en cualquier momento y atrapar sin la preparación adecuada.
