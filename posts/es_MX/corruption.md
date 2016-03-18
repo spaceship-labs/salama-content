@@ -3,10 +3,11 @@ language: es_MX
 date: "2016-03-13 11:18 -0600"
 author: author
 description: "¿Cubres notas de corrupción?"
-category: seguridad digital
+category: situaciones de censura
 published: true
 title: "¿Cubres notas de corrupción?"
 ---
+
 
 #¿Cubres notas de corrupción?
 
