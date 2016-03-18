@@ -3,10 +3,11 @@ language: es_MX
 date: "2016-03-13 12:07 -0600"
 author: author
 description: "¿Cubres hechos de violencia?"
-category: seguridad digital
+category: seguridad profesional
 published: true
 title: "¿Cubres hechos de violencia?"
 ---
+
 
 # ¿Cubres hechos de violencia?
 Si cubre con frecuencia hechos de violencia, es muy importante crear protocolos de seguridad para cada situación en particular y adoptar directrices éticas para cubrir y entrevistar a las víctimas de la violencia. Evite el contacto personal a aquellos actores que usan la violencia para alcanzar sus fines. También mantenga constante contacto y comunicación con sus compañeros de más confianza. Ellos serán de ayuda crucial en caso de que usted se vea atrapado en medio de un incidente violento. Desarrolle protocolos de seguridad que se ajusten a sus necesidades en cada situación de riesgo. Incluya en los protocolos el tratamiento ético de las víctimas de la violencia durante las entrevistas. Compre equipo de protección si usted está en riesgo de sufrir violencia.
