@@ -3,10 +3,11 @@ language: en_US
 date: "2016-03-13 11:18 -0600"
 author: author
 description: "Do you cover corruption?"
-category: Censorship Situations
+category: censorship Situations
 published: true
 title: "Do you cover corruption?"
 ---
+
 
 
 
