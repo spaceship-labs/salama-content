@@ -3,10 +3,11 @@ language: es_MX
 date: "2016-03-07 14:50 -0600"
 author: Sandor B.
 description: "En estos niveles de riesgo, el daño a la integridad física, psicológica, legal o digital puede ser severo o catastrófico."
-category: seguridad digital
+category: otros
 published: true
 title: Nivel de riesgo extremo
 ---
+
 
 
 ## Más de 80 puntos. 
