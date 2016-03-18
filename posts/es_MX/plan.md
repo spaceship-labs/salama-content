@@ -3,10 +3,11 @@ language: es_MX
 date: "2016-03-13 12:50 -0600"
 author: author
 description: Métodos de planeamiento
-category: seguridad digital
+category: seguridad profesional
 published: true
 title: Métodos de planeamiento
 ---
+
 
 # Métodos de planeamiento
 
