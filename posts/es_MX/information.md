@@ -3,10 +3,11 @@ language: es_MX
 date: "2016-03-13 12:52 -0600"
 author: author
 description: Las historias deben ser revisadas
-category: seguridad digital
+category: seguridad profesional
 published: true
 title: Las historias deben ser revisadas
 ---
+
 
 # Las historias deben ser revisadas
 
