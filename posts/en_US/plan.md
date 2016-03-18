@@ -3,10 +3,11 @@ language: en_US
 date: "2016-03-13 12:50 -0600"
 author: author
 description: Planning methods
-category: digital security
+category: professional Security
 published: true
 title: Planning methods
 ---
+
 
 # Planning methods
 
