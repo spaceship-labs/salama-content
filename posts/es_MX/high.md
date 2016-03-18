@@ -3,10 +3,11 @@ language: es_MX
 date: "2016-03-07 15:14 -0600"
 author: Sandor B.
 description: "En estos niveles de riesgo, los periodistas pueden sufrir ataques con daños serios a su integridad física, psicológica, legal o digital."
-category: seguridad digital
+category: otros
 published: true
 title: Nivel de riesgo alto
 ---
+
 
 
 ## Más de 60 puntos. 
