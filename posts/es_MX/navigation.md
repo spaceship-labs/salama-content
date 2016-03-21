@@ -9,6 +9,7 @@ title: Navegación segura
 ---
 
 
+# Navegación segura
 
 Para investigar en Internet temas sensibles, es necesario para que protejas tu identidad digital y ocultes tu IP. El navegador de Tor te permitirá ocultar tu IP original y tu ubicación geográfica. Una navegación anónima en Internet también te ayudará a ocultar la identidad de su proveedor de servicios de Internet (ISP).
 
