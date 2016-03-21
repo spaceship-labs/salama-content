@@ -8,12 +8,7 @@ published: true
 title: Nivel de riesgo extremo
 ---
 
-
-
 ## Más de 80 puntos. 
-
-
-
 
 Alcanzaste más de 80 puntos y tu riesgo puede alcanzar potencialmente un nivel extremo. En estos niveles de riesgo, el daño a la integridad física, psicológica, legal o digital puede ser severo o catastrófico. En caso de un ataque, el daño puede ir desde la pérdida de la vida, el fin de la empresa periodística o un impacto financiero devastador.
 
