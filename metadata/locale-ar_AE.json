@@ -158,5 +158,15 @@
     "published": true,
     "title": "التواصل الجيد أمر ضروري",
     "path": "network"
+  },
+  {
+    "language": "ar_AE",
+    "date": "2016-03-21 14:38 -0600",
+    "author": "author",
+    "description": "كلمات مرور قوية",
+    "category": "الأمن الرقمي",
+    "published": true,
+    "title": "كلمات مرور قوية",
+    "path": "passwords"
   }
 ]

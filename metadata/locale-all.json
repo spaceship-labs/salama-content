@@ -160,6 +160,16 @@
     "path": "network"
   },
   {
+    "language": "ar_AE",
+    "date": "2016-03-21 14:38 -0600",
+    "author": "author",
+    "description": "كلمات مرور قوية",
+    "category": "الأمن الرقمي",
+    "published": true,
+    "title": "كلمات مرور قوية",
+    "path": "passwords"
+  },
+  {
     "language": "en_US",
     "date": "2016-03-13 10:55 -0600",
     "author": "author",
