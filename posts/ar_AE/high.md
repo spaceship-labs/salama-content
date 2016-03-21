@@ -2,45 +2,29 @@
 language: ar_AE
 date: "2016-03-07 15:14 -0600"
 author: Sandor B.
-description: "En estos niveles de riesgo, los periodistas pueden sufrir ataques con daños serios a su integridad física, psicológica, legal o digital."
-category: seguridad digital
+description: 60 نقطة
+category: الأمن الرقمي
 published: true
-title: Nivel de riesgo alto
+title: مستوى المخاطر العالية
 ---
 
-## Más de 60 puntos. 
+# 60 نقطة
 
-![100-0-info-en-peligro.png]({{site.baseurl}}/media/100-0-info-en-peligro.png)
+أذا كان مستوى الخطر اكبر من 60 درجه واصغر من 79
+بلغ مستوى الخطر أكثر من 60 درجه و وجدت نقسك تحت خطر كبير محتمل. في مستويات الخطوره العاليه، قد يعاني الصحفييون من اضرار جسديه، نفسيه، قانونيه او رقميه. من بين الامثله على هكذا مخاطر هي التهديد بالقتل، الاعتقالات العشواىيه، الضرب ،والهجمات الرقميه. في مثل هكذا ظروف، قم بتقييم اي عمليه قد تجلب لك المزيد من الخطر. في خطتك الامنيه، لابد من أظافة أجراءات تصحيحيه للوضع والقضاء على المخاطر التي لايمكن تقبلها. في هذا الاطار، قد تحتاج الى اعتماد او تحسين بعض البروتوكولات
 
-Alcanzaste más de 60 puntos y estás probablemente en un riesgo potencial alto. En estos niveles de riesgo, los periodistas pueden sufrir ataques con daños serios a su integridad física, psicológica, legal o digital. Amenazas de muerte, detenciones arbitrarias, golpizas, ataques cibernéticos, son ejemplos de estos riesgos. 
+خطوات فوريه
+الخطوه اﻻولى :ابقى على اتصال بمؤسستك الاعلاميه و قم بوضع خطه لمناقشة الخطوات اللازمه
+الخطوه الثانيه : في اي عمليه،قم بتحليل الامور التي تضعك في خطر كبير محمتل والتي قد تعاني بسبها من اضرار جسديه، نفسيه، رقميه او قانونيه كبيره   
+الخطوه الثالثه : قم بأبلاغ السلطات الوطنيه او المحليه عن اي تهديد او محاوله للاعتداء عليك و قم بطلب أجرءات وقاىيه عاجله من شأنها ان تحمي سلامتك الجسديه 
+الخطوه الرابعه : تعرف على المنظمات التاليه و قم بأعلامهم عن مستوى المخاطر التي تواجهها 
+ لجنة حماية الصحفيين
+ مراسلون بلا حدود
+ معهد حماية الاخبار الدوليه
+ أرتكل (ماده) تسعة عشر
+ تراست ( وديعة) روري بيك 
 
-Necesitas evaluar todas las operaciones que te colocan en una situación de alto riesgo. En tu plan de seguridad, necesitas tomar acciones correctivas y eliminar riesgos inaceptables. Probablemente necesitarás adoptar o mejorar algunos protocolos de seguridad.
-
-Pasos inmediatos:
-
-- Acción 1: Evita cualquier operación que pueda conducir a un ataque con daños graves o catastróficos.
-
-- Acción 2. Analiza qué falla en tus protocolos de seguridad contribuye a colocarte en un riesgo alto.
-
-- Acción 3: Contacta a tu medio y discute posibles cursos de acción. Si eres un freelance, acércate con tu red de confianza y contacta al medio para el cual trabajas.
-
-- Acción 4: Reporta a las autoridades locales, estatales o nacionales cualquier intento o amenaza de ataque en contra tuya o de tu organización y exige medidas precautorias para proteger tu integridad física.
-
-- Acción 5. Contacta a cualquiera de estas organizaciones y solicita ayuda:
-
-a) [Committee to Protect Journalists](https://www.cpj.org/campaigns/assistance/how-to-get-help.php)
-
-b) [Reporters Without Borders](http://en.rsf.org/a-hotline-for-journalists-in-17-04-2007,21749.html)
-
-c) [International News Safety Institute](http://www.newssafety.org/contact/ )
-
-d) [Article 19](http://www.article19.org/pages/en/contact-us.html)
-
-e) [Rory Peck Trust](https://rorypecktrust.org/Contact)
-
-- Otras acciones:
-
-Crea o revisa tu estrategia de seguridad: Una estategia de seguridad es un documento que las organizaciones deben revisar periódicamente en el que está una definición de los problemas principales de seguridad para un periodista o un medio y un plan para reducir riesgos y enfrentar esas preocupaciones. De ser posible, discute con tu medio y tu red de confianza sobre la situación y analicen juntos las amenazas reales y potenciales, fortalezas y vulnerabilidades, y definan nuevas metas de seguridad según las circunstancias.
-
-Crear o revisar los protocolos de seguridad. Un protocolo de seguridad es una secuencia de operaciones que aseguren la integridad física, psicológica, legal o digital. Será necesaria la creación de protocolos de seguridad para cada situación, dependiendo de la naturaleza de la amenaza y las condiciones específicas de vulnerabilidad y fortaleza.
+خطوات اخرى يمكن اتخاذها 
+انشاء استراتيجه امنيه: الاستراتيجيه الامنيه هي عباره عن وثيقه يعاد صياغتها بصوره منتظمه، موضحتا التحديات الامنيه للشخص او المؤسسه الاعلاميه و الخطط التي يجب اتباعها للحد من المخاطر ومواجهة التحديات. ﻻبد ان تناقش الوضع مع مؤسستك الاعلاميه ، قم بتحليل عميق للمخاطر التي تواجهها ،نقاط قوتك وضعفك، وصياغة اهداف امنيه جديده وفقأ للظروف الجديده    
+انشاء بروتوكولات امنيه: البروتكول هو سلسه من العمليات التي تضمن لك الحمايه الجسديه، النفسيه، القانونيه، اوالرقميه. لابد من انشاء بروتكولات امنيه خاصه لكل حاله على حده وفقا لطبيعة التهديد الذي تواجه ونقاط القوه و الضعف الخاصه بك. ومع ان كل برتوكل يجب ان يكون مناسب لطبيعة الخطر،هنالك بعض العمليات التي قد يعمل بها في الاوضاع شديدة الخطوره
 
