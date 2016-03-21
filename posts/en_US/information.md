@@ -8,8 +8,8 @@ published: true
 title: You must plan your histories
 ---
 
-
 # You must plan your histories
+
 All stories, particularly dangerous one, should be rigorously fact-checked.
 Reporters who have strong verification methods are safer that those who don’t.
 
