@@ -8,11 +8,7 @@ published: true
 title: Nivel de riesgo alto
 ---
 
-
-
-## Más de 60 puntos. 
-
-
+# Más de 60 puntos. 
 
 Alcanzaste más de 60 puntos y estás probablemente en un riesgo potencial alto. En estos niveles de riesgo, los periodistas pueden sufrir ataques con daños serios a su integridad física, psicológica, legal o digital. Amenazas de muerte, detenciones arbitrarias, golpizas, ataques cibernéticos, son ejemplos de estos riesgos. 
 
