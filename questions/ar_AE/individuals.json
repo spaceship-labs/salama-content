@@ -1,0 +1,440 @@
+{
+  "pages": [
+    {
+      "type": "double-column",
+      "questions":[
+        {
+          "score": true,
+          "name": "threat_individual",
+          "input": "radio",
+          "title": "هل تم تهديدك او الاعتداء عليك بسب عملك الصحفي خلال السنه الماضيه؟",
+          "instruction":"",
+          "options":[
+            {
+              "option": "عم",
+              "value": 20
+            },
+            {
+              "option": "كلا",
+              "value": 0
+            }
+          ],
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "threat_collegues_in",
+          "input": "radio",
+          "title": "هل تم تهديد او الاعتداء على زملاىك في المؤسسه بسب عملهم الصحفي خلال السنه الماضيه؟",
+          "instruction":"",
+          "options":[
+            {
+              "option": "عم",
+              "value": 20
+            },
+            {
+              "option": "كلا",
+              "value": 0
+            }
+          ],
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "threat_collegues_out",
+          "input": "radio",
+          "title": "هل تم تهديد او الاعتداء على زملائك في مجال العمل بسب عملهم الصحفي خلال السنه الماضيه؟",
+          "instruction":"",
+          "options":[
+            {
+              "option": "عم",
+              "value": 20
+            },
+            {
+              "option": "كلا",
+              "value": 0
+            }
+          ],
+          "required":true
+        }
+      ]
+    },
+    {
+      "type":"table-multiradio",
+      "title": "الوضع الامني",
+      "instruction":"من فضلك أختر الصندوق المناسب",
+      "options":[
+        {
+          "option": "أبدا",
+          "value" : "1"
+        },
+        {
+          "option": "أحيانا",
+          "value" : "2"
+        },
+        {
+          "option": "بأنتظام ",
+          "value" : "3"
+        },
+       
+        {
+          "option": "غالبا",
+          "value" : "4"
+        },
+
+        {
+          "option": "في كثير من الاحيان",
+          "value" : "5"
+        }
+      ],
+      "questions":[
+        {
+          "score": true,
+          "name": "security_police",
+          "title": "هل تقوم بتغطية الجريمه؟",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "security_corruption",
+          "title": "هل تقوم بتغطية الفساد؟",
+          "required":true
+        },
+
+        {
+          "score": true,
+          "name": "security_violence",
+          "title": "هل تقوم بتغطية حوادث العنف ؟ ( مثال: القتل، اعمال الشغب، الضرب)",
+          "required":true
+        },
+
+        {
+          "score": true,
+          "name": "security_zone",
+          "title": "كم هي عدد المرات التي تغطي فيها الاحداث في  المناطق الخطره؟",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "security_information",
+          "title": "ما مدى حصولك على المعلومات السريه؟",
+          "required":true
+        }
+      ]
+    },
+    {
+      "type":"table-multiradio",
+      "title": "المراقبه",
+      "instruction":"من فضلك قم بأختيار الحقل المناسب",
+      "options":[
+        {
+          "option": "أبدا",
+          "value" : "1"
+        },
+        {
+          "option": "أحيانا",
+          "value" : "2"
+        },
+        {
+          "option": "بأنتظام ",
+          "value" : "3"
+        },
+       
+        {
+          "option": "غالبا",
+          "value" : "4"
+        },
+
+        {
+          "option": "في كثير من الاحيان",
+          "value" : "5"
+        }
+      ],
+      "questions":[
+        {
+          "score": true,
+          "name": "censorship_out",
+          "title": "هل تتلقى ضغوط خارجيه لنشر او الامنتاع عن نشر معلومات؟",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "censorship_in",
+          "title": "هل تتلقى ضغوط داخليه لنشر او الامتناع عن نشر معلومات؟",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "censorship_auto",
+          "title": "هل تمارس الرقابه الذاتيه؟",
+          "required":true
+        }
+      ]
+    },
+    {
+      "type":"table-multiradio",
+      "title": "الوضع المهني ",
+      "instruction":"من فضلك قم باختيار الحقل المناسب",
+      "options":[
+        {
+          "option": "في كثير من الاحيان",
+          "value" : "1"
+        },
+        {
+          "option": "غالبا",
+          "value" : "2"
+        },
+        {
+          "option": "بأنتظام ",
+          "value" : "3"
+        },
+       
+        {
+          "option": "أحيانا",
+          "value" : "4"
+        },
+
+        {
+          "option": "أبدا",
+          "value" : "5"
+        }
+      ],
+      "questions":[
+        {
+          "score": true,
+          "name": "profesional_plan",
+          "title": "هل  تخطط لقصصك؟",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "profesional_information",
+          "title": "هل تتحقق من المعلومات؟",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "profesional_etic",
+          "title": "هل تستخدم مبادى توجيهيه اخلاقيه؟",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "profesional_protocols",
+          "title": "هل تستخدم بروتوكولات الامان؟",
+          "required":true
+        }
+      ]
+    },
+    {
+      "type":"table-multiradio",
+      "title": "شبكات التضامن ",
+      "instruction":"من فضلك قم باختيار الحقل المناسب",
+      "options":[
+        {
+          "option": "ممتاز",
+          "value" : "1"
+        },
+        {
+          "option": "جيد ",
+          "value" : "2"
+        },
+        {
+          "option": "نوعا ما ",
+          "value" : "3"
+        },
+       
+        {
+          "option": "سيى",
+          "value" : "4"
+        },
+
+        {
+          "option": "سيى جدا ",
+          "value" : "5"
+        }
+      ],
+      "questions":[
+        {
+          "score": true,
+          "name": "network_boss",
+          "title": " ماهي طبيعة او مستوى تواصلك مع مسؤلك او مديرك ؟",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "network_sub",
+          "title": "ماهي طبيعة او مستوى تواصلك مع موظفيك الذين تشرف عليهم؟",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "network_collegues",
+          "title": "ماهي طبيعة او مستوى تواصلك مع زملالك في  داخل او خارج المؤسسه؟",
+          "required":true
+        }
+      ]
+    },
+    {
+      "type":"table-multiradio",
+      "title": "امن العمل",
+      "instruction":"قم بتحليل وضعك في العمل. من فضلك أختر الحقل المناسب",
+      "options":[
+        {
+          "option": "ممتاز",
+          "value" : "1"
+        },
+        {
+          "option": "جيد ",
+          "value" : "2"
+        },
+        {
+          "option": "نوعا ما ",
+          "value" : "3"
+        },
+       
+        {
+          "option": "سيى",
+          "value" : "4"
+        },
+
+        {
+          "option": "سيى جدا ",
+          "value" : "5"
+        }
+      ],
+      "questions":[
+        {
+          "score": true,
+          "name": "laboral_condition",
+          "title": "ظروف عملك ( الراتب؛ المزايا) هي ...",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "laboral_will",
+          "title": "كيف تزيد سياسة و افعال مؤسستك الاعلاميه من أمنك؟",
+          "required":true
+        }
+      ]
+    },
+    {
+      "type":"table-multiradio",
+      "title": "الأمن الرقمي",
+      "instruction":"من فضلك قم بتقييم  مهاراتك في استعمال الادوات الرقميه التاليه",
+      "options":[
+        {
+          "option": "خبير",
+          "value" : "1"
+        },
+        {
+          "option": "مستوى متقدم",
+          "value" : "2"
+        },
+        {
+          "option": "متوسط",
+          "value" : "3"
+        },
+       
+        {
+          "option": "مبتدئ",
+          "value" : "4"
+        },
+
+        {
+          "option": "لاشي",
+          "value" : "5"
+        }
+      ],
+      "questions":[
+        {
+          "score": true,
+          "name": "digital_navigation",
+          "title": "الاستعمال المجهول",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "digital_mail",
+          "title": "البريد الالكتروني المشفر",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "digital_chat",
+          "title": "المحادثه او الدردشه المشفره",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "digital_passwords",
+          "title": "كلمات المرور القويه",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "digital_calls",
+          "title": "مكالمات هاتفيه مشفره",
+          "required":true
+        }
+      ]
+    },
+    {
+      "type": "double-column",
+      "optional":"true",
+      "legend-optional":"هل ترغب في مساعدتنا على تحسين المسح؟",
+      "questions":[
+        {
+         "name": "personalized_training",
+         "input":"checkbox",
+         "title": "تدريب شخصي",
+         "instruction":"نعم ارغب بالحصول على تدريب خاص بي"
+        },
+        {
+          "name": "medium",
+          "input": "text",
+          "title": "متوسط",
+          "instruction": "رجاءأ اكتب اسم مؤسستك الاعلاميه ( اذا كنت تعمل بصوره مستقله - يرجى الكتابه)",
+          "placeholder": "إرسال إجابتك",
+          "required":true
+        },
+        {
+          "name": "location",
+          "input": "text",
+          "title": "المنطقه ( البلديه) ، المحافضه ( القسم)",
+          "instruction": "يرجى كتابة اسم بلديتك (حي) على سبيل المثال: المحموديه- بغداد",
+          "placeholder": "إرسال إجابتك",
+          "required":true
+        },
+        {
+          "name":  "job",
+          "input": "multi-checkbox",
+          "title": "وظيفة",
+          "instruction": "في البيىه الامنيه الحاليه، جميع اعضاء المؤسسات الاعلاميه يتشاركون نفس مستوى الخطر. ومع ذالك، قد يواجه الصحفييون العاملين في حقل ما اكثر مخاطر من الاخرين. من فضلك قم تحديد مجال او مجالات عملك في مؤسستك الاعلاميه.",
+          "options":[
+            {
+              "option": "أنتاج و تداول",
+              "value": "Production and Circulation"
+            },
+            {
+              "option": "مدير المجتمع",
+              "value": "Community manager"
+            },
+            {
+              "option": "الطبعه",
+              "value": "Editor"
+            },
+            {
+              "option": "أداره او توجيه",
+              "value": "Director"
+            },
+            {
+              "option": "مراسل، مصور او مدون ",
+              "value": "Reporter, Photographer or Blogger"
+            }
+          ]
+        }
+      ]      
+    }
+  ]
+}
