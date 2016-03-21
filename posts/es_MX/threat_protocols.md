@@ -2,14 +2,15 @@
 language: es_MX
 date: "2016-03-13 12:25 -0600"
 author: author
-description: Protocolos de ataque
+description: Protocolos para  prevenir ataques
 category: seguridad profesional
 published: true
-title: Protocolos de ataque
+title: Protocolos para  prevenir ataques
 ---
 
 
-# Protocolos de ataque
+# Protocolos para  prevenir ataques
+
 Los ataques a periodistas y blogueros en zonas de alto riesgo deben ser una alerta para usted. Sugerimos que usted discuta con sus colegas qué protocolos de seguridad deben seguir para hacer frente a las amenazas potenciales. Amenazas consisten en la existencia de grupos de poder o personas que puedan ser afectadas por el trabajo del periodista, bloguero, o reportero ciudadano, y tienen la capacidad de causar daños físicos, psicológicos, legales, o digitales. Estas amenazas dejan de ser  potenciales y se hacen reales cuando desarrollan la intención de causar daño y elaboran un plan para infligirlo.
 Para conocer bien a las amenazas, debemos tener información detallada sobre ellos:
 
