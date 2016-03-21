@@ -8,12 +8,7 @@ published: true
 title: Nivel de riesgo bajo
 ---
 
-
-
-
 ## Entre 20 y 39 puntos. 
-
-
 
 Alcanzaste más de 20 puntos, lo que significa que estás en un nivel de riesgo bajo. Prepárate para reconocer cualqiuer operación que pueda colocarte en una situación de alto riesgo. Enfócate en la prevención de riesgos.
 
