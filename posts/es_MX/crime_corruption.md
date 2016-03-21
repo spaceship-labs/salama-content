@@ -8,8 +8,6 @@ published: true
 title: "¿Cubres notas de crimen o corrupción?"
 ---
 
-
-
 # ¿Cubres notas de crimen o corrupción?
 
 Los periodistas que a menudo cubren el crimen y la corrupción están en riesgo alto. De acuerdo con la investigación del Comité de Protección de Periodistas, el 35 por ciento de los periodistas asesinados en el mundo desde 1992 solía cubrir ambos temas. Hay varias razones para este aumento del riesgo: el trabajo del periodista impacta la impunidad de policías corruptos o agentes de inteligencia, criminales, violadores de los derechos humanos, o empresarios corruptos. Este impacto aumenta el riesgo para los periodistas. En algunos países con altas tasas de criminalidad, los grupos criminales y fuerzas de seguridad se han convertido en adversarios y fuentes de amenazas contra periodistas.
