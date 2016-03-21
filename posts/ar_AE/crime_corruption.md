@@ -3,7 +3,7 @@ language: ar_AE
 date: "2016-03-21 13:47 -0600"
 author: author
 description: الملاحظات التي تغطي الجريمة أو الفساد
-category: الأمن الرقمي
+category: الأمن الوظيفي
 published: true
 title: الملاحظات التي تغطي الجريمة أو الفساد
 ---
