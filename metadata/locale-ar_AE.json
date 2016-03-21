@@ -31,6 +31,16 @@
   },
   {
     "language": "ar_AE",
+    "date": "2016-03-21 13:44 -0600",
+    "author": "author",
+    "description": "الفساد والمعلومات السرية",
+    "category": "الأمن الرقمي",
+    "published": true,
+    "title": "الفساد والمعلومات السرية",
+    "path": "corruption_information"
+  },
+  {
+    "language": "ar_AE",
     "date": "2016-03-13 08:33 -0600",
     "author": "author",
     "description": "Digital security advices",
