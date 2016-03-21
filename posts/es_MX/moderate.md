@@ -8,11 +8,7 @@ published: true
 title: Nivel de riesgo moderado
 ---
 
-
-
 ## Entre 40 y 59 puntos. 
-
-
 
 Alcanzaste más de 40 puntos y estás probablemente en un riesgo potencial medio o moderado, lo que significa que los periodistas pueden sufrir ataques con daños moderados a su integridad física, psicológica, legal o digital. Insultos, maltratos, campañas de difamación, algunos ataques cibernéticos son ejemplos de estos riesgos. 
 
