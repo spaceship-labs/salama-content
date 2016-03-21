@@ -220,6 +220,16 @@
     "path": "threat_protocols"
   },
   {
+    "language": "ar_AE",
+    "date": "2016-03-21 15:45 -0600",
+    "author": "author",
+    "description": "أعمال العنف",
+    "category": "الأمن الرقمي",
+    "published": true,
+    "title": "أعمال العنف",
+    "path": "violence"
+  },
+  {
     "language": "en_US",
     "date": "2016-03-13 10:55 -0600",
     "author": "author",
