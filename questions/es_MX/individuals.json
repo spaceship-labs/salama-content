@@ -15,7 +15,7 @@
               "value": 20
             },
             {
-              "option": "no",
+              "option": "No",
               "value": 0
             }
           ],
@@ -33,7 +33,7 @@
               "value": 20
             },
             {
-              "option": "no",
+              "option": "No",
               "value": 0
             }
           ],
@@ -51,7 +51,7 @@
               "value": 20
             },
             {
-              "option": "no",
+              "option": "No",
               "value": 0
             }
           ],
@@ -91,7 +91,7 @@
         {
           "score": true,
           "name": "security_police",
-          "title": "¿Cubres notas de policía o crimen",
+          "title": "¿Cubres notas de policía o crimen?",
           "required":true
         },
         {
@@ -117,7 +117,7 @@
         {
           "score": true,
           "name": "security_information",
-          "title": "¿Cubres notas de policía o crimen",
+          "title": "¿Con qué frecuencia recibe información confidencial?",
           "required":true
         }
       ]
@@ -154,19 +154,19 @@
         {
           "score": true,
           "name": "censorship_out",
-          "title": "¿Recibes presiones externas para censurar tus información?",
+          "title": "¿Recibes presiones externas para censurar tu información?",
           "required":true
         },
         {
           "score": true,
           "name": "censorship_in",
-          "title": "¿Cubres hechos de corrupción?",
+          "title": "¿Recibes presiones internas para censurar tu información?",
           "required":true
         },
         {
           "score": true,
           "name": "censorship_auto",
-          "title": "¿Practicas autocensura",
+          "title": "¿Practicas autocensura?",
           "required":true
         }
       ]
@@ -270,7 +270,7 @@
         {
           "score": true,
           "name": "network_collegues",
-          "title": "Cómo es la comunicación con tus colegas de otros medios?",
+          "title": "¿Cómo es la comunicación con tus colegas de otros medios?",
           "required":true
         }
       ]
@@ -307,7 +307,7 @@
         {
           "score": true,
           "name": "laboral_condition",
-          "title": "¿Cómo es tu condición laboral (sueldo, prestaciones)",
+          "title": "¿Cómo es tu condición laboral (sueldo, prestaciones)?",
           "required":true
         },
         {
