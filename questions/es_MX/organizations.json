@@ -260,28 +260,18 @@
     {
       "type": "table-multiradio",
       "title": "Tiempo para el impacto", 
-      "instruction": "Must be a instruction",
+      "instruction": "Estima la advertencia anticipada de cada evento",
       "options":[
         {
-          "option": "Muy Baja",
+          "option": "Semanas o meses después de un aviso",
           "value" : 1
         },
         {
-          "option": "Baja",
-          "value" : 2
-        },
-        {
-          "option": "Moderada",
+          "option": "Horas o días después de un aviso",
           "value" : 3
         },
-       
         {
-          "option": "Alta",
-          "value" : 4
-        },
-
-        {
-          "option": "Muy alta",
+          "option": "Sin previo aviso",
           "value" : 5
         }
       ],
