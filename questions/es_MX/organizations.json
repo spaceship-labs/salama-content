@@ -379,14 +379,14 @@
     {
       "type": "table-multiradio",
       "title": "Control del tiempo para el impacto", 
-      "instruction": "Must be a instruction",
+      "instruction": "Estima la efectividad de las acciones propuestas para reducir la desventaja creada por la falta de tiempo",
       "options":[
         {
-          "option": "Muy Baja",
+          "option": "Muy alta",
           "value" : 1
         },
         {
-          "option": "Baja",
+          "option": "Alta",
           "value" : 2
         },
         {
@@ -395,12 +395,12 @@
         },
        
         {
-          "option": "Alta",
+          "option": "Baja",
           "value" : 4
         },
 
         {
-          "option": "Muy alta",
+          "option": "Muy Baja",
           "value" : 5
         }
       ],
@@ -508,28 +508,28 @@
     {
       "type": "table-multiradio",
       "title": "Severidad del daño financiero", 
-      "instruction": "Must be a instruction",
+      "instruction": "Estima la severidad financiera de cada evento",
       "options":[
         {
-          "option": "Muy Baja",
+          "option": "Insignificante",
           "value" : 1
         },
         {
-          "option": "Baja",
+          "option": "Pequeño",
           "value" : 2
         },
         {
-          "option": "Moderada",
+          "option": "Costoso",
           "value" : 3
         },
        
         {
-          "option": "Alta",
+          "option": "Muy costoso",
           "value" : 4
         },
 
         {
-          "option": "Muy alta",
+          "option": "Extremadamente costoso",
           "value" : 5
         }
       ],
@@ -637,14 +637,14 @@
     {
       "type": "table-multiradio",
       "title": "Control de daño financiero", 
-      "instruction": "Must be a instruction",
+      "instruction": "Estima la efectividad de las acciones propuestas para reducir los daños financieros",
       "options":[
         {
-          "option": "Muy Baja",
+          "option": "Muy alta",
           "value" : 1
         },
         {
-          "option": "Baja",
+          "option": "Alta",
           "value" : 2
         },
         {
@@ -653,12 +653,12 @@
         },
        
         {
-          "option": "Alta",
+          "option": "Baja",
           "value" : 4
         },
 
         {
-          "option": "Muy alta",
+          "option": "Muy Baja",
           "value" : 5
         }
       ],
