@@ -1024,28 +1024,28 @@
     {
       "type": "table-multiradio",
       "title": "Severidad del daño a la reputación", 
-      "instruction": "Must be a instruction",
+      "instruction": "Estima el potencial daño a la reputación que podría ser causado por cada evento",
       "options":[
         {
-          "option": "Muy Baja",
+          "option": "Ninguno",
           "value" : 1
         },
         {
-          "option": "Baja",
+          "option": "Menor",
           "value" : 2
         },
         {
-          "option": "Moderada",
+          "option": "Moderado",
           "value" : 3
         },
        
         {
-          "option": "Alta",
+          "option": "Significativo",
           "value" : 4
         },
 
         {
-          "option": "Muy alta",
+          "option": "Catastrófico",
           "value" : 5
         }
       ],
@@ -1153,28 +1153,27 @@
     {
       "type": "table-multiradio",
       "title": "Control del daño a la reputación", 
-      "instruction": "Must be a instruction",
+      "instruction": "Estima la efectividad de las acciones propuestas para reducir el daño en cada caso.",
       "options":[
         {
-          "option": "Muy Baja",
+          "option": "Muy alta",
           "value" : 1
         },
         {
-          "option": "Baja",
+          "option": "Alta",
           "value" : 2
         },
         {
           "option": "Moderada",
           "value" : 3
         },
-       
         {
-          "option": "Alta",
+          "option": "Baja",
           "value" : 4
         },
 
         {
-          "option": "Muy alta",
+          "option": "Muy Baja",
           "value" : 5
         }
       ],
