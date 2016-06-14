@@ -508,7 +508,7 @@
     {
       "type": "table-multiradio",
       "title": "Severidad del daño financiero", 
-      "instruction": "Estima la severidad financiera de cada evento",
+      "instruction": "Estima la severidad financiera que pudiera ser causada por cada evento",
       "options":[
         {
           "option": "Insignificante",
@@ -766,28 +766,28 @@
     {
       "type": "table-multiradio",
       "title": "Severidad del daño físico", 
-      "instruction": "Must be a instruction",
+      "instruction": "Estima la severidad de las lesiones que pudieran ser causada por cada evento",
       "options":[
         {
-          "option": "Muy Baja",
+          "option": "Ninguno",
           "value" : 1
         },
         {
-          "option": "Baja",
+          "option": "Menor",
           "value" : 2
         },
         {
-          "option": "Moderada",
+          "option": "Moderado",
           "value" : 3
         },
        
         {
-          "option": "Alta",
+          "option": "Serio",
           "value" : 4
         },
 
         {
-          "option": "Muy alta",
+          "option": "Catastrófico",
           "value" : 5
         }
       ],
@@ -895,14 +895,14 @@
     {
       "type": "table-multiradio",
       "title": "Control del daño físico", 
-      "instruction": "Must be a instruction",
+      "instruction": "Estima la efectividad de las acciones propuestas para reducir el daño en cada caso.",
       "options":[
         {
-          "option": "Muy Baja",
+          "option": "Muy alta",
           "value" : 1
         },
         {
-          "option": "Baja",
+          "option": "Alta",
           "value" : 2
         },
         {
@@ -911,12 +911,12 @@
         },
        
         {
-          "option": "Alta",
+          "option": "Baja",
           "value" : 4
         },
 
         {
-          "option": "Muy alta",
+          "option": "Muy Baja",
           "value" : 5
         }
       ],
