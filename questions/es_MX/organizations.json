@@ -3,7 +3,7 @@
     {
       "type": "table-multiradio",
       "title": "Probabilidad de riesgos", 
-      "instruction": "Must be a instruction",
+      "instruction": "Estima la probabilidad de ocurrencia de cada evento.",
       "options":[
         {
           "option": "Muy Baja",
@@ -131,15 +131,15 @@
     },
     {
       "type": "table-multiradio",
-      "title": "Control de la probabilidad", 
-      "instruction": "Must be a instruction",
+      "title": "Control de la probabilidad de ocurrencia", 
+      "instruction": "Estima la efectividad de las acciones propuestas para prevenir la ocurrencia de cada caso.",
       "options":[
         {
-          "option": "Muy Baja",
+          "option": "Muy Alta",
           "value" : 1
         },
         {
-          "option": "Baja",
+          "option": "Alta",
           "value" : 2
         },
         {
@@ -148,12 +148,12 @@
         },
        
         {
-          "option": "Alta",
+          "option": "Baja",
           "value" : 4
         },
 
         {
-          "option": "Muy alta",
+          "option": "Muy baja",
           "value" : 5
         }
       ],
@@ -170,7 +170,6 @@
           "title":"Desapariciones",
           "required":true
         },     
-
         {
           "score":true,
           "name": "probability_control_kidnapping",
