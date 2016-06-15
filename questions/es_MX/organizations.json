@@ -7,25 +7,25 @@
       "options":[
         {
           "option": "Muy Baja",
-          "value" : 1
+          "value" : 2        
         },
         {
           "option": "Baja",
-          "value" : 2
+          "value" : 4
         },
         {
           "option": "Moderada",
-          "value" : 3
+          "value" : 6
         },
        
         {
           "option": "Alta",
-          "value" : 4
+          "value" : 8
         },
 
         {
           "option": "Muy alta",
-          "value" : 5
+          "value" : 10
         }
       ],
       "questions":[
@@ -136,25 +136,25 @@
       "options":[
         {
           "option": "Muy Alta",
-          "value" : 1
+          "value" : 2        
         },
         {
           "option": "Alta",
-          "value" : 2
+          "value" : 4
         },
         {
           "option": "Moderada",
-          "value" : 3
+          "value" : 6
         },
        
         {
           "option": "Baja",
-          "value" : 4
+          "value" : 8
         },
 
         {
           "option": "Muy baja",
-          "value" : 5
+          "value" : 10
         }
       ],
       "questions":[
@@ -264,15 +264,15 @@
       "options":[
         {
           "option": "Semanas o meses después de un aviso",
-          "value" : 1
+          "value" : 2        
         },
         {
           "option": "Horas o días después de un aviso",
-          "value" : 3
+          "value" : 6
         },
         {
           "option": "Sin previo aviso",
-          "value" : 5
+          "value" : 10
         }
       ],
       "questions":[
@@ -383,25 +383,25 @@
       "options":[
         {
           "option": "Muy alta",
-          "value" : 1
+          "value" : 2        
         },
         {
           "option": "Alta",
-          "value" : 2
+          "value" : 4
         },
         {
           "option": "Moderada",
-          "value" : 3
+          "value" : 6
         },
        
         {
           "option": "Baja",
-          "value" : 4
+          "value" : 8
         },
 
         {
           "option": "Muy Baja",
-          "value" : 5
+          "value" : 10
         }
       ],
       "questions":[
@@ -512,25 +512,25 @@
       "options":[
         {
           "option": "Insignificante",
-          "value" : 1
+          "value" : 2        
         },
         {
           "option": "Pequeño",
-          "value" : 2
+          "value" : 4
         },
         {
           "option": "Costoso",
-          "value" : 3
+          "value" : 6
         },
        
         {
           "option": "Muy costoso",
-          "value" : 4
+          "value" : 8
         },
 
         {
           "option": "Extremadamente costoso",
-          "value" : 5
+          "value" : 10
         }
       ],
       "questions":[
@@ -641,25 +641,25 @@
       "options":[
         {
           "option": "Muy alta",
-          "value" : 1
+          "value" : 2        
         },
         {
           "option": "Alta",
-          "value" : 2
+          "value" : 4
         },
         {
           "option": "Moderada",
-          "value" : 3
+          "value" : 6
         },
        
         {
           "option": "Baja",
-          "value" : 4
+          "value" : 8
         },
 
         {
           "option": "Muy Baja",
-          "value" : 5
+          "value" : 10
         }
       ],
       "questions":[
@@ -770,25 +770,25 @@
       "options":[
         {
           "option": "Ninguno",
-          "value" : 1
+          "value" : 2        
         },
         {
           "option": "Menor",
-          "value" : 2
+          "value" : 4
         },
         {
           "option": "Moderado",
-          "value" : 3
+          "value" : 6
         },
        
         {
           "option": "Serio",
-          "value" : 4
+          "value" : 8
         },
 
         {
           "option": "Catastrófico",
-          "value" : 5
+          "value" : 10
         }
       ],
       "questions":[
@@ -899,25 +899,25 @@
       "options":[
         {
           "option": "Muy alta",
-          "value" : 1
+          "value" : 2        
         },
         {
           "option": "Alta",
-          "value" : 2
+          "value" : 4
         },
         {
           "option": "Moderada",
-          "value" : 3
+          "value" : 6
         },
        
         {
           "option": "Baja",
-          "value" : 4
+          "value" : 8
         },
 
         {
           "option": "Muy Baja",
-          "value" : 5
+          "value" : 10
         }
       ],
       "questions":[
@@ -1028,25 +1028,25 @@
       "options":[
         {
           "option": "Ninguno",
-          "value" : 1
+          "value" : 2        
         },
         {
           "option": "Menor",
-          "value" : 2
+          "value" : 4
         },
         {
           "option": "Moderado",
-          "value" : 3
+          "value" : 6
         },
        
         {
           "option": "Significativo",
-          "value" : 4
+          "value" : 8
         },
 
         {
           "option": "Catastrófico",
-          "value" : 5
+          "value" : 10
         }
       ],
       "questions":[
@@ -1157,24 +1157,24 @@
       "options":[
         {
           "option": "Muy alta",
-          "value" : 1
+          "value" : 2        
         },
         {
           "option": "Alta",
-          "value" : 2
+          "value" : 4
         },
         {
           "option": "Moderada",
-          "value" : 3
+          "value" : 6
         },
         {
           "option": "Baja",
-          "value" : 4
+          "value" : 8
         },
 
         {
           "option": "Muy Baja",
-          "value" : 5
+          "value" : 10
         }
       ],
       "questions":[
