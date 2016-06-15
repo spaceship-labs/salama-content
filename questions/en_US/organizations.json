@@ -3,29 +3,29 @@
     {
       "type": "table-multiradio",
       "title": "Probabilidad de riesgos", 
-      "instruction": "Must be a instruction",
+      "instruction": "Estima la probabilidad de ocurrencia de cada evento.",
       "options":[
         {
           "option": "Muy Baja",
-          "value" : 1
+          "value" : 2        
         },
         {
           "option": "Baja",
-          "value" : 2
+          "value" : 4
         },
         {
           "option": "Moderada",
-          "value" : 3
+          "value" : 6
         },
        
         {
           "option": "Alta",
-          "value" : 4
+          "value" : 8
         },
 
         {
           "option": "Muy alta",
-          "value" : 5
+          "value" : 10
         }
       ],
       "questions":[
@@ -131,30 +131,30 @@
     },
     {
       "type": "table-multiradio",
-      "title": "Control de la probabilidad", 
-      "instruction": "Must be a instruction",
+      "title": "Control de la probabilidad de ocurrencia", 
+      "instruction": "Estima la efectividad de las acciones propuestas para prevenir la ocurrencia de cada caso.",
       "options":[
         {
-          "option": "Muy Baja",
-          "value" : 1
+          "option": "Muy Alta",
+          "value" : 2        
         },
-        {
-          "option": "Baja",
-          "value" : 2
-        },
-        {
-          "option": "Moderada",
-          "value" : 3
-        },
-       
         {
           "option": "Alta",
           "value" : 4
         },
+        {
+          "option": "Moderada",
+          "value" : 6
+        },
+       
+        {
+          "option": "Baja",
+          "value" : 8
+        },
 
         {
-          "option": "Muy alta",
-          "value" : 5
+          "option": "Muy baja",
+          "value" : 10
         }
       ],
       "questions":[
@@ -170,7 +170,6 @@
           "title":"Desapariciones",
           "required":true
         },     
-
         {
           "score":true,
           "name": "probability_control_kidnapping",
@@ -261,29 +260,19 @@
     {
       "type": "table-multiradio",
       "title": "Tiempo para el impacto", 
-      "instruction": "Must be a instruction",
+      "instruction": "Estima la advertencia anticipada de cada evento",
       "options":[
         {
-          "option": "Muy Baja",
-          "value" : 1
+          "option": "Semanas o meses después de un aviso",
+          "value" : 2        
         },
         {
-          "option": "Baja",
-          "value" : 2
+          "option": "Horas o días después de un aviso",
+          "value" : 6
         },
         {
-          "option": "Moderada",
-          "value" : 3
-        },
-       
-        {
-          "option": "Alta",
-          "value" : 4
-        },
-
-        {
-          "option": "Muy alta",
-          "value" : 5
+          "option": "Sin previo aviso",
+          "value" : 10
         }
       ],
       "questions":[
@@ -390,29 +379,29 @@
     {
       "type": "table-multiradio",
       "title": "Control del tiempo para el impacto", 
-      "instruction": "Must be a instruction",
+      "instruction": "Estima la efectividad de las acciones propuestas para reducir la desventaja creada por la falta de tiempo",
       "options":[
         {
-          "option": "Muy Baja",
-          "value" : 1
+          "option": "Muy alta",
+          "value" : 2        
         },
-        {
-          "option": "Baja",
-          "value" : 2
-        },
-        {
-          "option": "Moderada",
-          "value" : 3
-        },
-       
         {
           "option": "Alta",
           "value" : 4
         },
+        {
+          "option": "Moderada",
+          "value" : 6
+        },
+       
+        {
+          "option": "Baja",
+          "value" : 8
+        },
 
         {
-          "option": "Muy alta",
-          "value" : 5
+          "option": "Muy Baja",
+          "value" : 10
         }
       ],
       "questions":[
@@ -519,29 +508,29 @@
     {
       "type": "table-multiradio",
       "title": "Severidad del daño financiero", 
-      "instruction": "Must be a instruction",
+      "instruction": "Estima la severidad financiera que pudiera ser causada por cada evento",
       "options":[
         {
-          "option": "Muy Baja",
-          "value" : 1
+          "option": "Insignificante",
+          "value" : 2        
         },
         {
-          "option": "Baja",
-          "value" : 2
+          "option": "Pequeño",
+          "value" : 4
         },
         {
-          "option": "Moderada",
-          "value" : 3
+          "option": "Costoso",
+          "value" : 6
         },
        
         {
-          "option": "Alta",
-          "value" : 4
+          "option": "Muy costoso",
+          "value" : 8
         },
 
         {
-          "option": "Muy alta",
-          "value" : 5
+          "option": "Extremadamente costoso",
+          "value" : 10
         }
       ],
       "questions":[
@@ -648,29 +637,29 @@
     {
       "type": "table-multiradio",
       "title": "Control de daño financiero", 
-      "instruction": "Must be a instruction",
+      "instruction": "Estima la efectividad de las acciones propuestas para reducir los daños financieros",
       "options":[
         {
-          "option": "Muy Baja",
-          "value" : 1
+          "option": "Muy alta",
+          "value" : 2        
         },
-        {
-          "option": "Baja",
-          "value" : 2
-        },
-        {
-          "option": "Moderada",
-          "value" : 3
-        },
-       
         {
           "option": "Alta",
           "value" : 4
         },
+        {
+          "option": "Moderada",
+          "value" : 6
+        },
+       
+        {
+          "option": "Baja",
+          "value" : 8
+        },
 
         {
-          "option": "Muy alta",
-          "value" : 5
+          "option": "Muy Baja",
+          "value" : 10
         }
       ],
       "questions":[
@@ -777,29 +766,29 @@
     {
       "type": "table-multiradio",
       "title": "Severidad del daño físico", 
-      "instruction": "Must be a instruction",
+      "instruction": "Estima la severidad de las lesiones que pudieran ser causada por cada evento",
       "options":[
         {
-          "option": "Muy Baja",
-          "value" : 1
+          "option": "Ninguno",
+          "value" : 2        
         },
         {
-          "option": "Baja",
-          "value" : 2
+          "option": "Menor",
+          "value" : 4
         },
         {
-          "option": "Moderada",
-          "value" : 3
+          "option": "Moderado",
+          "value" : 6
         },
        
         {
-          "option": "Alta",
-          "value" : 4
+          "option": "Serio",
+          "value" : 8
         },
 
         {
-          "option": "Muy alta",
-          "value" : 5
+          "option": "Catastrófico",
+          "value" : 10
         }
       ],
       "questions":[
@@ -906,29 +895,29 @@
     {
       "type": "table-multiradio",
       "title": "Control del daño físico", 
-      "instruction": "Must be a instruction",
+      "instruction": "Estima la efectividad de las acciones propuestas para reducir el daño en cada caso.",
       "options":[
         {
-          "option": "Muy Baja",
-          "value" : 1
+          "option": "Muy alta",
+          "value" : 2        
         },
-        {
-          "option": "Baja",
-          "value" : 2
-        },
-        {
-          "option": "Moderada",
-          "value" : 3
-        },
-       
         {
           "option": "Alta",
           "value" : 4
         },
+        {
+          "option": "Moderada",
+          "value" : 6
+        },
+       
+        {
+          "option": "Baja",
+          "value" : 8
+        },
 
         {
-          "option": "Muy alta",
-          "value" : 5
+          "option": "Muy Baja",
+          "value" : 10
         }
       ],
       "questions":[
@@ -1035,29 +1024,29 @@
     {
       "type": "table-multiradio",
       "title": "Severidad del daño a la reputación", 
-      "instruction": "Must be a instruction",
+      "instruction": "Estima el potencial daño a la reputación que podría ser causado por cada evento",
       "options":[
         {
-          "option": "Muy Baja",
-          "value" : 1
+          "option": "Ninguno",
+          "value" : 2        
         },
         {
-          "option": "Baja",
-          "value" : 2
+          "option": "Menor",
+          "value" : 4
         },
         {
-          "option": "Moderada",
-          "value" : 3
+          "option": "Moderado",
+          "value" : 6
         },
        
         {
-          "option": "Alta",
-          "value" : 4
+          "option": "Significativo",
+          "value" : 8
         },
 
         {
-          "option": "Muy alta",
-          "value" : 5
+          "option": "Catastrófico",
+          "value" : 10
         }
       ],
       "questions":[
@@ -1164,29 +1153,28 @@
     {
       "type": "table-multiradio",
       "title": "Control del daño a la reputación", 
-      "instruction": "Must be a instruction",
+      "instruction": "Estima la efectividad de las acciones propuestas para reducir el daño en cada caso.",
       "options":[
         {
-          "option": "Muy Baja",
-          "value" : 1
+          "option": "Muy alta",
+          "value" : 2        
         },
-        {
-          "option": "Baja",
-          "value" : 2
-        },
-        {
-          "option": "Moderada",
-          "value" : 3
-        },
-       
         {
           "option": "Alta",
           "value" : 4
         },
+        {
+          "option": "Moderada",
+          "value" : 6
+        },
+        {
+          "option": "Baja",
+          "value" : 8
+        },
 
         {
-          "option": "Muy alta",
-          "value" : 5
+          "option": "Muy Baja",
+          "value" : 10
         }
       ],
       "questions":[
