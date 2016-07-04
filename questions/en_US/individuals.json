@@ -392,6 +392,14 @@
          "instruction":"Yes, I would like to received personalized training."
         },
         {
+          "name": "email",
+          "input": "text",
+          "title": "Email",
+          "instruction": "Please write your email",
+          "placeholder": "Write your mail",
+          "required":true
+        },
+        {
           "name": "medium",
           "input": "text",
           "title": "Media Organization",

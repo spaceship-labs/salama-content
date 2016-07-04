@@ -391,6 +391,14 @@
          "instruction":"Si, deseo recibir entrenamiento individualizado"
         },
         {
+          "name": "email",
+          "input": "text",
+          "title": "Correo electrónico",
+          "instruction": "Por favor anota algún correo de contacto",
+          "placeholder": "Escribe tu correo",
+          "required":true
+        },
+        {
           "name": "medium",
           "input": "text",
           "title": "Medio",
