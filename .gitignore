@@ -1,2 +1,4 @@
 node_modules
 *.swp
+cors_server.py
+version.txt
