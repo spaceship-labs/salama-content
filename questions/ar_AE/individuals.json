@@ -391,6 +391,14 @@
          "instruction":"نعم ارغب بالحصول على تدريب خاص بي"
         },
         {
+          "name": "email",
+          "input": "text",
+          "title": "البريد الإلكتروني",
+          "instruction": "يرجى كتابة البريد الالكتروني",
+          "placeholder": "إرسال البريد الإلكتروني الخاص بك",
+          "required":true
+        },
+        {
           "name": "medium",
           "input": "text",
           "title": "متوسط",
