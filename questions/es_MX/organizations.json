@@ -4,6 +4,7 @@
       "type": "table-multiradio",
       "title": "Estimación de interes", 
       "instruction": "Estima el interes para con las siguientes categorias.",
+      "filter": true,
       "options":[
         {
 	  "option": "no es importante",
@@ -32,19 +33,22 @@
           "score":true,
           "name": "select_physical",
           "title":"Fisicos",
-          "required":true
+          "required":true,
+	  "meta": [7, 8]
         },
 	{
           "score":true,
           "name": "select_financial",
           "title":"Financieros",
-          "required":true
+          "required":true,
+	  "meta": [5, 6]
         },
 	{
           "score":true,
           "name": "select_reputational",
           "title":"Reputacionales",
-          "required":true
+          "required":true,
+	  "meta": [9, 10]
         }
       ]
     },
@@ -551,6 +555,9 @@
       "type": "table-multiradio",
       "title": "Severidad del daño financiero", 
       "instruction": "Estima la severidad financiera que pudiera ser causada por cada evento",
+      "filterData": {
+      	"select_financial": 6
+      },
       "options":[
         {
           "option": "Insignificante",
@@ -680,6 +687,9 @@
       "type": "table-multiradio",
       "title": "Control de daño financiero", 
       "instruction": "Estima la efectividad de las acciones propuestas para reducir los daños financieros",
+      "filterData": {
+      	"select_financial": 8
+      },
       "options":[
         {
           "option": "Muy alta",
@@ -807,6 +817,9 @@
       "type": "table-multiradio",
       "title": "Severidad del daño físico", 
       "instruction": "Estima la severidad de las lesiones que pudieran ser causada por cada evento",
+      "filterData": {
+      	"select_physical": 6
+      },
       "options":[
         {
           "option": "Ninguno",
@@ -936,6 +949,9 @@
       "type": "table-multiradio",
       "title": "Control del daño físico", 
       "instruction": "Estima la efectividad de las acciones propuestas para reducir el daño en cada caso.",
+      "filterData": {
+      	"select_physical": 8
+      },
       "options":[
         {
           "option": "Muy alta",
@@ -1063,6 +1079,9 @@
       "type": "table-multiradio",
       "title": "Severidad del daño a la reputación", 
       "instruction": "Estima el potencial daño a la reputación que podría ser causado por cada evento",
+      "filterData": {
+      	"select_reputational": 4
+      },
       "options":[
         {
           "option": "Ninguno",
@@ -1192,6 +1211,9 @@
       "type": "table-multiradio",
       "title": "Control del daño a la reputación", 
       "instruction": "Estima la efectividad de las acciones propuestas para reducir el daño en cada caso.",
+      "filterData": {
+      	"select_reputational": 6
+      },
       "options":[
         {
           "option": "Muy alta",
