@@ -8,23 +8,23 @@
       "options":[
         {
           "option": "no es importante",
-          "value": 2
+          "value": 0.2
         },
         {
           "option": "baja",
-          "value": 4
+          "value": 0.4
         },
         {
           "option": "moderada",
-          "value": 6
+          "value": 0.6
         },
         {
           "option": "importancia alta",
-          "value": 8
+          "value": 0.8
         },
         {
           "option": "extrema importancia",
-          "value": 10
+          "value": 0.10
         }
       ],
       "questions": [
@@ -33,21 +33,21 @@
           "name": "select_financial",
           "title":"Financieros",
           "required":true,
-	        "meta": [5, 6]
+	        "meta": [4, 5]
         },
         {
           "score":true,
           "name": "select_physical",
           "title":"Físicos",
           "required":true,
-	        "meta": [7, 8]
+	        "meta": [6, 7]
         },
 	      {
           "score":true,
           "name": "select_reputational",
           "title":"Reputacionales",
           "required":true,
-	        "meta": [9, 10]
+	        "meta": [8, 9]
         }
       ]
     },
