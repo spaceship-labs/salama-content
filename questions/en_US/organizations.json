@@ -2,6 +2,57 @@
   "pages": [
     {
       "type": "table-multiradio",
+      "title": "Estimación de interes", 
+      "instruction": "Estima el interes para con las siguientes categorias.",
+      "filter": true,
+      "options":[
+        {
+          "option": "no es importante",
+          "value": 2
+        },
+        {
+          "option": "baja",
+          "value": 4
+        },
+        {
+          "option": "moderada",
+          "value": 6
+        },
+        {
+          "option": "importancia alta",
+          "value": 8
+        },
+        {
+          "option": "extrema importancia",
+          "value": 10
+        }
+      ],
+      "questions": [
+        {
+          "score":true,
+          "name": "select_physical",
+          "title":"Físicos",
+          "required":true,
+	        "meta": [7, 8]
+        },
+        {
+          "score":true,
+          "name": "select_financial",
+          "title":"Financieros",
+          "required":true,
+	        "meta": [5, 6]
+        },
+	      {
+          "score":true,
+          "name": "select_reputational",
+          "title":"Reputacionales",
+          "required":true,
+	        "meta": [9, 10]
+        }
+      ]
+    },
+    {
+      "type": "table-multiradio",
       "title": "Probabilidad de riesgos", 
       "instruction": "Estima la probabilidad de ocurrencia de cada evento.",
       "options":[
