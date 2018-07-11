@@ -36,6 +36,6 @@ CPJ pide a los periodistas que tomen en cuenta que el mayor riesgo no está en l
 
 **Algunos recursos:**
 
-- [El crimen organizado y la corrupción](http://bit.ly/1NCcHG9)
+- [El crimen organizado y la corrupción](https://cpj.org/es/2012/04/crimen-organizado-y-corrupcion.php)
 
 - [Recursos para investigar crimen y corrupción - Red Global de Periodismo de Investigación](http://bit.ly/1oa7l0g)
