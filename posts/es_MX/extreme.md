@@ -1,8 +1,10 @@
 ---
 language: es_MX
-date: "2016-03-07 14:50 -0600"
+date: '2016-03-07 14:50 -0600'
 author: Sandor B.
-description: "En estos niveles de riesgo, el daño a la integridad física, psicológica, legal o digital puede ser severo o catastrófico."
+description: >-
+  En estos niveles de riesgo, el daño a la integridad física, psicológica, legal
+  o digital puede ser severo o catastrófico.
 category: otros
 published: true
 title: Nivel de riesgo extremo
