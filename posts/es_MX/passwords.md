@@ -16,14 +16,9 @@ Las contraseñas son la primera línea de defensa de nuestra información. Tóma
 
 - [Seguridad digital para periodistas: ¿por qué y cómo proteger sus contraseñas](http://bit.ly/21aqroN)
 
-- [herramienta digital para medir la fuerza de una contraseña](http://www.passwordmeter.com)
+- [Herramienta digital para medir la fuerza de una contraseña](http://www.passwordmeter.com)
 
 - [Cómo usar KeePassX](https://ssd.eff.org/es/module/cómo-usar-keepassx)
 
-- [Crear y mantener contraseñas seguras](https://info.securityinabox.org/es/chapter-3)
+- [Generador de clave segura](https://strongpasswordgenerator.com)
 
-- [¿Cómo puedo hacer contraseñas más seguras?](http://bit.ly/1Sk33yy)
-
-- [Generar clave segura](https://strongpasswordgenerator.com)
-
-- [Generador de contraseñas seguras](http://bit.ly/1TowzUH)
