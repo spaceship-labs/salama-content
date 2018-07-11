@@ -22,7 +22,7 @@ Pasos inmediatos:
 
 - Acción 1: Aborta cualquier operación que pueda conducir a un ataque con daños graves o catastróficos. 
 
-- Acción 2: Contacta a tu medio y discute posibles cursos de acción. Si eres un freelance, acércate con tu red de confianza y contacta al medio para el cual trabajas.
+- Acción 2: Contacta a tu medio y discute posibles cursos de acción. Si eres freelance, acércate con tu red de confianza y contacta al medio para el cual trabajas.
 
 - Acción 3: Reporta a las autoridades locales, estatales o nacionales cualquier intento o amenaza de ataque en contra tuya o de tu organización y exige medidas precautorias para proteger tu integridad física.
 
