@@ -28,28 +28,13 @@ Las amenazas digitales provienen de grupos de poder interesados en conocer, alte
 
 Recursos
 
-- [Manual de Seguridad Digital y Móvil para Periodistas y Blogueros](http://www.icfj.org/es/resources/manual-de-seguridad-digital-y-móvil)
 
 - [Seguridad Digital y Privacidad para Defensores de Derechos Humanos](http://www.frontlinedefenders.org/digital-security)
 
-- [Bloqueo anónimo con WordPress y Tor](http://advocacy.globalvoicesonline.org/projects/guide)
-
-- [Blog por una Causa](http://advocacy.globalvoicesonline.org/projects/guide-blog-for-a-cause/)
-
-- [Guía práctica del bloguero y ciberdisidentes](http://www.rsf.org/IMG/pdf/guide_gb_md-2.pdf)
-
-- [Manual para el uso de los blogs en sociedades represivas, incluidas las recomendaciones de seguridad digital.](http://www.civisec.org/guides/everyones-guides)
-
-- [SpeakSafe](http://speaksafe.internews.org)
-
 - [SaferJourno](https://internews.org/sites/default/files/resources/SaferJournoGuide_2014-03-21.pdf)
 
-- [Guía de seguridad de periodista](https://www.cpj.org/reports/2012/04/journalist-security-guide.php)
+- [Guía de seguridad de periodista](https://cpj.org/es/2012/04/manual-de-seguridad-para-periodistas-del-cpj.php)
 
-- [Guía para producir en forma segura y fiable](http://smallworldnews.tv/guide/)
-
-- [Autodefensa contra la vigilancia](https://ssd.eff.org)
+- [Autodefensa contra la vigilancia](https://ssd.eff.org/es)
 
 - [Cryptoperiodismo](http://cryptoperiodismo.org)
-
-- [Conceptos básicos de seguridad digital para periodistas](http://nationalsecurityzone.org/site/digital-security-basics-for-journalists/)
