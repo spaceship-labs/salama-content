@@ -11,8 +11,8 @@ title: La buena comunicación es esencial
 
 # La buena comunicación es esencial
 
-Una buena comunicación es esencial para tu seguridad. Es deseable una buena comunicación con rodas las personas que e rodean en la familia, la redacción y en tus redes de confianza. De hecho, la falta de comunicación es probablemente uno de las mayores vulnerabilidades a ser explotada por quienes se oponen a la libertad de expresión. La falta de comunicación puede afectar planificación y preparación debidas para un reportaje sobre temas sensibles.
+Una buena comunicación es esencial para tu seguridad. Es deseable una buena comunicación con todas las personas que te rodean en la familia, la redacción y en tus redes de confianza. De hecho, la falta de comunicación es probablemente una vulnerabilidades que podría ser explotada por quienes se oponen a la libertad de expresión. La falta de comunicación puede afectar la planificación y preparación necesarias para un reportaje sobre temas sensibles.
 
-Una buena comunicación debe ser una parte importante del proceso de planificación. Todas las historias deben planificarse con la participación de cada persona integrante de la redacción, así ocupe funciones de reportería, edición, diseño, análisis de datos, desarrollo de software, o dirección.
+Una buena comunicación en la redacción debe ser una práctica importante del proceso de planificación. Todas las historias, sobre todo aquellas de alto riesgo, deben planificarse con la participación de cada persona integrante de la redacción, así ocupe funciones de reportería, edición, diseño, análisis de datos, desarrollo de software, o dirección.
 
-La comunicación es también un componente importante del nuevo proceso de recolección de datos e información. Normalmente, todas las personas desplegadas en la calle deben estar siempre localizables. En situaciones extremas y de crisis, contacto siembre debe ser constante.
+La comunicación es también un componente importante de lal cobertura de situaciones violencias o zonas de alto riesgo. Normalmente, todas las personas desplegadas en en esas zonas deben estar siempre localizables y comunicarse a la redacción cada ocho horas. En situaciones re riesgo mayor o en caso de presentarse una crisis de seguridad, la comunicación debe ser más frecuente, de preferencia encriptada.
