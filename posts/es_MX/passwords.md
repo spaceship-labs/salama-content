@@ -10,7 +10,7 @@ title: Contraseñas seguras
 
 # Contraseñas seguras
 
-Las contraseñas son la primera línea de defensa de nuestra información. Tómate el tiempo suficiente para elaborar una contraseña fuerte y diferente para cada sus cuentas. Es aconsejable disponer de una contraseña por cada cuenta, por lo que una contraseña es hackeada, las demás siguen protegidas. Si sospechas que una de tus contraseñas ha sido descubierta, cámbiala inmediatamente.
+Las contraseñas son la primera línea de defensa de nuestra información. Tómate el tiempo suficiente para elaborar una contraseña fuerte y diferente para cada sus cuentas. Es aconsejable disponer de una contraseña por cada cuenta, por lo que si una contraseña es hackeada, las demás siguen protegidas. Si sospechas que una de tus contraseñas ha sido descubierta, cámbiala inmediatamente.
 
 El primer paso es crear una contraseña fuerte para cada una de nuestras cuentas. Como ya lo ha recomendado una gran variedad de fuentes, las contraseñas empiezan a ser fuertes a partir de los 15 caracteres y cuando mezclan minúsculas, mayúsculas, números y signos. Esos atributos, extensión y combinación, son un primera condición para proteger a una contraseña de un ataque de “fuerza bruta”, como se le llama a la acción de descifrar una contraseña a partir de un programa de cómputo.
 
