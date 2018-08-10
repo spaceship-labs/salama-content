@@ -29,6 +29,6 @@ Pasos inmediatos:
 
 - Otras acciones:
   1.  Crea o revisa tu estrategia de seguridad. 
-	Una estategia de seguridad es un documento que las organizaciones deben revisar periódicamente en el que está una definición de los problemas principales de seguridad para un periodista o un medio y un plan para reducir riesgos y enfrentar esas preocupaciones. 
-  2.  De ser posible, discute con tu medio y tu red de confianza sobre la situación y analizen juntos las amenazas reales y potenciales, fortalezas y vulnerabilidades, y definan nuevas metas de seguridad según las circunstancias.
+	Una estategia de seguridad es un documento que define los problemas principales de seguridad para una persona defensora o periodista y sus organizaciones y traza un plan para reducir riesgos y enfrentar esas preocupaciones. 
+  2.  De ser posible, discute con tu organización y tu red de confianza sobre la situación y analizen en equipo las amenazas reales y potenciales, fortalezas y vulnerabilidades, y definan nuevas metas de seguridad según las circunstancias.
   3.  Crear o revisar los protocolos de seguridad. Un protocolo de seguridad es una secuencia de operaciones que aseguren la integridad física, psicológica, legal o digital. Será necesaria la creación de protocolos de seguridad para cada situación, dependiendo de la naturaleza de la amenaza y las condiciones específicas de viulnerabilidad y fortaleza.
