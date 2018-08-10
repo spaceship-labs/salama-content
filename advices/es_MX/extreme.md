@@ -7,7 +7,7 @@ Según las respuestas que has dado a Salama, es posible que requieras disminuir 
 En términos generales, este nivel de riesgo es inaceptable y las personas en esta situación necesitan tomar acciones correctivas, eliminar riesgos inaceptables y evaluar la suspensión temporal de las operaciones más riesgosas. 
 Toma en cuenta que si, además de ser persona defensora o periodista, perteneces a alguna comunidad vulnerable, minoritaria o de la diversidad sexual, puedes encontrar retos adicionales a tu seguridad.
 Si, luego de analizar tus condiciones particulares, determinas que efectivamente hay una alta probabilidad de que ocurra una agresión grave en tu contra, rodéate de las personas de más confianza y toma acciones prontas. Entre ellas, considera dejar temporalmente el barrio, la ciudad o, en los casos más extremos, el país en el que vives y trabajas. Recuerda que ninguna historia o ningún caso vale la pena una vida.
-Si necesitas ayuda personalizada de nosotros, escribe a info arroba salama punto io.
+Si necesitas ayuda personalizada del equipo Salama, escribe a info arroba salama punto io.
 
 Pasos inmediatos:
 
