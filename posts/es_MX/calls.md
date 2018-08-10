@@ -10,9 +10,12 @@ title: Llamadas telefónicas cifradas
 
 
 # Llamadas telefónicas cifradas
-Es necesario mejorar el dominio de las herramientas digitales para cifrar sus llamadas telefónicas. Afortunadamente, los periodistas pueden utilizar las herramientas de código abierto a luchar contra adversarios que intentan interceptar sus llamadas telefónicas.
+Es necesario mejorar el dominio de las herramientas digitales para cifrar sus llamadas telefónicas. Afortunadamente, las personas periodistas o defensoras de derechos humanos pueden utilizar herramientas de código abierto para luchar contra la interceptación de llamadas telefónicas.
+Recuerda que usualmente el contenido de las llamadas de personas defensoras y periodistas puede ser muy sensibles y necesitan ser protegidas.
+Una de las formas de protección es el cifrado de las llamadas. Algunas tecnologías posibilitan que la voz sea ininteligible si ocurren una interceptación de terceras personas.
+Recuerda que aún así debes proteger tus llamadas de un intento de interceptación a través de la infrección con viruses de tu aparato celular o el uso de torres simuladas de telecomunicación celular.
 
-**Estos pueden ser algunos recursos útiles para usted:**
+**Estos pueden ser algunos recursos útiles para ti:**
 
 ## Signal para iOS y Android
 Es una aplicación de código abierto que proporciona cifrado de extremo a extremo para llamadas de voz sobre IP. Adversarios no pueden ""escuchar"" conversaciones cifradas. Con esta herramienta puedes utilizar su número de teléfono normal para llamar a fuentes, colegas y personas con cargos de dirección en el medio.
