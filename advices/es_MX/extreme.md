@@ -1,7 +1,7 @@
 # Nivel de riesgo extremo - más de 80 puntos
 
 Alcanzaste más de 80 puntos y estás probablemente en un riesgo potencial extremo. 
-En estos niveles de riesgo, las y los periodistas así como las personas defensoras de derechos humanos pueden sufrir ataques con daños serios a su integridad física, psicológica, legal o digital. 
+En estos niveles de riesgo, personas defensoras de derechos humanos y periodistas pueden sufrir ataques con daños serios a su integridad física, psicológica, legal o digital. 
 Amenazas de muerte, detenciones arbitrarias, golpizas, ataques cibernéticos, son ejemplos de estos riesgos. 
 Necesitas evaluar todas las operaciones que te colocan en una situación de alto riesgo. 
 En tu plan de seguridad, necesitas tomar acciones correctivas y eliminar riesgos inaceptables. 
