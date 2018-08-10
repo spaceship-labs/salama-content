@@ -1,7 +1,7 @@
 # Nivel de riesgo alto - Más de 60 puntos
 
 Alcanzaste más de 60 puntos y estás probablemente en un riesgo potencial alto. 
-En estos niveles de riesgo, las y los periodistas pueden sufrir ataques con daños serios a su integridad física, psicológica, legal o digital. 
+En estos niveles de riesgo, personas defensoras de derechos humanos y periodistas pueden sufrir ataques con daños serios a su integridad física, psicológica, legal o digital. 
 Amenazas de muerte, detenciones arbitrarias, golpizas, ataques cibernéticos, son ejemplos de estos riesgos. 
 Necesitas evaluar todas las operaciones que te colocan en una situación de alto riesgo. 
 En tu plan de seguridad, necesitas tomar acciones correctivas y eliminar riesgos inaceptables. 
@@ -15,7 +15,7 @@ Pasos inmediatos:
 
 - **Acción 3**: Contacta a tu medio y discute posibles cursos de acción. Si eres freelance, acércate con tu red de confianza y contacta al medio para el cual trabajas.
 
-- **Acción 4**: Reporta a las autoridades locales, estatales o nacionales cualquier intento o amenaza de ataque en contra tuya o de tu organización y exige medidas precautorias para proteger tu integridad física.:
+- **Acción 4**: De ser posible, reporta a las autoridades locales, estatales o nacionales cualquier intento o amenaza de ataque en contra tuya o de tu organización y exige medidas precautorias para proteger tu integridad física.:
 
 - **Acción 5**: Contacta a cualquiera de estas organizaciones y solicita ayuda:
   - [Committee to Protect Journalists](https://www.cpj.org/campaigns/assistance/how-to-get-help.php)
@@ -23,6 +23,9 @@ Pasos inmediatos:
   - [International News Safety Institute](http://www.newssafety.org/contact/) 
   - [Article 19](http://www.article19.org/pages/en/contact-us.html)
   - [Rory Peck Trust](https://rorypecktrust.org/Contact)
+  - [Amnistía Internacional] (https://www.amnesty.org/en/about-us/contact/)
+
+
 
 - Otras acciones:
   
