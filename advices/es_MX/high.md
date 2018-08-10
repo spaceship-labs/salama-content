@@ -7,6 +7,7 @@ Después de evaluar tus condiciones particulares, y si crees que estás en un ni
 En tu plan de seguridad, necesitas tomar acciones correctivas y eliminar riesgos inaceptables. 
 Probablemente necesitarás adoptar o mejorar algunos protocolos de seguridad.
 Toma en cuenta que la pertenencia a alguna comunidad minoritaria, vulnerable o de la diversidad sexual, puede presentar retos adicionales a la seguridad de personas defensoras y periodistas.
+Si necesitas ayuda personalizada del equipo Salama, escribe a info arroba salama punto io.
 
 Pasos inmediatos:
 
