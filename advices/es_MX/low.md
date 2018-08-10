@@ -7,6 +7,7 @@ Para mantener el riesgo en un nivel aceptable, es necesario evaluar todas las op
 En tu plan de seguridad, necesitas tomar acciones correctivas y eliminar riesgos inaceptables. 
 Probablemente necesitarás adoptar o mejorar algunos protocolos de seguridad.
 Toma en cuenta que si, además de ser persona defensora o periodista, perteneces a alguna comunidad vulnerable, minoritaria o de la diversidad sexual, puedes encontrar retos adicionales a tu seguridad.
+Si necesitas ayuda personalizada del equipo Salama, escribe a info arroba salama punto io.
 
 Pasos inmediatos:
 
@@ -36,6 +37,6 @@ Pasos inmediatos:
 
 - **Otras acciones** :
  
- 1.  Crea o revisa tu estrategia de seguridad: Una estategia de seguridad es un documento que las organizaciones deben revisar periódicamente en el que está una definición de los problemas principales de seguridad para un periodista o un medio y un plan para reducir riesgos y enfrentar esas preocupaciones. De ser posible, discute con tu medio y tu red de confianza sobre la situación y analizen juntos las amenazas reales y potenciales, fortalezas y vulnerabilidades, y definan nuevas metas de seguridad según las circunstancias.
+ 1.  Crea o revisa tu estrategia de seguridad: Una estategia de seguridad es un documento que las organizaciones deben revisar periódicamente en el que está una definición de los problemas principales de seguridad para sus integrantes y un plan para reducir riesgos y enfrentar esas preocupaciones. De ser posible, discute con tu organización y tu red de confianza sobre la situación y analizen juntos las amenazas reales y potenciales, fortalezas y vulnerabilidades, y definan nuevas metas de seguridad según las circunstancias.
  
  2.  Crear o revisar los protocolos de seguridad. Un protocolo de seguridad es una secuencia de operaciones que aseguren la integridad física, psicológica, legal o digital. Será necesaria la creación de protocolos de seguridad para cada situación, dependiendo de la naturaleza de la amenaza y las condiciones específicas de viulnerabilidad y fortaleza.
