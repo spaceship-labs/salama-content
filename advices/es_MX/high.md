@@ -1,11 +1,12 @@
 # Nivel de riesgo alto - Más de 60 puntos
 
-Alcanzaste más de 60 puntos y estás probablemente en un riesgo potencial alto. 
-En estos niveles de riesgo, personas defensoras de derechos humanos y periodistas pueden sufrir ataques con daños serios a su integridad física, psicológica, legal o digital. 
-Amenazas de muerte, detenciones arbitrarias, golpizas, ataques cibernéticos, son ejemplos de estos riesgos. 
-Necesitas evaluar todas las operaciones que te colocan en una situación de alto riesgo. 
+Alcanzaste más de 60 puntos y estás probablemente en un riesgo alto.
+La estrategia principal consiste en tomar acciones para impedir la elevación a un riesgo extremo, en el que las personas y organizaciones adversarias tienen el potencial para explotar vulnerabilidades de periodistas y personas defensoras y actuar en su contra.
+En los niveles de riesgo alto, existe el potencial de sufrir ataques con daños serios a la integridad física, psicológica, legal o digital, como pueden ser golpes cuyo tratamiento requiere hospitalización, amenazas de muerte, detenciones arbitrarias, acoso judicial o ataques cibernéticos que lleven a la pérdida de información vital para el trabajo de periodistas y personas defensoras. 
+Después de evaluar tus condiciones particulares, y si crees que estás en un nivel de riesgo alto, evalúa todas las operaciones que podrían colocarte en esa situación de riesgo y que, de empeorar las condiciones, podrían elevar tu riesgo a un nivel extremo. 
 En tu plan de seguridad, necesitas tomar acciones correctivas y eliminar riesgos inaceptables. 
 Probablemente necesitarás adoptar o mejorar algunos protocolos de seguridad.
+Toma en cuenta que la pertenencia a alguna comunidad minoritaria, vulnerable o de la diversidad sexual, puede presentar retos adicionales a la seguridad de personas defensoras y periodistas.
 
 Pasos inmediatos:
 
