@@ -1,11 +1,12 @@
 # Nivel de riesgo bajo - menos de 39 puntos. 
 
 Alcanzaste menos de 39 puntos y estás probablemente en un riesgo potencial bajo. 
-En estos niveles de riesgo, las y los periodistas pueden sufrir ataques con daños serios a su integridad física, psicológica, legal o digital. 
+En estos niveles de riesgo, personas defensoras de derechos humanos y periodistas pueden seguir sus actividades normales con la ayuda de planes de prevención y protocolos de seguridad para disminuir el riesgo de sufrir ataques con daños serios a su integridad física, psicológica, legal o digital. 
 Amenazas de muerte, detenciones arbitrarias, golpizas, ataques cibernéticos, son ejemplos de estos riesgos. 
-Necesitas evaluar todas las operaciones que te puedan elevar tu riesgo. 
+Para mantener el riesgo en un nivel aceptable, es necesario evaluar todas las operaciones que puedan eventualmente elevarlo. 
 En tu plan de seguridad, necesitas tomar acciones correctivas y eliminar riesgos inaceptables. 
 Probablemente necesitarás adoptar o mejorar algunos protocolos de seguridad.
+Toma en cuenta que si, además de ser persona defensora o periodista, perteneces a alguna comunidad vulnerable, minoritaria o de la diversidad sexual, puedes encontrar retos adicionales a tu seguridad.
 
 Pasos inmediatos:
 
@@ -15,9 +16,9 @@ Pasos inmediatos:
 
 - **Acción 3** : Contacta a tu medio y discute posibles cursos de acción. Si eres un freelance, acércate con tu red de confianza y contacta al medio para el cual trabajas.
 
-- **Acción 4** : Reporta a las autoridades locales, estatales o nacionales cualquier intento o amenaza de ataque en contra tuya o de tu organización y exige medidas precautorias para proteger tu integridad física.:
+- **Acción 4** : De ser posible y en caso necesario, reporta a las autoridades locales, estatales o nacionales cualquier intento o amenaza de ataque en contra tuya o de tu organización y exige medidas precautorias para proteger tu integridad física.:
 
-- **Acción 5** : Contacta a cualquiera de estas organizaciones y solicita ayuda:
+- **Acción 5** : Es conveniente que tengas estos contactos para contactar a cualquiera de estas organizaciones y solicitar ayuda en caso necesario:
 
  - [Committee to Protect Journalists](https://www.cpj.org/campaigns/assistance/how-to-get-help.php)
 
@@ -28,6 +29,10 @@ Pasos inmediatos:
  - [Article 19](http://www.article19.org/pages/en/contact-us.html)
 
  - [Rory Peck Trust](https://rorypecktrust.org/Contact)
+ 
+  - [Amnistía Internacional] (https://www.amnesty.org/en/about-us/contact/)
+
+
 
 - **Otras acciones** :
  
