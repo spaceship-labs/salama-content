@@ -1,21 +1,23 @@
 ---
 language: es_MX
-date: "2016-03-13 12:07 -0600"
+date: '2016-03-13 12:07 -0600'
 author: author
-description: "¿Cubres hechos de violencia?"
+description: ¿Cubres hechos de violencia?
 category: seguridad profesional
 published: true
-title: "¿Cubres hechos de violencia?"
+title: ¿Cubres hechos de violencia?
 ---
 
 
 # ¿Cubres hechos de violencia?
-Si cubre con frecuencia hechos de violencia, es muy importante crear protocolos de seguridad para cada situación en particular y adoptar directrices éticas para cubrir y entrevistar a las víctimas de la violencia. Evite el contacto personal a aquellos actores que usan la violencia para alcanzar sus fines. También mantenga constante contacto y comunicación con sus compañeros de más confianza. Ellos serán de ayuda crucial en caso de que usted se vea atrapado en medio de un incidente violento. Desarrolle protocolos de seguridad que se ajusten a sus necesidades en cada situación de riesgo. Incluya en los protocolos el tratamiento ético de las víctimas de la violencia durante las entrevistas. Compre equipo de protección si usted está en riesgo de sufrir violencia.
+Si cubres con frecuencia hechos de violencia, es muy importante crear protocolos de seguridad para cada situación en particular y adoptar directrices éticas para cubrir y entrevistar a las víctimas de la violencia. Evita el contacto personal con quienes usan la violencia para alcanzar sus fines. 
 
-La Asociación Brasileña de Periodismo de Investigación elaboró un manual de seguridad después de cientos de casos de ataques a los trabajadores de medios que cubren las protestas violentas en Brasil. Algunos de sus consejos son válidos en otros contextos:
+También mantén contacto y comunicación frecuente con tu red de confianza. Esa red será de ayuda crucial en caso de que te veas en medio de un incidente violento. Desarrolla protocolos de seguridad que se ajusten a tus necesidades en cada situación de riesgo. Incluye en los protocolos el tratamiento ético de las víctimas de la violencia durante las entrevistas. Compra equipo de protección si estás en riesgo de sufrir violencia.
 
-- Planifique su cobertura antes de tiempo. ¿Hay una manera más segura de obtener la información o las imágenes necesarias? Planifique lo que hará si eres agredido, detenido o asaltado. Si conoce la ruta de protesta, anticipe las rutas de escape y prepare una salida de antemano con miembros de su equipo.
-- Conozca el contexto social y político que está motivando a los participantes: ¿qué hechos recientes precedieron a la protesta, ¿cuál es la actitud general hacia los medios de comunicación? ¿qué piensan sobre el campo que usted trabaja?, ¿tiene características que podrían generar riesgos adicionales (como ser una mujer en un contexto que implica el riesgo de violencia sexual), ¿hay grupos con una historia de violencia contra los periodistas?
+La Asociación Brasileña de Periodismo de Investigación elaboró un manual de seguridad después de cientos de casos de ataques a periodistas que cubren las protestas violentas en Brasil. Algunos de sus consejos son válidos en otros contextos:
+
+- Planifica tu cobertura antes de tiempo. ¿Hay una manera más segura de obtener la información o las imágenes necesarias? Planifica lo que harás si eres víctima de una agresión, detención arbitraria o asalto. Si conoces la ruta de protesta, anticipa las rutas de escape y prepara una salida con interantes de tu equipo.
+- Conoce el contexto social y político que está motivando la manifestacións: ¿Qué hechos recientes precedieron a la protesta, ¿cuál es la actitud general hacia los medios de comunicación? ¿qué piensan sobre el campo que trabajas?, ¿tiene características que podrían generar riesgos adicionales (como ser una mujer en un contexto que implica el riesgo de violencia sexual), ¿hay grupos con una historia de violencia contra los periodistas?
 - Antes de partir hacia el lugar, eche un vistazo, a través de GPS o Internet, en el terreno donde se llevará a cabo la protesta, identifique las estaciones de policía, los lugares donde puede refugiarse, las rutas de escape, los lugares elevados para buenas imágenes, callejones sin salida, bloqueos de carreteras, hospitales y puntos de referencia para la reorganización en caso de que se separe de su equipo.
 - Calcule cuánto tiempo usted y su equipo tendrán que estar en el lugar con el fin de obtener lo que necesita.
 - Obtenga el reporte del tiempo para el período de cobertura. Si es necesario, lleve una chaqueta impermeable. En algunos lugares, la temperatura desciende por la noche. Esté preparado. Los condones se pueden utilizar para mantener las tarjetas de memoria secas en caso de que haya una lluvia torrencial o la policía use cañones de agua contra manifestantes.
