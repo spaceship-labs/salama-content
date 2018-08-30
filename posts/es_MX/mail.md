@@ -1,6 +1,6 @@
 ---
 language: es_MX
-date: "2016-03-13 08:59 -0600"
+date: '2016-03-13 08:59 -0600'
 author: author
 description: como cifrar tus cuentas de mail
 category: seguridad digital
@@ -13,22 +13,25 @@ Debes proteger tus correos electrónicos. Para proteger la información sensible
 
 - **Usar siempre https.** 
 
-Asegura que el proveedor de correo electrónico utiliza el protocolo de transferencia de hipertexto seguro (HTTPS). Con este protocolo la información es encriptada en tránsito desde el navegador web al servidor. Si su contacto, siendo una fuente, un colega o un editor utiliza el mismo protocolo, la información será protegida de extremo a extremo. Si estás en riesgo extremo, sientes vigilancia y requieres privacidad, quizá sea mejor no transmitir información por correo electrónico. De lo contrario, aprender a cifrar información en el cuerpo de un correo electrónico. Estas son algunas opciones: 
+Asegura que el proveedor de correo electrónico utiliza el protocolo de transferencia de hipertexto seguro (HTTPS). Con este protocolo la información es encriptada en tránsito desde el navegador web al servidor. Si la persona con la que te comunicas utiliza el mismo protocolo, la información será protegida de extremo a extremo. Si estás en riesgo extremo, sientes vigilancia y requieres privacidad, quizá sea mejor no transmitir información por correo electrónico. De lo contrario, aprender a cifrar información en el cuerpo de un correo electrónico. Estas son algunas opciones: 
 
 ## OpenPGP
 ### Pros: 
 1. Se basa en la tecnología clásica de cifrado asimétrico PGP. 
 
-2. Prácticamente no hay manera de que un adversario leer un mensaje cifrado con OpenPGP. 
+2. Prácticamente no hay manera de que un adversario leer un mensaje cifrado con OpenPGP.
 
-3. Una vez instalado, es bastante fácil de usar. 
+3. Tendrá dos claves, una privada y una pública. Todo el mundo puede tener su clave pública, pero sólo tú debes tener acceso a su clave privada. 
 
-4. Puede cifrar los archivos con la tecnología PGP.
+4. Una vez instalado, es bastante fácil de usar. 
+
+5. Puede cifrar los archivos con la tecnología PGP.
 
 ### Contras: 
+
 1. La instalación de OpenPGP no es muy fácil. Es necesario seguir cuidadosamente las instrucciones para instalar el software. 
 
-2. Tendrá dos claves, una privada y una pública. Todo el mundo puede tener su clave pública, pero sólo usted debe tener acceso a su clave privada. 
+2. Si pierdes la contraseña de acceso a tu llave privada, o la misma llave privada, ya no podrás desencriptar tus archivos encriptados.
 
 ### Tutoriales:
 - [Cómo usar PGP para Mac OS X](http://bit.ly/1Rhx7JK)
@@ -57,7 +60,7 @@ Asegura que el proveedor de correo electrónico utiliza el protocolo de transfer
 ## ProtonMail
 
 ### Pros:
-1.Es una herramienta gratuita con servidores altamente protegidas en Suiza. 
+1.Es una herramienta con una versión gratuita con servidores altamente protegidas en Suiza. 
 
 2. Los correos electrónicos se aseguran con el cifrado de extremo a extremo. 
 
@@ -70,9 +73,6 @@ Asegura que el proveedor de correo electrónico utiliza el protocolo de transfer
 6. Utiliza fuentes abiertas estándar de cifrado PGP. 
 
 7. Es fácil de usar.
-
-### Contras:
-1. Es necesario esperar algunas semanas para obtener una cuenta ProtonMail.
 
 ### Tutorial:
 - [ProtonMail Support](http://bit.ly/1QqZKUe)
@@ -87,9 +87,8 @@ Asegura que el proveedor de correo electrónico utiliza el protocolo de transfer
 3. Se recomienda el uso de una fuerte frase de contraseña para desencriptar mensajes.
 
 ### Contras: 
-1. Si su ordenador o su navegador ha sido hackeado, con el tiempo adversarios podrían tener acceso a su clave privada y tratar de descifrar la contraseña para desencriptar mensajes de correo electrónico. Su contraseña es su última línea de defensa. 
+1. Si tu ordenador o tu navegador ha sido hackeado, con el tiempo quienes realizaron el ataque podrían buscar acceso a tu clave privada y tratar de descifrar la contraseña para desencriptar mensajes de correo electrónico. Su contraseña es su última línea de defensa. 
 
-2. Las claves de Mailvelope no se pueden utilizar para cifrar y descifrar archivos.
 
 ### Tutorial:
 - [¿Cómo instalar y utilizar Mailvelope](http://bit.ly/1QcuOIM)
@@ -118,20 +117,15 @@ Asegura que el proveedor de correo electrónico utiliza el protocolo de transfer
 ###Pros: 
 1. Peerio es un software de código abierto, fácil de usar, que ofrece un sistema de cifrado de alto nivel. 
 
-2. Peerio crea un par de claves, una pública y una privada y usarlos de forma automática para el usuario para enviar o leer mensajes cifrados. Los usuarios también pueden se pueden cifrar archivos y enviarlos de forma segura a través de Peerio. 
+2. Peerio crea un par de claves, una pública y una privada y usarlos de forma automática en el envío o lectura de mensajes cifrados. Peerio también es útil para cifrar archivos y enviarlos de forma segura a través de la plataforma. 
 
-3. La plataforma se puede utilizar como un repositorio de archivos cifrados. Los archivos no sólo se cifran para viajar de forma segura desde un extremo al otro, sino que también están codificadas específicamente a la clave pública del receptor. De esta manera, nadie más que el destinatario puede descifrar y leer. 
+3. La plataforma se puede utilizar como un repositorio de archivos cifrados. Los archivos no sólo se cifran para viajar de forma segura desde el origen hasta el destino, sino que también están codificadas específicamente a la clave pública de la persona receptora. De esta manera, nadie más que la persona destinataria puede descifrar y leer el archivo. 
 
-4. Hay otras características que pueden ser atractivos para los periodistas. Peerio produce una imagen de usuario única para cada usuario, para que pueda reconocer si la persona que desea intercambiar mensajes es auténtica y no un impostor. 
+4. Hay otras características que pueden ser atractivas para ti. Peerio produce un avatar único para cada persona usuaria. El avatar sirve para reconocer la autenticidad del mensaje. 
 
-5. Peerio produce códigos de acceso muy difícil de descifrar. Para mejorar la privacidad del usuario, Peerio no almacena el código de acceso. 
+5. Peerio produce códigos de acceso muy difícil de hackear, pero no los almacena por razones de seguridad. 
 
-6. Es una diferencia importante con servicios de correo electrónico donde la empresa conoce y tiendas tanto el nombre de usuario y la contraseña. 
-
-7. Peerio también permite una autenticación de dos factores, uniendo el dispositivo móvil del usuario a la cuenta para proporcionar más seguridad.
-
-### Contras:
-1. Peerio está todavía en fase beta. Si desea enviar documentos o mensajes extremadamente sensibles, es posible que desee para tratar de OpenPGP en su lugar.
+6. Peerio también permite una autenticación de dos factores, lo que proporciona más seguridad.
 
 ### Tutorial:
 - [Como utilizar Peerio](http://bit.ly/23s0DTP)
