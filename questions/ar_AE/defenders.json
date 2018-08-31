@@ -1,0 +1,368 @@
+{
+  "pages": [
+    {
+      "type": "double-column",
+      "questions":[
+
+        {
+          "score": true,
+          "name": "ind_defender_gender",
+          "input": "radio",
+          "title": "Elige una opción:",
+          "instruction":"",
+          "options":[
+            {
+              "option":"Hombre",
+              "value": 1
+            },
+            {
+              "option":"Mujer",
+              "value": 4
+            }
+          ],
+          "required":true
+        },
+
+
+        {
+          "score": true,
+          "name": "ind_defender_minority",
+          "input": "radio",
+          "title": "Entendemos que, en ocasiones, la pertenencia a comunidades minoritarias o vulnerables puede aumentar el riesgo. La siguiente pregunta es opcional y puedes continuar si decides no responder. Por favor elige las opciones que apliquen:",
+          "instruction":"",
+          "options":[
+            {
+              "option": "Pertenezco a una comunidad de la diversidad sexual",
+              "value": 3
+            },
+            {
+              "option": "Pertenezco a una comunidad vulnerable",
+              "value": 2
+            }
+          ],
+          "required":true
+        },
+
+
+        {
+          "score": true,
+          "name": "ind_defender_area",
+          "input": "radio",
+          "title": "Todos las personas defensoras comparten el mismo riesgo. Sin embargo, algunas posiciones enfrentan más riesgo que otras. Por favor define en qué áreas trabajas. Elige las opciones que apliquen",
+          "instruction":"",
+          "options":[
+            {
+              "option": "Áreas de promoción (gerencia de comunidades, redes sociales, visualización de datos)",
+              "value": 3
+            },
+            {
+              "option": "Áreas de defensa",
+              "value": 4
+            },
+            {
+              "option": "Investigación de casos y dirección",
+              "value": 5
+            }
+          ],
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "ind_defender_aggression",
+          "input": "radio",
+          "title": "¿Has recibido una amenaza o sufriste una agresión como persona defensora en el último año?",
+          "instruction":"",
+          "options":[
+            {
+              "option": "Sí",
+              "value": 2
+            },
+            {
+              "option": "No",
+              "value": 5
+            }
+          ],
+          "required":true
+        },
+
+        {
+          "score": true,
+          "name": "ind_defender_aggression_colleague",
+          "input": "radio",
+          "title": "¿Personas defensoras de tu organización u otras organizaciones recibieron una amenaza o experimentaron una agresión en el último año?",
+          "instruction":"",
+          "options":[
+            {
+              "option": "Sí",
+              "value": 2
+            },
+            {
+              "option": "No",
+              "value": 5
+            }
+          ],
+          "required":true
+        }
+      ]
+    },
+    {
+      "type":"table-multiradio",
+      "title": "Situación emocional",
+      "instruction":"Por favor elige una opción",
+      "options":[
+        {
+          "option": "Nunca",
+          "value" : "2"
+        },
+        {
+          "option": "A veces",
+          "value" : "3"
+        },
+        {
+          "option": "Con frecuencia",
+          "value" : "4"
+        },
+        {
+          "option": "A diario",
+          "value" : "5"
+        }
+      ],
+      "questions":[
+        {
+          "score": true,
+          "name": "ind_defender_emotional_cond",
+          "title": "¿Sientes que tu condición emocional está afectada por tu trabajo?",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "ind_defender_emotional_attention",
+          "title": "¿Sigues practicas de autocuidado emocional? (explicar)",
+          "required":true
+        }
+      ]
+    },
+    {
+      "type":"table-multiradio",
+      "title": "Situación de seguridad",
+      "instruction":"Por favor elige una opción",
+      "options":[
+        {
+          "option": "Nunca",
+          "value" : "2"
+        },
+        {
+          "option": "A veces",
+          "value" : "3"
+        },
+        {
+          "option": "Con frecuencia",
+          "value" : "4"
+        },
+        {
+          "option": "A diario",
+          "value" : "5"
+        }
+      ],
+      "questions":[
+        {
+          "score": true,
+          "name": "ind_defender_police_crime",
+          "title": "¿Te involucras en investigaciones de casos graves como ejecución extrajudicial, desaparición, tortura?",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "ind_defender_risk_areas",
+          "title": "¿Con qué frecuencia acudes a zonas consideradas de alto riesgo?",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "ind_defender_info_risk",
+          "title": "¿Con qué frecuencia recibes información que puede poner en riesgo tu seguridad?",
+          "required":true
+        }
+      ]
+    },
+    {
+      "type":"table-multiradio",
+      "title": "Situación profesional",
+      "instruction":"Por favor elige una opción",
+      "options":[
+        {
+          "option": "Siempre",
+          "value" : "2"
+        },
+        {
+          "option": "Con frecuencia",
+          "value" : "3"
+        },
+        {
+          "option": "A veces",
+          "value" : "4"
+        },
+        {
+          "option": "Nunca",
+          "value" : "5"
+        }
+      ],
+      "questions":[
+        {
+          "score": true,
+          "name": "ind_defender_planning",
+          "title": "¿Qué tanto planificas tus investigaciones?",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "ind_defender_info_verif",
+          "title": "¿Con qué frecuencia verificas la información que consigues?",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "ind_defender_ethical",
+          "title": "¿Con qué frecuencia utilizas un código ético en el trabajo?",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "ind_defender_proto_security",
+          "title": "¿Usas protocolos de seguridad?",
+          "required":true
+        }
+      ]
+    },
+    {
+      "type":"table-multiradio",
+      "title": "Seguridad de redes",
+      "instruction":"",
+      "options":[
+        {
+          "option": "Excelente",
+          "value" : "2"
+        },
+        {
+          "option": "Buena",
+          "value" : "3"
+        },
+        {
+          "option": "Regular",
+          "value" : "4"
+        },
+        {
+          "option": "Mala",
+          "value" : "5"
+        }
+      ],
+      "questions":[
+        {
+          "score": true,
+          "name": "ind_defender_communication_in",
+          "title": "Califica la comunicación interna en la organización",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "ind_defender_communication_out",
+          "title": "Califica la comunicación externa con personas defensoras de otras organizaciones",
+          "required":true
+        }
+      ]
+    },
+    {
+      "type":"table-multiradio",
+      "title": "Seguridad laboral",
+      "instruction":"Por favor elige una opción",
+      "options":[
+        {
+          "option": "Excelente",
+          "value" : "2"
+        },
+        {
+          "option": "Buena",
+          "value" : "3"
+        },
+        {
+          "option": "Regular",
+          "value" : "4"
+        },
+        {
+          "option": "Mala",
+          "value" : "5"
+        }
+      ],
+      "questions":[
+        {
+          "score": true,
+          "name": "ind_defender_work_condition",
+          "title": "¿Califica tu condición laboral (sueldo, prestaciones)?",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "ind_defender_org_security",
+          "title": "Califica la voluntad de tu organización para mejorar tu seguridad",
+          "required":true
+        }
+      ]
+    },
+    {
+      "type":"table-multiradio",
+      "title": "Seguridad digital. Califica tu habilidad en seguridad digital",
+      "instruction":"Elige una opción",
+      "options":[
+        {
+          "option": "Avanzada",
+          "value" : "2"
+        },
+        {
+          "option": "Intermedia",
+          "value" : "3"
+        },
+        {
+          "option": "Básica",
+          "value" : "4"
+        },
+        {
+          "option": "Ninguna",
+          "value" : "5"
+        }
+      ],
+      "questions":[
+        {
+          "score": true,
+          "name": "ind_defender_password",
+          "title": "Contraseñas fuertes",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "ind_defender_anon_navigation",
+          "title": "Navegación anónima",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "ind_defender_encrypted_mail",
+          "title": "Correo encriptado",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "ind_defender_encrypted_chat",
+          "title": "Chat Encriptado (Pidgin, Adium, Signal, Peerio)",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "ind_defender_encrypted_calls",
+          "title": "Llamadas encriptadas",
+          "required":true
+        }
+
+      ]
+    }
+  ]
+}
