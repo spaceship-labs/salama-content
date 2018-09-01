@@ -6,7 +6,7 @@
 
         {
           "score": true,
-          "name": "ind_journalist_gender",
+          "name": "gender",
           "input": "radio",
           "title": "Elige una opción:",
           "instruction":"",
@@ -26,7 +26,7 @@
 
         {
           "score": true,
-          "name": "ind_journalist_minority",
+          "name": "minority",
           "input": "radio",
           "title": "Entendemos que, en ocasiones, la pertenencia a comunidades minoritarias o vulnerables puede aumentar el riesgo. La siguiente pregunta es opcional y puedes continuar si decides no responder. Por favor elige las opciones que apliquen:",
           "instruction":"",
@@ -38,6 +38,10 @@
             {
               "option": "Pertenezco a una comunidad vulnerable",
               "value": 2
+            },
+            {
+              "option": "Ambos",
+              "value": 4
             }
           ],
           "required":true
@@ -46,7 +50,7 @@
 
         {
           "score": true,
-          "name": "ind_journalist_area",
+          "name": "job",
           "input": "radio",
           "title": "Todos los periodistas o personas empleadas por un medio comparten el mismo riesgo. Sin embargo, algunas posiciones enfrentan más riesgo que otras. Por favor define en qué áreas trabajas. Elige las opciones que apliquen.",
           "instruction":"",
@@ -72,7 +76,7 @@
         },
         {
           "score": true,
-          "name": "ind_journalist_aggression",
+          "name": "threat_individual",
           "input": "radio",
           "title": "¿Has recibido una amenaza o sufriste una agresión como periodista en el último año?",
           "instruction":"",
@@ -91,7 +95,7 @@
 
         {
           "score": true,
-          "name": "ind_journalist_aggression_colleague",
+          "name": "threat_collegues",
           "input": "radio",
           "title": " ¿Colegas de tu medio o de otros medios en tu municipio, estado o región, recibieron una amenaza o experimentaron una agresión en el último año?",
           "instruction":"",
@@ -134,13 +138,13 @@
       "questions":[
         {
           "score": true,
-          "name": "ind_journalist_emotional_cond",
+          "name": "emotional_cond",
           "title": "¿Sientes que tu condición emocional está afectada por tu trabajo?",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_journalist_emotional_attention",
+          "name": "emotional_attention",
           "title": "¿Sigues practicas de autocuidado emocional? (meditación, yoga, terapia psicológica, etcétera)",
           "required":true
         }
@@ -153,43 +157,43 @@
       "options":[
         {
           "option": "Nunca",
-          "value" : "1"
-        },
-        {
-          "option": "A veces",
           "value" : "2"
         },
         {
-          "option": "Con frecuencia",
+          "option": "A veces",
           "value" : "3"
         },
         {
-          "option": "A diario",
+          "option": "Con frecuencia",
           "value" : "4"
+        },
+        {
+          "option": "A diario",
+          "value" : "5"
         }
       ],
       "questions":[
         {
           "score": true,
-          "name": "ind_journalist_police_crime",
+          "name": "security_police",
           "title": "¿Cubres notas de policía y crimen?",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_journalist_corruption",
+          "name": "security_corruption",
           "title": "¿Cubre hechos de corrupción?",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_journalist_risk_areas",
+          "name": "security_zone",
           "title": "¿Con qué frecuencia acudes a zonas consideradas de alto riesgo?",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_journalist_info_risk",
+          "name": "security_information",
           "title": "¿Con qué frecuencia recibes información que puede poner en riesgo tu seguridad?",
           "required":true
         }
@@ -220,19 +224,19 @@
       "questions":[
         {
           "score": true,
-          "name": "ind_journalist_censor_in",
+          "name": "censorship_out",
           "title": "¿Recibes presiones externas para censurar tu información?",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_journalist_censor_out",
+          "name": "censorship_in",
           "title": "¿Recibes presiones internas para censurar tu información?",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_journalist_auto_censor",
+          "name": "censorship_auto",
           "title": "¿Practicas autocensura?",
           "required":true
         }
@@ -263,25 +267,25 @@
       "questions":[
         {
           "score": true,
-          "name": "ind_journalist_planning",
+          "name": "profesional_plan",
           "title": "¿Qué tanto planificas tus investigaciones?",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_journalist_info_verify",
+          "name": "profesional_information",
           "title": "¿Con qué frecuencia verificas la información que consigues?",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_journalist_ethical",
+          "name": "profesional_etic",
           "title": "¿Con qué frecuencia utilizas los valores éticos del periodismo antes de publicar la información que consigues?",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_journalist_proto_security",
+          "name": "profesional_protocols",
           "title": "¿Usas protocolos de seguridad?",
           "required":true
         }
@@ -312,13 +316,13 @@
       "questions":[
         {
           "score": true,
-          "name": "ind_journalist_communication_in",
+          "name": "network_collegues_in",
           "title": "Califica la comunicación interna en tu medio",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_journalist_communication_out",
+          "name": "network_collegues_out",
           "title": "Califica la comunicación externa con colegas de otros medios",
           "required":true
         }
@@ -349,13 +353,13 @@
       "questions":[
         {
           "score": true,
-          "name": "ind_journalist_work_condition",
+          "name": "laboral_condition",
           "title": "¿Califica tu condición laboral (sueldo, prestaciones)?",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_journalist_org_security",
+          "name": "laboral_will",
           "title": "Califica la voluntad de tu organización para mejorar tu seguridad",
           "required":true
         }
@@ -368,43 +372,49 @@
       "options":[
         {
           "option": "Avanzada",
-          "value" : "2"
+          "value" : "5"
         },
         {
           "option": "Intermedia",
-          "value" : "3"
+          "value" : "10"
         },
         {
           "option": "Básica",
-          "value" : "4"
+          "value" : "15"
         },
         {
           "option": "Ninguna",
-          "value" : "5"
+          "value" : "20"
         }
       ],
       "questions":[
         {
           "score": true,
-          "name": "ind_journalist_anon_navigation",
+          "name": "digital_passwords",
+          "title": "Contraseñas fuertes",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "digital_navigation",
           "title": "Navegación anónima",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_journalist_encrypted_mail",
+          "name": "digital_mail",
           "title": "Correo encriptado",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_journalist_encrypted_chat",
+          "name": "digital_chat",
           "title": "Chat Encriptado (Pidgin, Adium, Signal, Peerio)",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_journalist_encrypted_calls",
+          "name": "digital_calls",
           "title": "Llamadas encriptadas",
           "required":true
         }
