@@ -6,7 +6,7 @@
 
         {
           "score": true,
-          "name": "ind_defender_gender",
+          "name": "gender",
           "input": "radio",
           "title": "Elige una opción:",
           "instruction":"",
@@ -26,7 +26,7 @@
 
         {
           "score": true,
-          "name": "ind_defender_minority",
+          "name": "minority",
           "input": "radio",
           "title": "Entendemos que, en ocasiones, la pertenencia a comunidades minoritarias o vulnerables puede aumentar el riesgo. La siguiente pregunta es opcional y puedes continuar si decides no responder. Por favor elige las opciones que apliquen:",
           "instruction":"",
@@ -38,6 +38,10 @@
             {
               "option": "Pertenezco a una comunidad vulnerable",
               "value": 2
+            },
+            {
+              "option": "Ambos",
+              "value": 4
             }
           ],
           "required":true
@@ -46,7 +50,7 @@
 
         {
           "score": true,
-          "name": "ind_defender_area",
+          "name": "job",
           "input": "radio",
           "title": "Todos las personas defensoras comparten el mismo riesgo. Sin embargo, algunas posiciones enfrentan más riesgo que otras. Por favor define en qué áreas trabajas. Elige las opciones que apliquen",
           "instruction":"",
@@ -68,7 +72,7 @@
         },
         {
           "score": true,
-          "name": "ind_defender_aggression",
+          "name": "threat_individual",
           "input": "radio",
           "title": "¿Has recibido una amenaza o sufriste una agresión como persona defensora en el último año?",
           "instruction":"",
@@ -87,7 +91,7 @@
 
         {
           "score": true,
-          "name": "ind_defender_aggression_colleague",
+          "name": "threat_collegues",
           "input": "radio",
           "title": "¿Personas defensoras de tu organización u otras organizaciones recibieron una amenaza o experimentaron una agresión en el último año?",
           "instruction":"",
@@ -130,13 +134,13 @@
       "questions":[
         {
           "score": true,
-          "name": "ind_defender_emotional_cond",
+          "name": "emotional_cond",
           "title": "¿Sientes que tu condición emocional está afectada por tu trabajo?",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_defender_emotional_attention",
+          "name": "censorship_inemotional_attention",
           "title": "¿Sigues practicas de autocuidado emocional? (explicar)",
           "required":true
         }
@@ -167,19 +171,19 @@
       "questions":[
         {
           "score": true,
-          "name": "ind_defender_police_crime",
+          "name": "security_police",
           "title": "¿Te involucras en investigaciones de casos graves como ejecución extrajudicial, desaparición, tortura?",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_defender_risk_areas",
+          "name": "security_zone",
           "title": "¿Con qué frecuencia acudes a zonas consideradas de alto riesgo?",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_defender_info_risk",
+          "name": "security_information",
           "title": "¿Con qué frecuencia recibes información que puede poner en riesgo tu seguridad?",
           "required":true
         }
@@ -210,25 +214,25 @@
       "questions":[
         {
           "score": true,
-          "name": "ind_defender_planning",
+          "name": "profesional_plan",
           "title": "¿Qué tanto planificas tus investigaciones?",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_defender_info_verif",
+          "name": "profesional_information",
           "title": "¿Con qué frecuencia verificas la información que consigues?",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_defender_ethical",
+          "name": "profesional_etic",
           "title": "¿Con qué frecuencia utilizas un código ético en el trabajo?",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_defender_proto_security",
+          "name": "profesional_protocols",
           "title": "¿Usas protocolos de seguridad?",
           "required":true
         }
@@ -259,13 +263,13 @@
       "questions":[
         {
           "score": true,
-          "name": "ind_defender_communication_in",
+          "name": "network_collegues_in",
           "title": "Califica la comunicación interna en la organización",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_defender_communication_out",
+          "name": "network_collegues_out",
           "title": "Califica la comunicación externa con personas defensoras de otras organizaciones",
           "required":true
         }
@@ -296,13 +300,13 @@
       "questions":[
         {
           "score": true,
-          "name": "ind_defender_work_condition",
+          "name": "laboral_condition",
           "title": "¿Califica tu condición laboral (sueldo, prestaciones)?",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_defender_org_security",
+          "name": "laboral_will",
           "title": "Califica la voluntad de tu organización para mejorar tu seguridad",
           "required":true
         }
@@ -315,49 +319,49 @@
       "options":[
         {
           "option": "Avanzada",
-          "value" : "2"
+          "value" : "5"
         },
         {
           "option": "Intermedia",
-          "value" : "3"
+          "value" : "10"
         },
         {
           "option": "Básica",
-          "value" : "4"
+          "value" : "15"
         },
         {
           "option": "Ninguna",
-          "value" : "5"
+          "value" : "20"
         }
       ],
       "questions":[
         {
           "score": true,
-          "name": "ind_defender_password",
+          "name": "digital_passwords",
           "title": "Contraseñas fuertes",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_defender_anon_navigation",
+          "name": "digital_navigation",
           "title": "Navegación anónima",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_defender_encrypted_mail",
+          "name": "digital_mail",
           "title": "Correo encriptado",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_defender_encrypted_chat",
+          "name": "digital_chat",
           "title": "Chat Encriptado (Pidgin, Adium, Signal, Peerio)",
           "required":true
         },
         {
           "score": true,
-          "name": "ind_defender_encrypted_calls",
+          "name": "digital_calls",
           "title": "Llamadas encriptadas",
           "required":true
         }
