@@ -200,6 +200,16 @@
     "path": "sinformation"
   },
   {
+    "language": "ar_AR",
+    "date": "2016-03-07 14:50 -0600",
+    "author": "a.",
+    "description": "Terminos y condiciones.",
+    "category": "otros",
+    "published": true,
+    "title": "Terminos",
+    "path": "terms"
+  },
+  {
     "language": "ar_AE",
     "date": "2016-03-21 15:39 -0600",
     "author": "author",
@@ -460,6 +470,16 @@
     "path": "sinformation"
   },
   {
+    "language": "es_MX",
+    "date": "2016-03-07 14:50 -0600",
+    "author": "a.",
+    "description": "Terminos y condiciones.",
+    "category": "otros",
+    "published": true,
+    "title": "Terminos",
+    "path": "terms"
+  },
+  {
     "language": "en_US",
     "date": "2016-03-13 11:11 -0600",
     "author": "author",
@@ -718,6 +738,16 @@
     "published": true,
     "title": "¿Estás listo para manejar información sensible?",
     "path": "sinformation"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-07 14:50 -0600",
+    "author": "a.",
+    "description": "Terminos y condiciones.",
+    "category": "otros",
+    "published": true,
+    "title": "Terminos",
+    "path": "terms"
   },
   {
     "language": "es_MX",
