@@ -16,16 +16,14 @@ Pasos inmediatos:
 - **Action 3**: Crea o únete a redes de confianza.
 
 - **Acción 4**: Familiarízate con estas organizaciones en caso de que llegues a requerir de su ayuda:
-
- - [Committee to Protect Journalists](https://www.cpj.org/campaigns/assistance/how-to-get-help.php)
-
- - [Reporters Without Borders](http://en.rsf.org/a-hotline-for-journalists-in-17-04-2007,21749.html)
-
- - [International News Safety Institute](http://www.newssafety.org/contact/) 
-
- - [Article 19](http://www.article19.org/pages/en/contact-us.html)
-
- - [Rory Peck Trust](https://rorypecktrust.org/Contact)
+  - [Committee to Protect Journalists](https://www.cpj.org/campaigns/assistance/how-to-get-help.php)
+  - [Reporters Without Borders](http://en.rsf.org/a-hotline-for-journalists-in-17-04-2007,21749.html) 
+  - [International News Safety Institute](http://www.newssafety.org/contact/) 
+  - [Article 19](http://www.article19.org/pages/en/contact-us.html)
+  - [Rory Peck Trust](https://rorypecktrust.org/Contact)
+  - [Amnistía Internacional] (https://www.amnesty.org/en/about-us/contact/)
+  - [Human Rights Action Center] (https://www.humanrightsactioncenter.com/)
+  - [Human Rights Watch] (https://www.hrw.org/contact-us)
 
 - Otras acciones:
   1.  Crea o revisa tu estrategia de seguridad. 
