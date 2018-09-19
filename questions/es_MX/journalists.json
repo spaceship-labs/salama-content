@@ -419,6 +419,71 @@
           "required":true
         }
       ]
+    },
+    {
+      "type": "double-column",
+      "optional":"true",
+      "legend-optional":"¿Te gustaría ayudarnos a mejorar la encuesta?",
+      "questions":[
+        {
+         "name": "personalized_training",
+         "input":"checkbox",
+         "title": "Entrenamiento personalizado",
+         "instruction":"Si, deseo recibir entrenamiento individualizado"
+        },
+        {
+          "name": "email",
+          "input": "text",
+          "title": "Correo electrónico",
+          "instruction": "Por favor anota algún correo de contacto",
+          "placeholder": "Escribe tu correo",
+          "required":true
+        },
+        {
+          "name": "medium",
+          "input": "text",
+          "title": "Medio",
+          "instruction": "Por favor anota el nombre de tu medio de comunicación (si eres periodista independiente, escribe esas palabras)",
+          "placeholder": "Escribe tu respuesta",
+          "required":true
+        },
+        {
+          "name": "location",
+          "input": "text",
+          "title": "Municipio y Estado (Provincia o Departamento)",
+          "instruction": "Por favor escribe el nombre de tu municipio y departamento. Ejemplo: Pueblo Nuevo, Estelí",
+          "placeholder": "Escribe tu respuesta",
+          "required":true
+        },
+        {
+          "name":  "job",
+          "input": "multi-checkbox",
+          "title": "Puesto",
+          "instruction": "Todos los periodistas o trabajadores de medios comparten los mismos riesgos. Sin embargo algunas posiciones enfrentan más riesgo que otras. Por favor define en qué área trabajas. Elige las opciones que apliquen.",
+          "options":[
+            {
+              "option": "Producción y circulación",
+              "value": "Producción y circulación"
+            },
+            {
+              "option": "Gerencia de comunidades",
+              "value": "Gerencia de comunidades"
+            },
+            {
+              "option": "Editor",
+              "value": "Editor"
+            },
+            {
+              "option": "Director",
+              "value": "Director"
+            },
+            {
+              "option": "Reportero, fotógrafo o bloguero",
+              "value": "Reportero, fotógrafo o bloguero"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
