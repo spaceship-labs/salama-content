@@ -1,53 +1,60 @@
 {
   "pages": [
     {
-      "type": "double-column",
-      "questions":[
-
+      "type": "options-icon",
+      "title": "Elige una opción",
+      "questions": [
         {
           "score": true,
           "name": "gender",
-          "input": "radio",
-          "title": "Elige una opción:",
-          "instruction":"",
           "options":[
             {
-              "option":"Hombre",
-              "value": 1
+              "option":"Mujer",
+              "value": 4,
+              "icon": "women"
             },
             {
-              "option":"Mujer",
-              "value": 4
+              "option":"Hombre",
+              "value": 1,
+              "icon": "men"
             }
           ],
           "required":true
-        },
-
-
+        }
+      ]
+    },
+    {
+      "type": "options-icon",
+      "pretitle1": "Entendemos que las personas defensoras, en particular las mujeres, pertenecen a una comunidad vulnerable. Sin embargo, si la persona pertenece a otra comunidad vulnerable o minoritaria (como ser indígena, persona de la tercera edad, con capacidades diferentes, etc.), su  riesgo puede aumentar. ",
+      "pretitle2": "La siguiente pregunta es opcional y puedes continuar si decides no responder.",
+      "title": "Por favor elige todas las opciones que apliquen",
+      "multiple": true,
+      "max": 4,
+      "questions": [
         {
-          "score": true,
           "name": "minority",
-          "input": "radio",
-          "title": "Entendemos que, en ocasiones, la pertenencia a comunidades minoritarias o vulnerables puede aumentar el riesgo. La siguiente pregunta es opcional y puedes continuar si decides no responder. Por favor elige las opciones que apliquen:",
           "instruction":"",
           "options":[
             {
+
+              "icon": "min1",
               "option": "Pertenezco a una comunidad de la diversidad sexual",
               "value": 3
             },
             {
-              "option": "Pertenezco a una comunidad vulnerable",
+              "icon": "min2",
+              "option": "Pertenezco a otra comunidad en situación de vulnerabilidad.",
               "value": 2
-            },
-            {
-              "option": "Ambos",
-              "value": 4
             }
-          ],
-          "required":true
-        },
+          ]
+        }
 
+      ]
+    },
 
+    {
+      "type": "double-column",
+      "questions":[
         {
           "score": true,
           "name": "job",
@@ -75,6 +82,10 @@
           "name": "threat_individual",
           "input": "radio",
           "title": "¿Has recibido una amenaza o sufriste una agresión como persona defensora en el último año?",
+          "tooltip": {
+            "amenaza": "La posibilidad de que algo o alguien dañe la integridad física, psicológica, moral o financiera a través de una acción violenta.",
+            "agresión": "Acto intencional o accidental, usualmente violento, que daña la integridad física, psicológica, moral o financiera"
+          },
           "instruction":"",
           "options":[
             {
@@ -93,7 +104,7 @@
           "score": true,
           "name": "threat_collegues",
           "input": "radio",
-          "title": "¿Personas defensoras de tu organización u otras organizaciones recibieron una amenaza o experimentaron una agresión en el último año?",
+          "title": "¿Personas defensoras de tu organización u otras organizaciones, o las personas beneficiarias, recibieron una amenaza o experimentaron una agresión en el último año?",
           "instruction":"",
           "options":[
             {
@@ -141,7 +152,7 @@
         {
           "score": true,
           "name": "censorship_inemotional_attention",
-          "title": "¿Sigues practicas de autocuidado emocional? (explicar)",
+          "title": "¿Sigues practicas de autocuidado emocional? (rutinas que ayudan a la relajación y a mantener la salud emocional y física como la yoga, el taichi, la meditación, etc.)",
           "required":true
         }
       ]
@@ -172,7 +183,7 @@
         {
           "score": true,
           "name": "security_police",
-          "title": "¿Te involucras en investigaciones de casos graves como ejecución extrajudicial, desaparición, tortura?",
+          "title": "¿Te involucras en investigaciones de violaciones graves como ejecución extrajudicial, desaparición, tortura?",
           "required":true
         },
         {
@@ -215,7 +226,7 @@
         {
           "score": true,
           "name": "profesional_plan",
-          "title": "¿Qué tanto planificas tus investigaciones?",
+          "title": "¿Qué tanto planificas tus investigaciones (documentales y de trabajo de campo)?",
           "required":true
         },
         {
@@ -227,7 +238,7 @@
         {
           "score": true,
           "name": "profesional_etic",
-          "title": "¿Con qué frecuencia utilizas un código ético en el trabajo?",
+          "title": "¿Con qué frecuencia aplicas principios y/o códigos de ética en la organización?",
           "required":true
         },
         {
@@ -265,6 +276,10 @@
           "score": true,
           "name": "network_collegues_in",
           "title": "Califica la comunicación interna en la organización",
+          "tooltip": {
+            "comunicación": "Usualmente cuando la organización funciona de manera incluyente y estimula la expresión de todos los puntos de vista, así como cuando hay buena comunicación entre las personas de una misma organización",
+            "interna": "Usualmente cuando la organización funciona de manera incluyente y estimula la expresión de todos los puntos de vista, así como cuando hay buena comunicación entre las personas de una misma organización)"
+          },
           "required":true
         },
         {
@@ -307,7 +322,7 @@
         {
           "score": true,
           "name": "laboral_will",
-          "title": "Califica la voluntad de tu organización para mejorar tu seguridad",
+          "title": "Califica la voluntad de tu organización para mejorar tu seguridad (física, emocional, legal, digital)",
           "required":true
         }
       ]
