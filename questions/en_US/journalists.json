@@ -1,53 +1,59 @@
 {
   "pages": [
     {
-      "type": "double-column",
-      "questions":[
-
+      "type": "options-icon",
+      "title": "Elige una opción",
+      "questions": [
         {
           "score": true,
           "name": "gender",
-          "input": "radio",
-          "title": "Elige una opción:",
-          "instruction":"",
           "options":[
             {
-              "option":"Hombre",
-              "value": 1
+              "option":"Mujer",
+              "value": 4,
+              "icon": "women"
             },
             {
-              "option":"Mujer",
-              "value": 4
+              "option":"Hombre",
+              "value": 1,
+              "icon": "men"
             }
           ],
           "required":true
-        },
-
-
+        }
+      ]
+    },
+    {
+      "type": "options-icon",
+      "pretitle1": "Entendemos que, en ocasiones, la pertenencia a comunidades minoritarias o vulnerables puede aumentar el riesgo.",
+      "pretitle2": "La siguiente pregunta es opcional y puedes continuar si decides no responder.",
+      "title": "Por favor elige las opciones que apliquen",
+      "multiple": true,
+      "max": 4,
+      "questions": [
         {
-          "score": true,
           "name": "minority",
-          "input": "radio",
-          "title": "Entendemos que, en ocasiones, la pertenencia a comunidades minoritarias o vulnerables puede aumentar el riesgo. La siguiente pregunta es opcional y puedes continuar si decides no responder. Por favor elige las opciones que apliquen:",
           "instruction":"",
           "options":[
             {
+
+              "icon": "min1",
               "option": "Pertenezco a una comunidad de la diversidad sexual",
               "value": 3
             },
             {
+              "icon": "min2",
               "option": "Pertenezco a una comunidad vulnerable",
               "value": 2
-            },
-            {
-              "option": "Ambos",
-              "value": 4
             }
-          ],
-          "required":true
-        },
+          ]
+        }
 
-
+      ]
+    },
+    {
+      "type": "double-column",
+      "questions":[
         {
           "score": true,
           "name": "job",
@@ -417,6 +423,71 @@
           "name": "digital_calls",
           "title": "Llamadas encriptadas",
           "required":true
+        }
+      ]
+    },
+    {
+      "type": "double-column",
+      "optional":"true",
+      "legend-optional":"¿Te gustaría ayudarnos a mejorar la encuesta?",
+      "questions":[
+        {
+         "name": "personalized_training",
+         "input":"checkbox",
+         "title": "Entrenamiento personalizado",
+         "instruction":"Si, deseo recibir entrenamiento individualizado"
+        },
+        {
+          "name": "email",
+          "input": "text",
+          "title": "Correo electrónico",
+          "instruction": "Por favor anota algún correo de contacto",
+          "placeholder": "Escribe tu correo",
+          "required":true
+        },
+        {
+          "name": "medium",
+          "input": "text",
+          "title": "Medio",
+          "instruction": "Por favor anota el nombre de tu medio de comunicación (si eres periodista independiente, escribe esas palabras)",
+          "placeholder": "Escribe tu respuesta",
+          "required":true
+        },
+        {
+          "name": "location",
+          "input": "text",
+          "title": "Municipio y Estado (Provincia o Departamento)",
+          "instruction": "Por favor escribe el nombre de tu municipio y departamento. Ejemplo: Pueblo Nuevo, Estelí",
+          "placeholder": "Escribe tu respuesta",
+          "required":true
+        },
+        {
+          "name":  "job",
+          "input": "multi-checkbox",
+          "title": "Puesto",
+          "instruction": "Todos los periodistas o trabajadores de medios comparten los mismos riesgos. Sin embargo algunas posiciones enfrentan más riesgo que otras. Por favor define en qué área trabajas. Elige las opciones que apliquen.",
+          "options":[
+            {
+              "option": "Producción y circulación",
+              "value": "Producción y circulación"
+            },
+            {
+              "option": "Gerencia de comunidades",
+              "value": "Gerencia de comunidades"
+            },
+            {
+              "option": "Editor",
+              "value": "Editor"
+            },
+            {
+              "option": "Director",
+              "value": "Director"
+            },
+            {
+              "option": "Reportero, fotógrafo o bloguero",
+              "value": "Reportero, fotógrafo o bloguero"
+            }
+          ]
         }
       ]
     }
