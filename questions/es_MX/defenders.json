@@ -63,6 +63,10 @@
           "instruction":"",
           "options":[
             {
+              "option": "Administrativas",
+              "value": 2
+            },
+            {
               "option": "Áreas de promoción (gerencia de comunidades, redes sociales, visualización de datos)",
               "value": 3
             },
@@ -90,11 +94,11 @@
           "options":[
             {
               "option": "Sí",
-              "value": 2
+              "value": 5
             },
             {
               "option": "No",
-              "value": 5
+              "value": 2
             }
           ],
           "required":true
@@ -109,11 +113,11 @@
           "options":[
             {
               "option": "Sí",
-              "value": 2
+              "value": 5
             },
             {
               "option": "No",
-              "value": 5
+              "value": 2
             }
           ],
           "required":true
@@ -127,19 +131,19 @@
       "options":[
         {
           "option": "Nunca",
-          "value" : "2"
+          "value" : "5"
         },
         {
           "option": "A veces",
-          "value" : "3"
-        },
-        {
-          "option": "Con frecuencia",
           "value" : "4"
         },
         {
+          "option": "Con frecuencia",
+          "value" : "3"
+        },
+        {
           "option": "A diario",
-          "value" : "5"
+          "value" : "2"
         }
       ],
       "questions":[
