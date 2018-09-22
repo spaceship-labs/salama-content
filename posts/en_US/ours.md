@@ -6,7 +6,7 @@ description: >-
   Quienes somos.
 category: otros
 published: true
-title:ours
+title: ours
 ---
 
 # THE SALAMA PROJECT
