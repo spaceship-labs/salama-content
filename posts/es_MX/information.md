@@ -9,12 +9,14 @@ title: Las historias deben ser revisadas
 ---
 
 
-# Las historias deben ser revisadas
+# Las investigaciones deben ser revisadas
 
-Todas las historias, en especial las peligrosas, deben ser revisadas rigurosamente.
-Si tienes métodos de verificación fuertes, aumentastu propia seguridad.
+Todas las investigaciones, en especial las que implican un peligro potencial, deben ser revisadas rigurosamente. En la era de la desinformación digital, que alcanza rápidamente la condición de información viral, verificar se vuelve un principio profesional indispensable.
+
+Si tienes métodos de verificación fuertes, aumentas tu propia seguridad.
 
 Estos recursos pueden ayudarte a mejorar sus métodos de verificación:
+
 - [El periodismo como una disciplina de la verificación](http://www.americanpressinstitute.org/jo)
 - [Manual de Verificación](http://www.verificationhandbook.net)
 - [First Draft News](http://firstdraftnews.com)

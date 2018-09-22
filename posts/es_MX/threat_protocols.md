@@ -11,7 +11,7 @@ title: Protocolos para  prevenir ataques
 
 # Protocolos para  prevenir ataques
 
-Los ataques a periodistas y blogueros en zonas de alto riesgo deben ser una alerta para ti. Sugerimos que discutas con tus colegas qué protocolos de seguridad deben seguir para hacer frente a las amenazas potenciales. Las amenazas consisten en la existencia de grupos de poder o personas que puedan ser afectadas por tu trabajo periodístico o el de la ciudadanía que usa blogs y redes sociales para difundir información valiosa. Esas personas potenciales pueden tener mayor o menor capacidad de causar daños físicos, psicológicos, legales, o digitales. Estas amenazas dejan de ser potenciales y se hacen reales cuando desarrollan la intención de causar daño y elaboran un plan para infligirlo.
+Los ataques a periodistas y personas defensoras en zonas de alto riesgo deben ser una alerta para ti. Sugerimos que discutas con tus colegas qué protocolos de seguridad deben seguir para hacer frente a las amenazas potenciales. Las amenazas consisten en la existencia de grupos de poder o personas que puedan ser afectadas por tu trabajo periodístico o el de las organizaciones que defienden los derechos humanos. Esas amenazas potenciales pueden tener mayor o menor capacidad de causar daños físicos, psicológicos, legales, o digitales. En ocasiones, las amenazas dejan de ser potenciales y se hacen reales cuando desarrollan la intención de causar daño y elaboran un plan para infligirlo.
 Para conocer bien a las amenazas, debemos tener información detallada sobre ellas:
 
 - Nombre
@@ -28,6 +28,7 @@ Las amenazas digitales provienen de grupos de poder interesados en conocer, alte
 
 Recursos
 
+- [Manual de Seguridad: Pasos Prácticos para Defensores/as de Derechos Humanos en Riesgo (https://www.frontlinedefenders.org/es/resource-publication/workbook-security-practical-steps-human-rights-defenders-risk)
 
 - [Seguridad Digital y Privacidad para Defensores de Derechos Humanos](http://www.frontlinedefenders.org/digital-security)
 
