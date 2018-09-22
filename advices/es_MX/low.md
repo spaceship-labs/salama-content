@@ -20,19 +20,14 @@ Pasos inmediatos:
 - **Acción 4** : De ser posible y en caso necesario, reporta a las autoridades locales, estatales o nacionales cualquier intento o amenaza de ataque en contra tuya o de tu organización y exige medidas precautorias para proteger tu integridad física.:
 
 - **Acción 5** : Es conveniente que tengas estos contactos para contactar a cualquiera de estas organizaciones y solicitar ayuda en caso necesario:
-
- - [Committee to Protect Journalists](https://www.cpj.org/campaigns/assistance/how-to-get-help.php)
-
- - [Reporters Without Borders](http://en.rsf.org/a-hotline-for-journalists-in-17-04-2007,21749.html)
-
- - [International News Safety Institute](http://www.newssafety.org/contact/)
-
- - [Article 19](http://www.article19.org/pages/en/contact-us.html)
-
- - [Rory Peck Trust](https://rorypecktrust.org/Contact)
- 
+  - [Committee to Protect Journalists](https://www.cpj.org/campaigns/assistance/how-to-get-help.php)
+  - [Reporters Without Borders](http://en.rsf.org/a-hotline-for-journalists-in-17-04-2007,21749.html) 
+  - [International News Safety Institute](http://www.newssafety.org/contact/) 
+  - [Article 19](http://www.article19.org/pages/en/contact-us.html)
+  - [Rory Peck Trust](https://rorypecktrust.org/Contact)
   - [Amnistía Internacional] (https://www.amnesty.org/en/about-us/contact/)
-
+  - [Human Rights Action Center] (https://www.humanrightsactioncenter.com/)
+  - [Human Rights Watch] (https://www.hrw.org/contact-us)
 
 
 - **Otras acciones** :

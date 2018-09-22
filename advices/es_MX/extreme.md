@@ -26,6 +26,8 @@ Pasos inmediatos:
   - [Article 19](http://www.article19.org/pages/en/contact-us.html)
   - [Rory Peck Trust](https://rorypecktrust.org/Contact)
   - [Amnistía Internacional] (https://www.amnesty.org/en/about-us/contact/)
+  - [Human Rights Action Center] (https://www.humanrightsactioncenter.com/)
+  - [Human Rights Watch] (https://www.hrw.org/contact-us)
 
 - Otras acciones:
   
