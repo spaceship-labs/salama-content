@@ -1,7 +1,9 @@
 ---
 language: es_MX
 date: '2018-09-19 20:10 -0500'
-published: false
+published: true
+description: >-
+  Ambiente hostil.
 title: Ambiente hostil
 ---
 ## Ambiente hostil

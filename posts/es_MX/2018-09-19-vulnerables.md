@@ -1,7 +1,9 @@
 ---
 language: es_MX
 date: '2018-09-19 19:53 -0500'
-published: false
+published: true
+description: >-
+  Vulnerables.
 title: Vulnerables
 ---
 ## Comunidades en situación de vulnerabilidad
