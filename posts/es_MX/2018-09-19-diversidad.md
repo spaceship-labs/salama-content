@@ -1,7 +1,9 @@
 ---
 language: es_MX
 date: '2018-09-19 21:39 -0500'
-published: false
+published: true
+description: >-
+  Diversidad.
 title: Diversidad
 ---
 ## Comunidades de la diversidad sexual
