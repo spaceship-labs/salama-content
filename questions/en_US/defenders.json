@@ -131,19 +131,19 @@
       "options":[
         {
           "option": "Nunca",
-          "value" : "5"
+          "value" : "2"
         },
         {
           "option": "A veces",
-          "value" : "4"
-        },
-        {
-          "option": "Con frecuencia",
           "value" : "3"
         },
         {
+          "option": "Con frecuencia",
+          "value" : "4"
+        },
+        {
           "option": "A diario",
-          "value" : "2"
+          "value" : "5"
         }
       ],
       "questions":[
@@ -390,7 +390,7 @@
     {
       "type": "double-column",
       "optional":"true",
-      "legend-optional":"¿Te gustaría ayudarnos a mejorar la encuesta?",
+      "legend-optional":"¿Would you like to contact us and help us to improve our application?",
       "questions":[
         {
          "name": "personalized_training",

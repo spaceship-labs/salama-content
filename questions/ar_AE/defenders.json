@@ -131,19 +131,19 @@
       "options":[
         {
           "option": "Nunca",
-          "value" : "5"
+          "value" : "2"
         },
         {
           "option": "A veces",
-          "value" : "4"
-        },
-        {
-          "option": "Con frecuencia",
           "value" : "3"
         },
         {
+          "option": "Con frecuencia",
+          "value" : "4"
+        },
+        {
           "option": "A diario",
-          "value" : "2"
+          "value" : "5"
         }
       ],
       "questions":[

@@ -429,7 +429,7 @@
     {
       "type": "double-column",
       "optional":"true",
-      "legend-optional":"¿Te gustaría ayudarnos a mejorar la encuesta?",
+      "legend-optional":"¿Te gustaría entrar en contacto con nosotros y ayudarnos a mejorar nuestra aplicación?",
       "questions":[
         {
          "name": "personalized_training",
