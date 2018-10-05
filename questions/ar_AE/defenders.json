@@ -130,20 +130,20 @@
       "instruction":"Por favor elige una opción",
       "options":[
         {
-          "option": "Nunca",
-          "value" : "2"
-        },
-        {
-          "option": "A veces",
-          "value" : "3"
+          "option": "A diario",
+          "value" : "5"
         },
         {
           "option": "Con frecuencia",
           "value" : "4"
         },
         {
-          "option": "A diario",
-          "value" : "5"
+          "option": "A veces",
+          "value" : "3"
+        },
+        {
+          "option": "Nunca",
+          "value" : "2"
         }
       ],
       "questions":[
