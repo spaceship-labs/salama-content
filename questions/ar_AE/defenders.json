@@ -421,34 +421,6 @@
           "instruction": "Por favor escribe el nombre de tu municipio y departamento. Ejemplo: Pueblo Nuevo, Estelí",
           "placeholder": "Escribe tu respuesta",
           "required":true
-        },
-        {
-          "name":  "job",
-          "input": "multi-checkbox",
-          "title": "Puesto",
-          "instruction": "Todos los periodistas o trabajadores de medios comparten los mismos riesgos. Sin embargo algunas posiciones enfrentan más riesgo que otras. Por favor define en qué área trabajas. Elige las opciones que apliquen.",
-          "options":[
-            {
-              "option": "Producción y circulación",
-              "value": "Producción y circulación"
-            },
-            {
-              "option": "Gerencia de comunidades",
-              "value": "Gerencia de comunidades"
-            },
-            {
-              "option": "Editor",
-              "value": "Editor"
-            },
-            {
-              "option": "Director",
-              "value": "Director"
-            },
-            {
-              "option": "Reportero, fotógrafo o bloguero",
-              "value": "Reportero, fotógrafo o bloguero"
-            }
-          ]
         }
       ]
     }
