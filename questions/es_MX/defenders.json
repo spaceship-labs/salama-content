@@ -29,7 +29,7 @@
       "pretitle2": "La siguiente pregunta es opcional y puedes continuar si decides no responder.",
       "title": "Por favor elige todas las opciones que apliquen",
       "multiple": true,
-      "max": 4,
+      "max": 5,
       "questions": [
         {
           "name": "minority",
@@ -39,12 +39,12 @@
 
               "icon": "min1",
               "option": "Pertenezco a una comunidad de la diversidad sexual",
-              "value": 3
+              "value": 4
             },
             {
               "icon": "min2",
               "option": "Pertenezco a otra comunidad en situación de vulnerabilidad.",
-              "value": 2
+              "value": 3
             }
           ]
         }
@@ -130,20 +130,20 @@
       "instruction":"Por favor elige una opción",
       "options":[
         {
-          "option": "A diario",
-          "value" : "5"
-        },
-        {
-          "option": "Con frecuencia",
-          "value" : "4"
+          "option": "Nunca",
+          "value" : "2"
         },
         {
           "option": "A veces",
           "value" : "3"
         },
         {
-          "option": "Nunca",
-          "value" : "2"
+          "option": "Con frecuencia",
+          "value" : "4"
+        },
+        {
+          "option": "A diario",
+          "value" : "5"
         }
       ],
       "questions":[
@@ -210,7 +210,7 @@
       "instruction":"Por favor elige una opción",
       "options":[
         {
-          "option": "Siempre",
+          "option": "A diario",
           "value" : "2"
         },
         {
