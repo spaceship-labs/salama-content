@@ -126,19 +126,19 @@
       "options":[
         {
           "option": "A diario",
-          "value" : "4"
+          "value" : "5"
         },
         {
           "option": "Con frecuencia",
-          "value" : "3"
+          "value" : "4"
         },
         {
           "option": "A veces",
-          "value" : "2"
+          "value" : "3"
         },
         {
           "option": "Nunca",
-          "value" : "1"
+          "value" : "2"
         }
       ],
       "questions":[
@@ -147,7 +147,32 @@
           "name": "emotional_cond",
           "title": "¿Sientes que tu condición emocional está afectada por tu trabajo?",
           "required":true
+        }
+      ]
+    },
+    {
+      "type":"table-multiradio",
+      "title": "Autocuidado",
+      "instruction":"Por favor elige una opción",
+      "options":[
+        {
+          "option": "A diario",
+          "value" : "2"
         },
+        {
+          "option": "Con frecuencia",
+          "value" : "3"
+        },
+        {
+          "option": "A veces",
+          "value" : "4"
+        },
+        {
+          "option": "Nunca",
+          "value" : "5"
+        }
+      ],
+      "questions":[
         {
           "score": true,
           "name": "emotional_attention",
@@ -156,6 +181,8 @@
         }
       ]
     },
+
+
     {
       "type":"table-multiradio",
       "title": "Situación de seguridad",
