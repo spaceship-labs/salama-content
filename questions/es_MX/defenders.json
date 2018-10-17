@@ -152,7 +152,32 @@
           "name": "emotional_cond",
           "title": "¿Sientes que tu condición emocional está afectada por tu trabajo?",
           "required":true
+        }
+      ]
+    },
+    {
+      "type":"table-multiradio",
+      "title": "Autocuidado",
+      "instruction":"Por favor elige una opción",
+      "options":[
+        {
+          "option": "A diario",
+          "value" : "2"
         },
+        {
+          "option": "Con frecuencia",
+          "value" : "3"
+        },
+        {
+          "option": "A veces",
+          "value" : "4"
+        },
+        {
+          "option": "Nunca",
+          "value" : "5"
+        }
+      ],
+      "questions":[
         {
           "score": true,
           "name": "censorship_inemotional_attention",
