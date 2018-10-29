@@ -108,11 +108,11 @@
           "options":[
             {
               "option": "Sí",
-              "value": 1
+              "value": 4
             },
             {
               "option": "No",
-              "value": 4
+              "value": 1
             }
           ],
           "required":true
@@ -125,20 +125,16 @@
       "instruction":"Por favor elige una opción",
       "options":[
         {
-          "option": "A diario",
-          "value" : "5"
+          "option": "A veces",
+          "value" : "2"
         },
         {
           "option": "Con frecuencia",
-          "value" : "4"
-        },
-        {
-          "option": "A veces",
           "value" : "3"
         },
         {
-          "option": "Nunca",
-          "value" : "2"
+          "option": "A diario",
+          "value" : "4"
         }
       ],
       "questions":[
@@ -157,19 +153,19 @@
       "options":[
         {
           "option": "A diario",
-          "value" : "2"
+          "value" : "1"
         },
         {
           "option": "Con frecuencia",
-          "value" : "3"
+          "value" : "2"
         },
         {
           "option": "A veces",
-          "value" : "4"
+          "value" : "3"
         },
         {
           "option": "Nunca",
-          "value" : "5"
+          "value" : "4"
         }
       ],
       "questions":[
